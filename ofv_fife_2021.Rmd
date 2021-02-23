@@ -1,0 +1,130 @@
+---
+title: "For submission to the Journal of Integrated Pest Management"
+subtitle: "Category: 'Issues'"
+output: 
+  word_document:
+    reference_docx: ../r-templates/word-template-jis.docx
+# - html_document
+bibliography: 'thesis.bib'
+csl: 'j_med_entomol.csl'
+#always_allow_html: true
+---
+```{r setup, include=FALSE}
+#setup options
+knitr::opts_chunk$set(fig.width=12, fig.height=8, echo=FALSE)
+
+#a list of packages used for scripts
+pkgs <- c('captioner', 'pryr', 'tiff')
+
+#loading required packages
+lapply(pkgs, library, character.only = TRUE)
+rm(pkgs)
+
+#setting up captions for use in the document
+fig_nums <- captioner::captioner(prefix = 'Fig.')
+tab_nums <- captioner::captioner(prefix = 'Table')
+
+#allows me to use a custom function instead of the citation function of captioner, which is wordy to use
+citef <- pryr::partial(fig_nums, display = "cite")
+citet <- pryr::partial(tab_nums, display = "cite")
+```
+
+### First report of the *Brevipalpus*-transmitted (Trombidiformes: Tenuipalpidae) virus, *Orchid fleck dichorhavirus* (Mononegavirales: Rhabdoviridae) infecting various Nolinoideae in the Florida panhandle
+
+Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^4^, Kishore **Dey**^5^, Avijit **Roy**^6^, Ronald **Ochoa**^6^, Gary **Bauchan**^7^ $\dagger$, Mathews **Paret**^4^, Xavier **Martini**^1^\*
+
+^1^ University of Florida, Department of Entomology and Nematology, North Florida Research and Education Center, Quincy FL 32351
+
+^2^ University of Florida, Department of Entomology and Nematology,Tropical Research and Education Center, Homestead FL 33031
+
+^3^ University of Florida, Department of Environmental Horticulture, North Florida Research and Education Center, Quincy FL 32351
+
+^4^ University of Florida, Department of Plant Pathology, North Florida Research and Education Center, Quincy FL 32351
+
+^5^ The Florida Department of Agriculture and Consumer Services, Division of Plant Industry, Section of Plant Pathology, Doyle Conner Building, 1911 SW 34th street, Gainesville, FL 32608
+
+^6^	United States Department of Agriculture - Animal and Plant Health Inspection Service, Systematic Entomology Laboratory 10300 Baltimore Ave, Bldg. 5 BARC-West, Beltsville, MD 20705
+
+^7^	United States Department of Agriculture - Animal and Plant Health Inspection Service, Electron and Confocal Microscopy Unit, Bldg. 12  BARC-West, 10300 Baltimore Ave, Beltsville, MD 20705
+
+*Corresponding author; E-mail: xmartini\@ufl.edu Phone: 850-875-7160 Fax: 352-846-6617
+
+\pagebreak
+
+### Abstract
+Flat mites from the genus *Brevipalpus* Donnadieu (Trombidiformes: Tenuipalpidae) are the only known vectors of dichorhaviruses and transmit *Orchid fleck dichorhavirus* (OFV) in a persistent propagative manner. OFV is the type species for the genus *Dichorhavirus* and infects 50+ spp. of Orchidaceae, Nolinoideae, and *Citrus*.
+During June 2020, we observed chlorotic ringspot symptoms on Giant Lilyturf (*Liriope* spp., cv. ‘Gigantea’) in the landscape of Leon County, Florida. We tested plant samples for a wide range of pathogens and ultimately identified the pathogen as *Orchid fleck dichorhavirus*. We took further samples from other *Liriope* spp., *Ophiopogon* spp., and *Aspidistra elatior* Blume (Asparagales: Nolinoideae) in Leon and Alachua county. All symptomatic plants tested positive for OFV. We recovered *Brevipalpus* mites from OFV-infected plants, which belong to the *Brevipalpus californicus* group, but may be a new subspecies associated with Nolinoideae.
+Florida has various pest species of *Brevipalpus* and a diverse array of susceptible plant species in the landscape, both native and introduced. We suggest that OFV has a wide distribution in Florida which will continue to spread if unchecked, representing a potential threat for many plants of economic importance for Florida.
+
+### Keywords:
+false spider mite, flat mite, Brevipalpus-transmitted viruses, Liriope, Ruscaceae, Asparagaceae, orchid, Orchidaceae, pests, ornamental plants
+
+### Body Text
+*Orchid fleck dichorhavirus* (OFV) is the type species for the genus *Dichorhavirus*, a group of plant-infecting, bacilliform, nuclear rhabdoviruses composed of two segments of single-stranded, negative-sense RNA [@Amarasinghe2019; @Dietzgen2014; @Walker2018]. Other members of this genus are: *Citrus chlorotic spot dichorhavirus*, *Citrus leprosis N dichorhavirus*, *Clerodendrum chlorotic spot dichorhavirus* and *Coffee ringspot dichorhavirus* [@Dietzgen2018a]. Flat mites from the genus *Brevipalpus* Donnadieu (Trombidiformes: Tenuipalpidae) are the only known vector for dichorhaviruses [@Maeda1998]. These mites transmit OFV in a persistent propagative manner [@Kondo2003].
+
+OFV-infected plants exhibit various symptoms dependent on the variety of plant infected as well as the strain of the virus [@Kubo2009b], but symptoms typically appear as chlorotic flecks, which ultimately coalesce into larger spots or ringspot patterns (see *`r citef("fig_1")`*).
+<!-- These lesions are thought to be associated with the feeding sites of the mite vector [@cite]. Also, is it probably a sign of RNAi plant defenses: see Hull Plant Virology -->
+
+OFV was first described infecting *Cymbidium* orchids in Japan [@Doi1977]. Many countries have reported OFV and OFV-like rhabdoviruses infecting orchids worldwide [@Kondo2003], including Australia [@Lesemann1971; @Lesemann1975; @Gibbs2000], Brazil [@Kitajima1974; @Kitajima2001], China [@Peng2017], Colombia [@Kubo2009b], Costa Rica [@FreitasAstua2002], Denmark [@Begtrup1972], Fiji [@Pearson1993], France [@Sauvetre2018], Germany [@Lesemann1975; @Petzold1971], Korea [@Chang1991, @Zheng2013], Paraguay [@RamosGonzalez2015], South Africa [@Blanchfield2001], the United States [@Blanchfield2001; @Bratsch2015] and Vanuatu [@Pearson1993]. The prevalence of OFV and its mite vector is thought to be associated with the movement of infected orchids [@Dietzgen2018a].
+
+OFV naturally infects 50+ spp of Orchidaceae [@Kitajima2010; @Peng2013], some Nolinoideae [@Mei2016, @Dietzgen2018b], and *Citrus* [@BeltranBeltran2020; @GarciaEscamilla2018 @Roy2020]. Mechanical transmission of OFV is possible under lab conditions to various *Chenopodiaceae*, *Aizoaceae*, *Fabaceae*, and *Solanaceae* [@Chang1976; @Kondo2003; @Peng2013].
+
+
+On June 2020, chlorotic ringspot symptoms were observed on the liriopogon Giant Lilyturf *Liriope* spp., cv. 'Gigantea' in the landscape of Leon County, Florida (see *`r citef("fig_1")`*). Liropogons belong to the plant family Asparagaceae, subfamily Nolinoideae, which includes various monocotyledonous lilliod plants [@Chase2009]. Liriopogons are native to southeastern Asia, encompassing the closely-related genera *Liriope* and *Ophiopogon*, which are characterized by evergreen, long grass-like leaves, and erect flowers which produce black, purple or blue, berry-like fruits, depending on the cultivar [@Lattier2014; @Fantz2015]. These characteristics have given rise to various common names, including: monkey grass, Aztec grass, lilyturf, mondo grass, etc. (see *`r citet("tab_1")`*). The genus *Liriope* contains eight species, four of which are commonly cultivated, while the genus *Ophiopogon* consists of about 65 species, with only a handful which are commonly cultivated [@Lattier2014; @Nesom2010]. Liripogons are considered the most important ground cover sold by the nursery industry in southeastern US [@Mcharo2003].
+
+Plant samples were initially tested at the Plant Disease Diagnostic Clinic at the North Florida Research and Education Center (NFREC) in Quincy, FL. The plant samples were tested for a wide range of pathogens, including **[Ask Dr. Iriarte]** but the results were inconclusive. The infected materials were subsequently sent to the Florida Department of Agriculture and Consumer Services (FDACS). The pathogen was identified as *Orchid fleck dichorhavirus* via RT-qPCR with a partial sequence match, following the procedures described by @Kubo2009b. **[Which primers were used?]** Further samples were taken from other *Liriope* spp., *Ophiopogon* spp., as well as *Aspidistra elatior* Blume (Asparagales: Nolinoideae) in Leon county. All symptomatic plants were tested positive for OFV. **[Mention the different strains?]**
+
+More cases of OFV-infected Nolinoideae were observed in subsequent visits to the initial site of collection. After a brief search, it appears that the disease is widely distributed in Florida, with symptomatic plants found in Leon, Alachua and Duval counties.
+
+
+In addition to the discovery of the OFV-infected plants, our lab collected mites from symptomatic plants in Leon county and observed with phase contrast microscopy at the NFREC. We encountered both eriophyoid mites and flat mites which were initially identified as *Brevipalpus californicus* (Banks) *sensu lato*. *Brevipalpus* mites have been previously associated with OFV [@BeltranBeltran2020; @GarciaEscamilla2018; @Dietzgen2018b] and similar diseases [@Kitajima2010] and are known to feed on a large variety of economically-important plants [@Childers2003a; @Akyazi2017]. To verify our identification, we sent the flat mite samples to the FDACS. FDACS used the more advanced techniques of Differential Interference Contrast (DIC) microscopy to verify that our mites belonged to the *B. californicus* group. Unfortunately, even this verification needed further validation, because the *Brevipalpus* mite species complex is known to contain cryptic species [@Childers2011] whose identification can be improved with molecular methods as well as more advanced microscopy techniques, such as low-temperature scanning electron microscopy (LT-SEM) [@Skoracka2015; @Leon2010]. With that in mind, we sent additional samples of the mites to the USDA-ARS in Beltsville, where LT-SEM techniques revealed these mites as a possibly new subspecies of the *B. californicus* group (see *`r citef("fig_2")`*).
+
+
+The earliest mention of a virus which may have been OFV is @Ko1985, who detected nuclear inclusions caused by an undescribed bacilliform rhabdovirus. @Ko1985 described the spoke-wheel configurations typically associated with OFV (see [@Chang1976]), in *Brassia* orchids, but unfortunately made no mention of mites or further investigations of this virus.
+
+The first certain report of OFV in the US was made by @Bratsch2015, who confirmed the presence of OFV in *Phalaenopsis* hybrids in the US, using TEM of ultrathin sections of plant tissue as well as molecular sequence analysis. In addition, @Bratsch2015 detected *Brevipalpus* mites and their exoskeletons associated with OFV-infected plants. It appears that @Bratsch2015 did not make a conclusive species identification, but did cite @Kondo2003, suggesting that they suspected *B. californicus* as their vector.
+
+OFV has been reported in other Nolinoideae in Australia [@Dietzgen2018b; @Mei2016], including *Liriope spicata* (Thunb.) Lour. [@Mei2016]. We are not aware of any record which reports OFV infection in *Ophiopogon* plants. Unfortunately, liriopogons species are very similar in appearance and growth habit, with few useful characters used for their classification [@Fantz2008a]. Furthermore, the horticultural industry has created a diverse array of cultivars of these plants, which are often mislabeled [@Fantz2008a]. Aside from the horticultural confusion created by humans, natural hybrids between *Ophiopogon* and *Liriope* have created another source of confusion for phylogeny [@Zhou2009]. Together, these factors make it difficult to differentiate and identify species in the landscape. This taxonomic confusion may be accounted for in the future via sequence comparisons of the OFV-infected plants, but these comparisons are beyond the scope of our current report. Nonetheless, we are confident that ours is the first report of OFV infecting *Aspidistra elatior*; although [@Zheng2013] mentions the association of *B. californicus* with *A. elatior* they make no mention of OFV symptoms in this plant.
+
+
+Detecting OFV in Florida represents a concern for horticulturalist which grow susceptible plants of economic importance such as *Liriope*, *Ophiopogon*, and other susceptible Asparagales spp. which are commonly used in landscaping. Florida is also home to a plethora of native and naturalized orchid species, many of which are threatened, including the famous Ghost Orchid, *Dendrophylax lindenii* (Lindl.) Benth. ex Rolfe. Furthermore, OFV represents an obstacle to overcome for the burgeoning interest in cultivating Vanilla in southern Florida [@Chambers2019]. Lastly, some OFV isolates are known to be involved with nuclear types of Citrus Leprosis [@Roy2015a], which may be a cause for concern for the citrus industry. In fact, @Kitajima2011a found that the Citrus Leprosis virus (CiLV) which previously affected Florida citrus was a nuclear type of citrus leprosis, which are closely related to OFV strains [@Roy2013a]. *B. californicus* and *B. yothersi* are both known vectors of Dichorhaviruses (OFV) and Cileviruses (Citrus Leprosis) [@BeltranBeltran2020; @Kondo2003; @Knorr1968] and *B. obovatus* is a suspected vector as well [@Childers2003a]. All three mite species/complexes are present in Florida [@Childers2003a; @Akyazi2017] (see *`r citef("fig_3")`*), therefore it is critical to monitor the spread of Orchid Fleck Virus and its mite vector(s) to determine what risk this virus represents for plants in Florida and the surrounding regions.
+
+### Control Options
+
+*Galendromus helveolus* (Acari: Phytoseiidae) have been reported to feed on eggs, larvae and nymphs of *B. californicus* [@Chen2006].
+
+*Metarhizium anisopliae* var. *acridum* has been shown to be pathogenic to *B. phoenicis* [@Magalhaes2005], we have encountered similar fungal infections 
+
+
+### Figures and Tables
+
+```{r, fig_1, warning=FALSE}
+grid::grid.raster(tiff::readTIFF( "images/fig_1.tif"))
+```
+`r fig_nums(name = "fig_1", caption = "Variety of symptoms expressed by plants infected with Orchid fleck dichorhavirus: (a) ringspot symptoms on *Liriope gigantea* (b) chlorosis on *Aspidistra elatior*.")`
+
+```{r, fig_2, warning=FALSE}
+grid::grid.raster(tiff::readTIFF( "images/b_cali.tif"))
+```
+`r fig_nums(name = "fig_2", caption = "LT-SEM images of *Brevipalpus californicus* sensu lato used for identification (a) Dorsum  (b) Lateral view (c) Venter (d) Close up of distal end of leg 2, with paired solenidia (e) Enlargement of the microplates of the mite cerotegument (f) Dorsal view of the distal portion of mite abdomen (g) Dorsal view of the mite rostrum (h) Ventral view of mite rostrum LT-SEM images provided by Dr. Gary Bauchan, USDA-ARS 2021")`
+
+
+```{r, fig_3, warning=FALSE}
+grid::grid.raster(tiff::readTIFF( "images/other_mites.tif"))
+```
+`r fig_nums(name = "fig_3", caption = "Florida is home to other common pest species of *Brevipalpus* which are potential vectors of *Orchid fleck dichorhavirus*: (a) *B. yothersi*, dorsal (b) *B. yothersi*, lateral (c) *B. obovatus*, dorsal")`
+
+|Scientific Name|Common Names|Symptoms Observed|
+|:-----------|:--------------|:----------------|
+|*Liriope muscari* Bailey| Lilyturf, Orchardgrass, Monkeygrass| Ringspots, Chlorotic Flecking, Necrotic Lesions|
+|*Liriope gigantea*\* Hume| Giant Lilyturf| Ringspots, Chlorotic Flecking, Necrotic Lesions|
+|*Ophiopogon japonicus* Ker Gawl.| Dwarf Lilyturf, Mondo Grass, Snake's beard| Ringspots, Chlorotic Flecking, Necrotic Lesions|
+|*Ophiopogon intermedius*\*\* Don| Aztec Grass, 'Argenteomarginatus' | Ringspots, Chlorotic Flecking, Necrotic Lesions|
+|*Aspidistra elatior* Blume| Cast Iron Plant, Bar-room Plant | Chlorosis, Necrotic Lesions|
+`r tab_nums(name = "tab_1", caption = "List of plants with symptoms of Orchid fleck dichorhavirus found in northern Florida. * *L. gigantea* have been traditionally classified as seperate from *L. muscari* by @Broussard2007 and @Fantz2015, although this distinction has been challenged by @Wang2014 and @Masiero2020. * * *O. intermedius* is sometimes misclassified as *Liriope muscari* ‘Variegated Evergreen Giant’ [@Fantz2008b, @Fantz2009] or ‘Grandiflora White’ [@Fantz2009].")`
+
+### Acknowledgements
+We thank Dr. Sam Bolton for confirmation of the mite group.
+We are especially indebted to the late Dr. Gary Bauchan for permitting us to use these beautiful LT-SEM images, he will be greatly missed. This research was partly funded by the USDA National Institute of Food and Agriculture, Hatch project FLA-NFC-005607.
+
+### References
