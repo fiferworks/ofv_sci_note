@@ -348,6 +348,15 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   doi     = {10.1016/j.jviromet.2016.11.014},
 }
 
+@TechReport{Baker1987,
+  author      = {Baker, Edward W. and Tuttle, Donald M.},
+  institution = {The United States Department of Agriculture - Agricultural Research Service},
+  title       = {The false spider mites of {Mexico} (tenuipalpidae: acari).},
+  year        = {1987},
+  number      = {1706},
+  type        = {techreport},
+}
+
 @Article{Banasiak2008,
   author    = {Banasiak, Stephen E. and Meiners, Scott J.},
   journal   = {Biological Invasions},
@@ -435,6 +444,17 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   pages     = {227--232},
   doi       = {10.17660/actahortic.2019.1232.33},
   publisher = {International Society for Horticultural Science ({ISHS})},
+}
+
+@Electronic{Beard2012,
+  address      = {{Fort Collins}, {CO}},
+  author       = {Beard, J. J. and Ochoa, R. and Bauchan G., R. and Trice M., D. and Redford A., J. and Walters T., W. and Mitter, C.},
+  howpublished = {Online},
+  note         = {Acessed: 2021-02-24},
+  organization = {Identification technology program, {CPHST}, {PPQ}, {APHIS}, {USDA}},
+  title        = {Flat mites of the world edition 2},
+  url          = {http://idtools.org/id/mites/flatmites/},
+  year         = {2012},
 }
 
 @Article{Begtrup1972,
