@@ -3524,6 +3524,16 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Oxford University Press ({OUP})},
 }
 
+@Article{Rocha2021,
+  author    = {Rocha, Claudiane and Vechia, Jaqueline Della and Savi, Patrice and Omoto, Celso and Andrade, Daniel},
+  journal   = {Pest Management Science},
+  title     = {Resistance to spirodiclofen in \textit{Brevipalpus yothersi} (acari: tenuipalpidae) from brazilian citrus groves: detection, monitoring, and population performance},
+  year      = {2021},
+  month     = mar,
+  doi       = {10.1002/ps.6341},
+  publisher = {Wiley},
+}
+
 @Article{Rodrigues2008,
   author    = {Rodrigues, Jos{\'{e}} Carlos V. and Antony, Lucille M. K. and Salaroli, Renato B. and Kitajima, Elliot W.},
   journal   = {Tropical Plant Pathology},
@@ -3907,6 +3917,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   volume    = {4},
   doi       = {10.1186/1742-9994-4-6},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Suckling2013,
+  author    = {Suckling, David M. and Stringer, Lloyd D. and Stephens, Andrea E. A. and Woods, Bill and Williams, David G. and Baker, Greg and El-Sayed, Ashraf M.},
+  journal   = {Pest Management Science},
+  title     = {From integrated pest management to integrated pest eradication: technologies and future needs},
+  year      = {2013},
+  month     = nov,
+  number    = {2},
+  pages     = {179--189},
+  volume    = {70},
+  doi       = {10.1002/ps.3670},
+  publisher = {Wiley},
 }
 
 @Article{Suo2001,
@@ -4352,9 +4375,6 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   year    = {2018},
   month   = oct,
   url     = {roserosette.org/control/},
-}
-
-@Article{,
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
