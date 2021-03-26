@@ -29,12 +29,12 @@ citef <- pryr::partial(fig_nums, display = "cite")
 citet <- pryr::partial(tab_nums, display = "cite")
 ```
 
-# A visit to the Zoo
+# A visit to the Zoo in June 2020
 ```{r, warning=FALSE}
 knitr::include_graphics('images/symp-ofv-lir.jpg')
 ```
 
-# a
+# Chlorotic ringspot symptoms on Giant Lilyturf (*Liriope* spp., cv. ‘Gigantea’)
 ```{r, warning=FALSE}
 knitr::include_graphics('images/symp-ofv-lir.jpg')
 ```
@@ -49,36 +49,30 @@ grid::grid.raster(tiff::readTIFF("images/symp-ofv-asp-1.tif"))
 grid::grid.raster(tiff::readTIFF("images/symp-ofv-asp-2.tif"))
 ```
 
-# Intro 
-During June 2020, chlorotic ringspot symptoms on Giant Lilyturf (*Liriope* spp., cv. ‘Gigantea’) were observed in a landscape in Leon County, Florida.
+# What was causing these symptoms?
  - Initially tested at the Plant Disease Diagnostic Clinic at the North Florida Research and Education Center (NFREC) in Quincy, FL
  - Tested negative for begomovirus, potyvirus, tospovirus as well as for Impatiens necrotic spot virus, Tobacco mosaic virus and Tomato spotted wilt virus
  - Sent to the Florida Department of Agriculture and Consumer Services (FDACS)
 
-# OFV Confirmation
+# Confirmation: *Orchid fleck dichorhavirus* (OFV)
  - Identified using OFV specific conventional reverse transcription polymerase chain assay (RT-PCR) assay + Sanger sequencing + quantitative RT-PCR (RT-qPCR)
  - Presence of Orchid fleck dichorhavirus confirmed using OFV generic R2-Dicho-GF and R2-Dicho-GR primers [@Roy2020] 
  - Sanger sequencing of RT-PCR amplicons shared 98\% nucleotide identity with orchid strains of OFV: OFV-Orc1 and OFV-Orc2 (GenBank Accession numbers: AB244418 and LC222630) [@Kondo2006; @Kondo2017].
 
-# *Orchid fleck virus* (OFV)
- - Type member for the genus *Dichorhavirus*, family Rhabdoviridae
- - *Citrus chlorotic spot virus*, *Citrus leprosis virus* N, *Clerodendrum chlorotic spot virus* and *Coffee ringspot virus*
- - Infects 50+ plant species, including Orchidaceae, Asparagaceae (Nolinoidaea), and Rutaceae (*Citrus*)
+# What is OFV?
+ - Type member for *Dichorhavirus*, family Rhabdoviridae
+ - Other dichorhaviruses: *Citrus chlorotic spot virus*, *Citrus leprosis virus* N, *Clerodendrum chlorotic spot virus* and *Coffee ringspot virus*
+ - OFV infects 50+ plant species, including Orchidaceae, Asparagaceae (Nolinoidaea), and Rutaceae (*Citrus*)
  - Flat mites from the genus *Brevipalpus* Donnadieu (Trombidiformes: Tenuipalpidae) only known vectors of dichorhaviruses
 
 # Distribution of OFV
- - first described infecting *Cymbidium* orchids in Japan [@Doi1977]
- - OFV and OFV-like rhabdoviruses have been reported from
-  - Asia: [China [@Peng2017], Korea [@Chang1991, @Zheng2013]]
-  - Africa: [South Africa [@Cook2019]]
-  - North America: [The United States [@Blanchfield2001; @Bratsch2015], Mexico [@OteroColina2021]]
-  - South America: [Brazil [@Kitajima1974; @Kitajima2001], Colombia [@Kubo2009b], Costa Rica [@FreitasAstua2002], Paraguay [@RamosGonzalez2015]]
-  - Europe: [Denmark [@Begtrup1972], France [@Sauvetre2018], Germany [@Lesemann1975; @Petzold1971]]
-  - Oceania: [Australia [@Lesemann1971; @Lesemann1975; @Gibbs2000], Fiji [@Pearson1993], Vanuatu [@Pearson1993]]
-- Prevalence of OFV and its mite vector is thought to be associated with the movement of infected orchids [@Dietzgen2018a]
+ - First described infecting *Cymbidium* orchids in Japan [@Doi1977]
+ - OFV and OFV-like rhabdoviruses have been reported worldwide
+ - Asia, Africa, North America, South America, Europe and Oceania
+ - Prevalence of OFV and its mite vector is thought to be associated with the movement of infected orchids [@Dietzgen2018a]
 
-# Further Surveys
-- Additional samples were taken from other Nolinoidaea, including *Liriope muscari*, *Ophiopogon japonicus*, *O. intermedius* and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua counties.
+# Maps
+ - Additional samples were taken from other Nolinoidaea, including *Liriope muscari*, *Ophiopogon japonicus*, *O. intermedius* and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua counties.
 
 # Mites Recovered
  - Three *Brevipalpus* mite species were recovered from OFV-infected plants: 
@@ -89,9 +83,29 @@ During June 2020, chlorotic ringspot symptoms on Giant Lilyturf (*Liriope* spp.,
   - *Brevipalpus californicus* (Banks) group are the only known to transmit OFV in a persistent propagative manner
   - *Brevipalpus* mite species complex contains cryptic species [@Childers2011]
 
-# Conclusions
-The dichorhavirus that infects citrus in Hawaii, Mexico, Colombia, and South Africa are identical to the OFV in gene order, content, and the genome sequence. According to the International committee on Taxonomy of Viruses (ICTV) classification, OFV consist of two orchid strains (OFV-Orc1 and OFV-Orc2) and two citrus strains (OFV-Cit1 and OFV-Cit2). Both the orchid strains of OFV infects citrus [@Roy2020], but none of the citrus strains have been reported from any orchid species. Detecting OFV in Florida represents a concern for horticulturists who grow orchids, *Liriope*, *Ophiopogon*, or other susceptible Asparagaceae species which are commonly used in landscaping. Florida is also home to a plethora of native and naturalized orchid species, many of which are threatened, including cultivating *Vanilla* in southern Florida [@Chambers2019] and the famous Ghost Orchid, [*Dendrophylax lindenii* (Lindl.) Benth. ex Rolfe]. Citrus leprosis was present in Florida during the 1860’s and eradicated in the mid-1960s. In fact, @Kitajima2011 found that the Citrus Leprosis virus (CiLV) which previously affected Florida citrus was a nuclear type of citrus leprosis closely related to OFV strains [@Roy2013]. Association of a distant relative of OFV named Citrus leprosis dichorhavirus-N0 (CiLV-N0) was confirmed in relation to the leprosis disease outbreak in Florida [@Hartung2015]. The recent detection of OFV-Orc1 in South Africa [@Cook2019] in *C. sinensis* (Navel and Valencia orange) and OFV-Orc2 in Hawaii [@Velarde2021] in *C. reticulata* (mandarin) and *C. jambhiri* (rough lemon) highlights the threat of different strains of OFV; which will be a definite concern to the multi-billion dollar citrus industry. Lastly, some OFV isolates are known to be involved with citrus leprosis disease in Mexico [@Roy2015], which is a cause for concern for the citrus industry. *B. californicus* and *B. yothersi* are both known vectors of Dichorhaviruses (OFV) and Cileviruses (Citrus Leprosis) [@Knorr1968; @Kondo2003; @Beltran-Beltran2020] and *B. obovatus* is a suspected vector as well [@Childers2003]. All three mite species/complexes are present in Florida [@Childers2003; @Akyazi2017] (`r citef("fig_3")`). Therefore, it is critical to identify the vector of OFVs in Florida and monitor its spread to determine the risk this virus represents for the native plants, agriculture and the ornamental/landscaping industries of Florida and the surrounding regions.
+# OFV is an issue for Florida agriculture
+ - The dichorhavirus that infects citrus in Hawaii, Mexico, Colombia, and South Africa are identical to the OFV in gene order, content, and the genome sequence.
+ - ICTV: Officially, OFV consists of two orchid strains (OFV-Orc1 and OFV-Orc2) and two citrus strains (OFV-Cit1 and OFV-Cit2)
+ - Orchid strains of OFV infects citrus [@Roy2020], but none of the citrus strains have been reported from any orchid species
+ - OFV in Florida represents a concern for horticulturists who grow orchids, *Liriope*, *Ophiopogon*, or other susceptible Asparagaceae species which are commonly used in landscaping
+ 
+# Further considerations
+ - Florida is also home to a plethora of native and naturalized orchid species
+  - Cultivating *Vanilla* in southern Florida [@Chambers2019] 
+  - Famous Ghost Orchid, [*Dendrophylax lindenii* (Lindl.) Benth. ex Rolfe].
+ - Citrus leprosis was present in Florida during the 1860’s and eradicated in the mid-1960s
+ - @Kitajima2011 found that the Citrus Leprosis virus (CiLV) which previously affected Florida citrus was a nuclear type of citrus leprosis closely related to OFV strains [@Roy2013]
+  - Association of a distant relative of OFV named Citrus leprosis dichorhavirus-N0 (CiLV-N0) was confirmed in relation to the leprosis disease outbreak in Florida [@Hartung2015].
 
+# Threat for the multi-billion dollar citrus industry
+  - Detection of OFV-Orc1 in South Africa [@Cook2019] in *C. sinensis* (Navel and Valencia orange) and OFV-Orc2 in Hawaii [@Velarde2021] in *C. reticulata* (mandarin) and *C. jambhiri* (rough lemon) highlights the threat of different strains of OFV
+  - Lastly, some OFV isolates are known to be involved with citrus leprosis disease in Mexico [@Roy2015]
+
+# Mites: a large part of the problem
+- *B. californicus* and *B. yothersi* are both known vectors of Dichorhaviruses (OFV) and Cileviruses (Citrus Leprosis) [@Knorr1968; @Kondo2003; @Beltran-Beltran2020]
+- *B. obovatus* is a suspected vector as well [@Childers2003]
+- All three mite species/complexes are present in Florida [@Childers2003; @Akyazi2017]
+- Critical to identify the vector of OFVs in Florida and monitor its spread to determine the risk this virus represents for the native plants, agriculture and the ornamental/landscaping industries of Florida and the surrounding regions.
 
 # Risk to Florida
  - Florida has various mite species of *Brevipalpus*
