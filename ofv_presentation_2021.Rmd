@@ -7,14 +7,38 @@ output:
   powerpoint_presentation
 bibliography: 'thesis.bib'
 csl: 'j_med_entomol.csl'
-#always_allow_html: true
+always_allow_html: true
 ---
 ```{r setup, include=FALSE}
 #setup options
 knitr::opts_chunk$set(fig.width=12, fig.height=8, echo=FALSE)
 
 #a list of packages used for scripts
-pkgs <- c('captioner', 'pryr', 'tiff')
+pkgs <-
+  c(
+    'captioner',
+    'pryr',
+    'tiff',
+    'sf',
+    'rgeos',
+    'ggspatial',
+    'rnaturalearth',
+    'rnaturalearthdata',
+    'tidyverse',
+    'ggmap',
+    'ggplot2',
+    'ggthemes',
+    'extrafont',
+    'showtext',
+    'leaflet',
+    'dplyr',
+    'readxl',
+    'maps',
+    'mapview',
+    'htmlwidgets',
+    'viridis',
+    'RColorBrewer'
+  )
 
 #loading required packages
 lapply(pkgs, library, character.only = TRUE)
@@ -47,7 +71,7 @@ grid::grid.raster(tiff::readTIFF("images/symp-ofv-asp-2.tif"))
 # What was causing these symptoms?
 :::::::::::::: {.columns}
 ::: {.column}
- - Tested negative for begomovirus, potyvirus, tospovirus as well as for Impatiens necrotic spot virus, Tobacco mosaic virus and Tomato spotted wilt virus
+ - Tested negative for begomovirus, potyvirus, tospovirus as well as for *Impatiens necrotic spot virus*, *Tobacco mosaic virus* and *Tomato spotted wilt virus*
  - Sent to the Florida Department of Agriculture and Consumer Services (FDACS) $\rightarrow$ sent to USDA
 :::
 ::: {.column}
@@ -73,47 +97,83 @@ grid::grid.raster(tiff::readTIFF("images/symp-ofv-asp-2.tif"))
 :::
 ::::::::::::::
 
-# Distribution of OFV
-:::::::::::::: {.columns}
-::: {.column}
-content
-:::
-::: {.column}
+# Worldwide Distribution of OFV
  - First described infecting *Cymbidium* orchids in Japan [@Doi1977]
  - OFV and OFV-like rhabdoviruses have been reported worldwide
  - Asia, Africa, North America, South America, Europe and Oceania
  - Prevalence of OFV and its mite vector is thought to be associated with the movement of infected orchids [@Dietzgen2018a]
-:::
-::::::::::::::
 
+# World Map of OFV Distribution
+```{r, warning=FALSE, echo=FALSE, comment=FALSE}
+#https://slcladal.github.io/maps.html
+library(maptools)
+data(wrld_simpl)
+myCountries = wrld_simpl@data$NAME %in% c("China", "Korea, Republic of", "Korea, Democratic People's Republic of", "South Africa", "United States", "Mexico", "Brazil", "Colombia", "Costa Rica", "Paraguay", "Denmark", "France", "Germany", "Australia", "Fiji", "Vanuatu", "Japan")
+plot(wrld_simpl, col = c(gray(.90), "orange")[myCountries+1])
+```
 
-# Maps
+# Map of OFV distribution in Tallahassee 
+```{r}
+#####LOADING REQUIRED FILES####
+df <- read_xlsx('data/ofv_clean_datasheet.xlsx')
+
+#making sure R knows what variables are factors
+df$symptoms <- as_factor(df$symptoms)
+df$plant_cv <- as_factor(df$plant_cv)
+df$family <- as_factor(df$family)
+df$order <- as_factor(df$order)
+
+####REMOVING NAS####
+#removing columns of NA
+df <- drop_na(df)
+
+#makes the dataframe into a spatial dataframe
+df <-
+  st_as_sf(df,
+           coords = c("lon", "lat"),
+           crs = 4326)
+
+####GRAPHING SAMPLING LOCATIONS####
+#creating a subset of the data containing only asparagales
+asp <- df %>%
+  filter(order == 'asparagales')
+
+#making color pallet for the map
+#the order goes (ringspot, stippling, none, chlorosis)
+pal <- c('#092C48', '#A3B7F9', '#EDE6DE', '#C59434')
+
+#mapping locations
+mapview(
+  asp,
+  zcol = 'symptoms',
+  col.regions = pal,
+  legend = TRUE,
+  alpha.regions = 1,
+  layer.name = 'Ringspot Symptoms on Asparagales',
+  map.types = 'Stamen.TonerLite'
+)
+```
+
+# Mites Recovered During Our Survey
 :::::::::::::: {.columns}
 ::: {.column}
- - Additional samples were taken from other Nolinoidaea, including *Liriope muscari*, *Ophiopogon japonicus*, *O. intermedius* and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua counties.
-:::
-::: {.column}
-content
-:::
-::::::::::::::
-
-
-# Mites Recovered
-:::::::::::::: {.columns}
-::: {.column}
- - Three *Brevipalpus* mite species were recovered from OFV-infected plants: 
+- Unidentified eriophyid mite
+- Three *Brevipalpus* mite species were recovered from OFV-infected plants: 
   - *Brevipalpus californicus* sensu lato
   - *B. obovatus* Donnadieu 
   - *B. confusus* Banks
 - One of these species is presumably responsible for OFV transmission
-  - *Brevipalpus californicus* (Banks) group are the only known to transmit OFV in a persistent propagative manner
-  - *Brevipalpus* mite species complex contains cryptic species [@Childers2011]
+- **Cryo-SEM to help determine *Brevipalpus* species identity**
 :::
 ::: {.column}
-content
+![Various *Brevipalpus* spp. live in Florida](images/other_mites.tif)
 :::
 ::::::::::::::
 
+# The Main Suspect: *B. californicus* sensu lato
+![*Brevipalpus californicus* s.l](images/b_cali_detail.tif)
+- *Brevipalpus californicus* (Banks) group are the only known to transmit OFV in a persistent propagative manner
+  - *Brevipalpus* mite species complex contains cryptic species $\rightarrow$ develop molecular methods?
 
 # OFV is an issue for Florida agriculture
 :::::::::::::: {.columns}
@@ -124,43 +184,11 @@ content
  - OFV in Florida represents a concern for horticulturists who grow orchids, *Liriope*, *Ophiopogon*, or other susceptible Asparagaceae species which are commonly used in landscaping
 :::
 ::: {.column}
-content
+```{r}
+grid::grid.raster(tiff::readTIFF("images/NPA-20-02-Orchid-fleck-virus_Page_1.tiff"))
+```
 :::
 ::::::::::::::
-
- 
-# Further considerations
- - Florida is also home to a plethora of native and naturalized orchid species
-  - Cultivating *Vanilla* in southern Florida [@Chambers2019] 
-  - Famous Ghost Orchid, [*Dendrophylax lindenii* (Lindl.) Benth. ex Rolfe].
- - Citrus leprosis was present in Florida during the 1860’s and eradicated in the mid-1960s
- - @Kitajima2011 found that the Citrus Leprosis virus (CiLV) which previously affected Florida citrus was a nuclear type of citrus leprosis closely related to OFV strains [@Roy2013]
-  - Association of a distant relative of OFV named Citrus leprosis dichorhavirus-N0 (CiLV-N0) was confirmed in relation to the leprosis disease outbreak in Florida [@Hartung2015].
-
-# Threat for the multi-billion dollar citrus industry
-  - Detection of OFV-Orc1 in South Africa [@Cook2019] in *C. sinensis* (Navel and Valencia orange) and OFV-Orc2 in Hawaii [@Velarde2021] in *C. reticulata* (mandarin) and *C. jambhiri* (rough lemon) highlights the threat of different strains of OFV
-  - Lastly, some OFV isolates are known to be involved with citrus leprosis disease in Mexico [@Roy2015]
-
-# Mites: a large part of the problem
-:::::::::::::: {.columns}
-::: {.column}
-- Florida has various mite species of *Brevipalpus*:
-- *B. californicus* and *B. yothersi* are both known vectors of Dichorhaviruses (OFV) and Cileviruses (Citrus Leprosis) [@Knorr1968; @Kondo2003; @Beltran-Beltran2020]
-- *B. obovatus* is a suspected vector as well [@Childers2003]
-- *Brevipalpus* mites are known to have cryptic species complexes and unresolved questions about host specificity
-- Critical to identify the vector of OFVs in Florida and monitor its spread to determine the risk this virus represents for the native plants, agriculture and the ornamental/landscaping industries of Florida and the surrounding regions.
-:::
-::: {.column}
-content
-:::
-::::::::::::::
-
-# Conclusions
- - Three new hosts from the family Asperagaceae
- - Need to know the extended host range of OFVs
-  - Survey of Florida's citrus growing regions, esp. plants within the families Rutaceae and Asparagaceae
- - Mite species determination: PCR methods?
- - Mite transmission assays
 
 # Acknowledgements
 We would like to give a special thanks to the Tallahassee Museum for their patience, cooperation, and support with collecting plant samples. We also want to thank Drs. Sam Bolton, FDACS and Aline Tassi, Univ. of Sao Paulo, Brazil for checking the mites we have sent for species validation. We are especially indebted to the late Dr. Gary Bauchan for his contributions to this study and the field of acarology, he will be greatly missed. This research was partly funded by the USDA National Institute of Food and Agriculture, Hatch project FLA-NFC-005607. Mention of trade names or commercial products in this publication is solely for the purpose of providing specific information and does not imply recommendation or endorsement by the USDA; USDA is an equal opportunity provider and employer.
