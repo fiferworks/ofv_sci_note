@@ -118,23 +118,23 @@ We would like to give a special thanks to the Tallahassee Museum for their patie
 
 ### Figures
 ```{r, fig_1, warning=FALSE}
-grid::grid.raster(tiff::readTIFF("images/symp-ofv-lir.tif"))
+grid::grid.raster(tiff::readTIFF("figure/symp-ofv-lir.tif"))
 ```
 
 
 ```{r, fig_2, warning=FALSE}
-grid::grid.raster(tiff::readTIFF("images/symp-ofv-asp.tif"))
+grid::grid.raster(tiff::readTIFF("figure/symp-ofv-asp.tif"))
 ```
 
 ```{r, fig_3, warning=FALSE}
-grid::grid.raster(tiff::readTIFF("images/b_cali.tif"))
+grid::grid.raster(tiff::readTIFF("figure/b_cali.tif"))
 ```
 
 ```{r, fig_4, warning=FALSE}
-grid::grid.raster(tiff::readTIFF("images/other_mites.tif"))
+grid::grid.raster(tiff::readTIFF("figure/other_mites.tif"))
 ```
 
 <!-- ```{r, fig_4, warning=FALSE} -->
-<!-- grid::grid.raster(tiff::readTIFF("images/fungus_mite.tif")) -->
+<!-- grid::grid.raster(tiff::readTIFF("figure/fungus_mite.tif")) -->
 <!-- ``` -->
 
