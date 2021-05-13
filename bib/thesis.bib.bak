@@ -1,16 +1,5 @@
 % Encoding: UTF-8
 
-@article{kang2007allexivirus,
-  title={Allexivirus transmitted by eriophyid mites in garlic plants},
-  author={Kang, Sang-Gu and Koo, Bong-Jin and Lee, Eun-Tag and Chang, Moo-Ung},
-  journal={Journal of microbiology and biotechnology},
-  volume={17},
-  number={11},
-  pages={1833--1840},
-  year={2007},
-  publisher={The Korean Society for Microbiology and Biotechnology}
-}
-
 @Article{AbouAwad1985,
   author    = {Abou-Awad, B. A. and El-Banhawy, E. M.},
   journal   = {Experimental {\&} Applied Acarology},
@@ -557,7 +546,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 @Article{Begtrup1972,
   author    = {Begtrup, J.},
   journal   = {Journal of Phytopathology},
-  title     = {Structure of a bacilliform virus in \texit{{D}endrobium} as revealed by negative staining},
+  title     = {Structure of a bacilliform virus in \textit{{D}endrobium} as revealed by negative staining},
   year      = {1972},
   month     = nov,
   number    = {3},
@@ -604,6 +593,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   month     = may,
   doi       = {10.1111/1365-2435.12100},
   editor    = {Charles Fox},
+  publisher = {Wiley},
+}
+
+@Article{Binns1982,
+  author    = {Binns, E. S.},
+  journal   = {Biological Reviews},
+  title     = {Phoresy as migration - some functional aspects of phoresy in mites},
+  year      = {1982},
+  month     = nov,
+  number    = {4},
+  pages     = {571--620},
+  volume    = {57},
+  doi       = {10.1111/j.1469-185x.1982.tb00374.x},
   publisher = {Wiley},
 }
 
@@ -783,10 +785,11 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 }
 
 @PhdThesis{Broussard2007,
-  author = {Broussard, Mary Catherine},
-  school = {Louisiana State University and Agricultural & Mechanical College},
-  title  = {A horticultural study of {\textit{Liriope}} and {\textit{Ophiopogon}}: nomenclature, morphology, and culture},
-  year   = {2007},
+  author  = {Broussard, Mary Catherine},
+  school  = {Louisiana State University, Department of Horticulture},
+  title   = {A horticultural study of {\textit{Liriope}} and {\textit{Ophiopogon}}: nomenclature, morphology, and culture.},
+  year    = {2007},
+  journal = {Louisiana State University, Department of Horticulture},
 }
 
 @Article{Buitenhuis2015,
@@ -849,6 +852,33 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   volume    = {38},
   doi       = {10.1590/s1982-56762013005000005},
   publisher = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{Calvet2020,
+  author    = {Calvet, {\'{E}}rica C. and Lima, Debora B. and Melo, Jos{\'{e}} W. S. and Jr., Manoel G. C. Gondim},
+  journal   = {Systematic and Applied Acarology},
+  title     = {Host plant discrimination through mobility parameters by eriophyoid mites},
+  year      = {2020},
+  month     = sep,
+  number    = {9},
+  pages     = {1541--1551},
+  volume    = {25},
+  abstract  = {Eriophyoidea is a well-known mite taxon of economic importance. Due to their small size, elucidating many of
+their bio-ecological aspects becomes a challenge. These mites are obligatory plant feeders, with high host
+specificity and vagrant (free living) and non-vagrant (part or whole life cycle in a host) lifestyles. The mobility
+(distance walked - mm, resting time - s, and number of stops) of these mites on host and non-host plant species
+has been investigated. Eriophyoid species were submitted to walking tests on host and non-host plants using five
+vagrant species and five non-vagrant species. The walking was recorded with video tracking (ViewPoint) for
+ten minutes. Twenty replicates were performed for each treatment (eriophyoid species and plant). There was a
+difference in the behavioral response of the species studied in relation to the hosts. When the species were
+grouped by ecological lifestyle (vagrant and non-vagrant), non-vagrant eriophyoids presented a higher mobility
+(higher distance walked, less resting time) than vagrant eriophyoids on their respective hosts. There was no
+difference in the mobility of vagrant and non-vagrant species on non-host plants. The absence of a pattern of
+behavioral response among the species tested here indicates that more factors are involved in the host
+identification and acceptance process},
+  comment   = {They tried to see some indication of host specificity by observing the walking distances of both vagrant and non-vagrant mites, hypothesizing that there would be a difference for mites which were not on their host plant. They didn't find any evidence against the null hypothesis, but did find that vagrants moved more than non-vagrants},
+  doi       = {10.11158/saa.25.9.2},
+  publisher = {Systematic and Applied Acarology Society},
 }
 
 @Article{Campos2002,
@@ -986,7 +1016,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 @Article{Chase2009,
   author    = {Chase, Mark. W. and Reveal, James. L. and Fay, Michael F.},
   journal   = {Botanical Journal of the Linnean Society},
-  title     = {A subfamilial classification for the expanded asparagalean families amaryllidaceae, asparagaceae and xanthorrhoeaceae},
+  title     = {A subfamilial classification for the expanded asparagalean families {Amaryllidaceae}, {Asparagaceae} and {Xanthorrhoeaceae}},
   year      = {2009},
   month     = oct,
   number    = {2},
@@ -1072,6 +1102,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   volume    = {67},
   doi       = {10.1007/s10493-015-9945-9},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Chetverikov2021,
+  author    = {Chetverikov, Philipp E. and Fedorov, Denis S. and Letukhova, Viktoria Yu. and Romanovich, Anna E.},
+  journal   = {Systematic and Applied Acarology},
+  title     = {Description of {\textit{Cecidophyes fibigiae}} n. {sp.,} new combinations, records, and {DNA} barcodes of eriophyid mites (eriophyoidea, eriophyidae) from {Karadag} nature reserve {(Crimea)}},
+  year      = {2021},
+  month     = apr,
+  number    = {4},
+  pages     = {818--828},
+  volume    = {26},
+  doi       = {10.11158/saa.26.4.12},
+  publisher = {Systematic and Applied Acarology Society},
 }
 
 @Article{Chigira2005,
@@ -1434,6 +1477,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Elbeaino2018,
+  author    = {Elbeaino, Toufic and Digiaro, Michele and Mielke-Ehret, Nicole and Muehlbach, Hans-Peter and Martelli, Giovanni P.},
+  journal   = {Journal of General Virology},
+  title     = {{ICTV} virus taxonomy profile: {\textit{Fimoviridae}}},
+  year      = {2018},
+  month     = nov,
+  number    = {11},
+  pages     = {1478--1479},
+  volume    = {99},
+  doi       = {10.1099/jgv.0.001143},
+  publisher = {Microbiology Society},
+}
+
 @Article{EncarnacaoBobot2011,
   author    = {da Encarna{\c{c}}{\~{a}}o Bobot, Teiamar and Franklin, Elizabeth and Navia, Denise and Gasnier, Thierry Ray Jehlen and Lofego, Antonio Carlos and de Oliveira, Byatryz Mort{\'{a}}gua},
   journal   = {Acta Amazonica},
@@ -1468,6 +1524,18 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   number    = {2},
   pages     = {92--101},
   publisher = {Am Phytopath Society},
+}
+
+@Book{Evans1992,
+  author    = {Evans, Gwilym Owen},
+  publisher = {CABI},
+  title     = {Principles of acarology},
+  year      = {1992},
+  isbn      = {0851988229},
+  month     = jan,
+  ean       = {9780851988221},
+  pagetotal = {576},
+  url       = {https://www.worldcat.org/title/principles-of-acarology/oclc/27820092},
 }
 
 @Article{Fantz1994,
@@ -1667,6 +1735,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Elsevier {BV}},
 }
 
+@Article{Fu2021,
+  author    = {Fu, Xiaotong and Liu, Qingyan and Liu, Junqing and Meng, Ruixia},
+  journal   = {Systematic and Applied Acarology},
+  title     = {Functional response of {\textit{Amblyseius andersoni}} and {\textit{Neoseiulus neoreticuloides}} (acari: phytoseiidae) to adults of the wolfberry gall mite {\textit{Aceria pallida}} (acari: eriophyoidae)},
+  year      = {2021},
+  month     = apr,
+  number    = {4},
+  pages     = {809--817},
+  volume    = {26},
+  doi       = {10.11158/saa.26.4.11},
+  publisher = {Systematic and Applied Acarology Society},
+}
+
 @Article{Fukatsu1999,
   author    = {Takema Fukatsu},
   title     = {Acetone preservation: a practical technique for molecular analysis},
@@ -1730,6 +1811,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   month     = aug,
   doi       = {10.1126/science.261.5122.754},
   publisher = {American Association for the Advancement of Science ({AAAS})},
+}
+
+@Article{Galvao2012,
+  author    = {Galv{\~{a}}o, Andr{\'{e}}ia S. and Melo, Jos{\'{e}} W. S. and Monteiro, Vaneska B. and Lima, Debora B. and Moraes, Gilberto J. De and Gondim, Manoel G. C.},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Dispersal strategies of {\textit{Aceria guerreronis}} (acari: eriophyidae), a coconut pest},
+  year      = {2012},
+  month     = feb,
+  number    = {1},
+  pages     = {1--13},
+  volume    = {57},
+  doi       = {10.1007/s10493-012-9527-z},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 @Article{GarciaEscamilla2018,
@@ -1856,7 +1950,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 
 @Article{Granillo1974,
   author    = {Granillo, Carlos R. and Smith, Samuel H.},
-  title     = {Tobacco and tomato ringspot viruses and their relationships with \texit{{Tetranychus} urticae}},
+  title     = {Tobacco and tomato ringspot viruses and their relationships with \textit{{Tetranychus} urticae}},
   journal   = {Phytopathology},
   year      = {1974},
   volume    = {64},
@@ -1929,6 +2023,21 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   volume    = {105},
   doi       = {10.1094/phyto-03-15-0064-r},
   publisher = {Scientific Societies},
+}
+
+@Article{Havasi2021,
+  author    = {Havasi, Mohammadreza and Alsendi, Ayad and Bozhgani, Nniloufar Sangak Sani and Kheradmand, Katayoon and Sadeghi, Reza},
+  journal   = {Systematic and Applied Acarology},
+  title     = {The effects of bifenazate on life history traits and population growth of {\textit{Amblyseius swirskii}} {Athias-Henriot} (acari: phytoseiidae)},
+  year      = {2021},
+  month     = mar,
+  number    = {3},
+  pages     = {610--623},
+  volume    = {26},
+  abstract  = {Tetranychus urticae Koch (Acari: Tetranychidae) is a notorious crop pest with a worldwide distribution that has developed resistance to a wide range of acaricides. Combined tactics of pest management have special significance not only for a reduction in pesticide residues but also to maintain the natural enemy activity, which is an objective of IPM programs. Here, we investigated the effect of low-lethal concentrations of bifenazate at LC10, LC20, and LC30 on development and reproduction parameters of Amblyseius swirskii Athias-Henriot (Acari: Phytoseiidae). Lethal and sub-lethal concentrations were estimated using leaf dip bioassay method. The crude data were analyzed based on age-stage, two-sex life table analysis. Toxicological assays showed bifenazate treatments gradually decreased the longevity and total life span of both sexes. Our results indicated that reproductive and total fecundity of the next generation were also affected by sublethal concentrations. All concentrations caused a significant decline in oviposition days, compared to the control. The intrinsic rate of increase (rm) varied from 0.1344 to 0.1151 day-1 for the mites treated with distilled water and LC30 treatments, respectively. The finite rate of increase ($\lambda$) was affected by the acaricide concentration (lowest at LC30 concentration: 1.1221 day-1). Bifenazate concentration (LC10, LC20 and LC30) treatments gradually reduced the gross reproduction rate (GRR) and net reproductive rate (R0). Based on obtained results from current study, bifenazate is not a favorable acaricide with A. swiriskii and cannot be recommended to use with this predatory mite in integrated management.},
+  comment   = {Don't use bifenazate with A. swirskii},
+  doi       = {10.11158/saa.26.3.10},
+  publisher = {Systematic and Applied Acarology Society},
 }
 
 @InCollection{Helle1996,
@@ -2089,6 +2198,18 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Nature Publishing Group},
 }
 
+@Article{Kang2007,
+  author    = {Kang, Sang-Gu and Koo, Bong-Jin and Lee, Eun-Tag and Chang, Moo-Ung},
+  journal   = {Journal of microbiology and biotechnology},
+  title     = {Allexivirus transmitted by eriophyid mites in garlic plants},
+  year      = {2007},
+  issn      = {1738-8872},
+  number    = {11},
+  pages     = {1833--1840},
+  volume    = {17},
+  publisher = {The Korean Society for Microbiology and Biotechnology},
+}
+
 @Article{Kassar1990,
   author  = {Kassar, A. and Amrine Jr, J. W.},
   title   = {Rearing and development of \textit{{Phyllocoptes} fructiphilus} (Acari: Eriophyidae)},
@@ -2098,9 +2219,9 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 }
 
 @Article{Katsiani2020,
-  author    = {Asimina Katsiani and Daisy Stainton and Kurt Lamour and Ioannis E. Tzanetakis},
+  author    = {Katsiani, Asimina and Stainton, Daisy and Lamour, Kurt and Tzanetakis, Ioannis E.},
   journal   = {Journal of General Virology},
-  title     = {The population structure of Rose rosette virus in the {USA}},
+  title     = {The population structure of \textit{Rose rosette virus} in the {USA}},
   year      = {2020},
   month     = jun,
   number    = {6},
@@ -2173,10 +2294,10 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Wiley},
 }
 
-@Article{Kitajima2011,
+@Article{Kitajima2011b,
   author    = {Kitajima, Elliot Watanabe and Chagas, C{\'{e}}sar Martins and Braghini, Masako Toma and Fazuoli, Luiz Carlos and Locali-Fabris, Eliane Cristina and Salaroli, Renato Barbosa},
   journal   = {Scientia Agricola},
-  title     = {Natural infection of several {\textit{Coffea}} species and hybrids and \textit{Psilanthus ebracteolatus} by the coffee ringspot virus ({CoRSV})},
+  title     = {Natural infection of several {\textit{Coffea}} species and hybrids and {\textit{Psilanthus ebracteolatus}} by the coffee ringspot virus ({CoRSV})},
   year      = {2011},
   month     = aug,
   number    = {4},
@@ -2407,6 +2528,32 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Kubota2020,
+  author    = {Kubota, Kenji and Usugi, Tomio and Tomitaka, Yasuhiro and Shimomoto, Yoshifumi and Takeuchi, Shigeharu and Kadono, Fujio and Yanagisawa, Hironobu and Chiaki, Yuya and Tsuda, Shinya},
+  journal   = {Phytopathology{\textregistered}},
+  title     = {Perilla mosaic virus is a highly divergent emaravirus transmitted by {\textit{Shevtchenkella}} sp. (acari: eriophyidae)},
+  year      = {2020},
+  month     = jul,
+  number    = {7},
+  pages     = {1352--1361},
+  volume    = {110},
+  doi       = {10.1094/phyto-01-20-0013-r},
+  publisher = {Scientific Societies},
+}
+
+@Article{Kuczynski2020,
+  author    = {Kuczy{\'{n}}ski, Lechos{\l}aw and Radwa{\'{n}}ska, Anna and Karpicka-Ignatowska, Kamila and Laska, Alicja and Lewandowski, Mariusz and Rector, Brian G. and Majer, Agnieszka and Raubic, Jaros{\l}aw and Skoracka, Anna},
+  journal   = {Experimental and Applied Acarology},
+  title     = {A comprehensive and cost-effective approach for investigating passive dispersal in minute invertebrates with case studies of phytophagous eriophyid mites},
+  year      = {2020},
+  month     = aug,
+  number    = {1},
+  pages     = {17--31},
+  volume    = {82},
+  doi       = {10.1007/s10493-020-00532-z},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{Kulkarni2002,
   author    = {Kulkarni, N. K. and Kumar, P. Lava and Muniyappa, V. and Jones, A. Teifion and Reddy, D. V. R.},
   title     = {Transmission of pigeon pea sterility mosaic virus by the eriophyid mite, \textit{{A}ceria cajani} {(Acari: Arthropoda)}},
@@ -2552,13 +2699,26 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
 @Article{Lawson2007,
   author    = {Lawson-Balagbo, L. M. and Gondim, M. G. C. and de Moraes, G. J. and Hanna, R. and Schausberger, P.},
   journal   = {Experimental and Applied Acarology},
-  title     = {Life history of the predatory mites \textit{Neoseiulus paspalivorus} and \textit{Proctolaelaps bickleyi}, candidates for biological control of \textit{Aceria guerreronis}},
+  title     = {Life history of the predatory mites {\textit{Neoseiulus paspalivorus}} and {\textit{Proctolaelaps bickleyi}}, candidates for biological control of {\textit{Aceria guerreronis}}},
   year      = {2007},
   month     = sep,
   number    = {1},
   volume    = {43},
   doi       = {10.1007/s10493-007-9101-2},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{LawsonBalagbo2007,
+  author    = {Lawson-Balagbo, L. M. and Gondim, M. G. C. and de Moraes, G. J. and Hanna, R. and Schausberger, P.},
+  journal   = {Biological Control},
+  title     = {Refuge use by the coconut mite {\textit{Aceria guerreronis}}: Fine scale distribution and association with other mites under the perianth},
+  year      = {2007},
+  month     = oct,
+  number    = {1},
+  pages     = {102--110},
+  volume    = {43},
+  doi       = {10.1016/j.biocontrol.2007.05.010},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Leastro2018,
@@ -2659,6 +2819,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   url         = {https://citrusindustry.net/2020/02/17/citrus-leprosis-poses-a-threat-to-florida/},
 }
 
+@Article{Li2018,
+  author    = {Li, Jianling and Liu, Sai and Guo, Kun and Zhang, Fan and Qiao, Haili and Chen, Jianmin and Yang, Mengke and Zhu, Xiu and Xu, Rong and Xu, Changqing and Chen, Jun},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Plant-mediated competition facilitates a phoretic association between a gall mite and a psyllid vector},
+  year      = {2018},
+  month     = oct,
+  number    = {3},
+  pages     = {325--337},
+  volume    = {76},
+  doi       = {10.1007/s10493-018-0315-2},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{Lillo2018,
   author  = {de Lillo, Enrico and Pozzebon, Alberto and Valenzano, Domenico and Duso, Carlos},
   title   = {An intimate relationship between eriophyoid mites and their host plants - a review},
@@ -2702,6 +2875,18 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   isbn      = {9780444886286},
   series    = {World crop pests},
   volume    = {6},
+}
+
+@Article{Liu2016,
+  author    = {Liu, Sai and Li, Jianling and Guo, Kun and Qiao, Haili and Xu, Rong and Chen, Jianmin and Xu, Changqing and Chen, Jun},
+  journal   = {Scientific Reports},
+  title     = {Seasonal phoresy as an overwintering strategy of a phytophagous mite},
+  year      = {2016},
+  month     = may,
+  number    = {1},
+  volume    = {6},
+  doi       = {10.1038/srep25483},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 @Article{Locali2003,
@@ -3342,6 +3527,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   month     = may,
   doi       = {10.21273/hortsci12552-17},
   publisher = {American Society for Horticultural Science},
+}
+
+@Article{Onzo2008,
+  author    = {Onzo, Alexis and Hanna, Rachid and Sabelis, Maurice W.},
+  journal   = {Journal of Insect Behavior},
+  title     = {Within-plant migration of the predatory mite {\textit{Typhlodromalus aripo}} from the apex to the leaves of cassava: response to day{\textendash}night cycle, prey location and prey density},
+  year      = {2008},
+  month     = oct,
+  number    = {3},
+  pages     = {186--195},
+  volume    = {22},
+  doi       = {10.1007/s10905-008-9164-x},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 @Article{Onzo2012,
@@ -3985,6 +4183,17 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Springer Nature},
 }
 
+@Article{Sicard2019,
+  author    = {Anne Sicard and Elodie Pirolles and Romain Gallet and Marie-St{\'{e}}phanie Vernerey and Michel Yvon and Cica Urbino and Michel Peterschmitt and Serafin Gutierrez and Yannis Michalakis and St{\'{e}}phane Blanc},
+  journal   = {{eLife}},
+  title     = {A multicellular way of life for a multipartite virus},
+  year      = {2019},
+  month     = mar,
+  volume    = {8},
+  doi       = {10.7554/elife.43599},
+  publisher = {{eLife} Sciences Publications, Ltd},
+}
+
 @Article{Skoracka2010,
   author    = {Skoracka, A. and Dabert, M.},
   title     = {The cereal rust mite \textit{{A}bacarus hystrix} {(Acari: Eriophyoidea)} is a complex of species: evidence from mitochondrial and nuclear {DNA} sequences},
@@ -4394,10 +4603,23 @@ It has been observed that the flowers of A. phanluongii Vislobokov are visited b
   publisher = {Wiley},
 }
 
+@Article{Waite1992,
+  author    = {Waite, G. K. and McAlpine, J. D.},
+  journal   = {Experimental {\&} Applied Acarology},
+  title     = {Honey bees as carriers of lychee erinose mite {\textit{Eriophyes litchii}} (acari: eriophyiidae)},
+  year      = {1992},
+  month     = oct,
+  number    = {4},
+  pages     = {299--302},
+  volume    = {15},
+  doi       = {10.1007/bf01246570},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{Walker2018,
   author    = {Walker, Peter J. and Blasdell, Kim R. and Calisher, Charles H. and Dietzgen, Ralf G. and Kondo, Hideki and Kurath, Gael and Longdon, Ben and Stone, David M. and Tesh, Robert B. and Tordo, No{\"{e}}l and Vasilakis, Nikos and Whitfield, Anna E.},
   journal   = {Journal of General Virology},
-  title     = {{ICTV} virus taxonomy profile: rhabdoviridae},
+  title     = {{ICTV} virus taxonomy profile: {Rhabdoviridae}},
   year      = {2018},
   month     = apr,
   number    = {4},
@@ -4433,7 +4655,7 @@ It has been observed that the flowers of A. phanluongii Vislobokov are visited b
 @Article{Wang2014,
   author    = {Wang, Guang-Yan and Meng, Ying and Huang, Jin-Ling and Yang, Yong-Ping},
   journal   = {Systematic Botany},
-  title     = {Molecular phylogeny of {\textit{Ophiopogon}} (asparagaceae) inferred from nuclear and plastid {DNA} sequences},
+  title     = {Molecular phylogeny of {\textit{Ophiopogon}} {(Asparagaceae)} inferred from nuclear and plastid {DNA} sequences},
   year      = {2014},
   month     = jul,
   number    = {3},
@@ -4454,6 +4676,30 @@ It has been observed that the flowers of A. phanluongii Vislobokov are visited b
   volume    = {292},
   doi       = {10.1126/science.1060411},
   publisher = {American Association for the Advancement of Science ({AAAS})},
+}
+
+@Article{Weerawansha2020,
+  author    = {Weerawansha, Nuwan and Wang, Qiao and He, Xiong Zhao},
+  journal   = {Systematic and Applied Acarology},
+  title     = {Effect of foundress population density and size on reproduction and population growth of a haplodiploid mite},
+  year      = {2020},
+  month     = nov,
+  number    = {11},
+  pages     = {2063--2076},
+  volume    = {25},
+  abstract  = {Tetranychus ludeni Zacher (Acari: Tetranychidae) is an invasive polyphagous haplodiploid pest mite of many
+vegetable crops in many parts of the world. This study investigated the effects of simultaneous variations in the
+local foundress population density and size on the reproduction and population growth of T. ludeni. We show
+that negative population-density and -size dependency limited the reproduction of foundresses, where the
+effects of population size on population growth overweighed that of population density. We further demonstrate
+that ovipositing females could accelerate population growth rate (intrinsic rate of increase, rm) at higher
+population sizes by producing more daughters early during their lifespan, which can be an adaptive strategy to
+allow more daughters to complete development and disperse to reduce future food competition intensity. This
+study provided knowledge on population dynamics in response to foundress population density and size in
+general and T. ludeni population forecast and precise timing of pest management in particular.},
+  comment   = {Population size and density are correlated; mother mites produce more daughters when populations are smaller and less dense},
+  doi       = {10.11158/saa.25.11.11},
+  publisher = {Systematic and Applied Acarology Society},
 }
 
 @Article{Whitmoyer1972,
@@ -4532,7 +4778,7 @@ It has been observed that the flowers of A. phanluongii Vislobokov are visited b
 @Article{Zheng2013,
   author    = {Zheng, Guo Hua and Zheng, Zhi Zhong and Tong, Qing Xuan and Ming, Yan Lin and others},
   journal   = {Archives of virology},
-  title     = {Orchid fleck virus: an unclassified bipartite, negative-sense rna plant virus},
+  title     = {Orchid fleck virus: an unclassified bipartite, negative-sense {RNA} plant virus},
   year      = {2013},
   number    = {2},
   pages     = {313--323},
