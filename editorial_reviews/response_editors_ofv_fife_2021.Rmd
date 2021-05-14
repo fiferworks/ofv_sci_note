@@ -145,6 +145,24 @@ Please use “orchid fleck virus (OFV)” when describing a physical virus, and 
 **Response to Reviewer 1:**
 **Thank you for reviewing our article. We have made the following changes based on your remarks:**
 
+Accepted edits:
+
+- L3 - 'the United States' $\rightarrow$ 'Florida'
+
+- L33 - 'Orchid Fleck Virus' $\rightarrow$ '*Orchid fleck dichorhavirus*'
+
+- L155 - reference manager error: citation link '\@Kitajima2011b' $\rightarrow$ citation link '\@Kitajima2011a' (produces correct reference)
+
+- fixed reference manager errors: added brackets {} around capitalized words {} and italic species names '{\\textit{}}' to protect case. also: Asparagalean, Amaryllidaceae, Asparagaceae, Xanthorrhoeaceae, *Rhabdoviridae*, Asparagaceae, RNA, *Psilanthus*
+
+
+Open edits: 
+
+- L319 - Is it necessary to italicize Rhabdoviridae in this context?
+
+- L321 - no need to italicize Asparagaceae, it is a plant family
+
+
 
 Reviewer: 2
 

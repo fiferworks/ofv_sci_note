@@ -29,9 +29,9 @@ citef <- pryr::partial(fig_nums, display = "cite")
 citet <- pryr::partial(tab_nums, display = "cite")
 ```
 
-### First report of the *Brevipalpus*-transmitted (Trombidiformes: Tenuipalpidae) *Orchid fleck dichorhavirus* infecting three ornamentals in the United States
+### First report of the *Brevipalpus*-transmitted (Trombidiformes: Tenuipalpidae) *Orchid fleck dichorhavirus* infecting three ornamentals in Florida
 
-Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^4^, Kishore **Dey**^5^, Avijit **Roy**^6^, Ronald **Ochoa**^7^, Gary **Bauchan**^8^ $\dagger$, Mathews **Paret**^4,9^, Xavier **Martini**^1^\*
+Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^4^, Kishore **Dey**^5^, Avijit **Roy**^6^, Ronald **Ochoa**^7^, Gary **Bauchan**^8^$\dagger$, Mathews **Paret**^4,9^, Xavier **Martini**^1^\*
 
 ^1^ University of Florida, Department of Entomology and Nematology, North Florida Research and Education Center, Quincy FL 32351
 
