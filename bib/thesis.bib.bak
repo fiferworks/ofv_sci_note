@@ -84,8 +84,7 @@
   title   = {Bacilliform virus in white-streaked {\textit{Dendrobium phalaenopis}} flowers},
   year    = {1974},
 }
-
-@Article{Allington1968,
+{Allington1968,
   author    = {Allington, W. B. and Staples, Robert and Viehmeyer, Glenn},
   title     = {Transmission of {Rose rosette virus} by the eriophyid mite {\textit{Phyllocoptes fructiphilus}},
   journal   = {Journal of Economic Entomology},
@@ -193,8 +192,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   volume    = {6},
   doi       = {10.1016/s1572-4379(96)80050-9},
 }
-
-@Article{Amrine2002,
+{Amrine2002,
   author  = {Amrine Jr, J. W.},
   title   = {{\textit{Rosa multiflora}},
   journal = {Biological control of invasive plants in the Eastern {United States}},
@@ -656,8 +654,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   doi       = {10.1046/j.1439-0434.2001.00702.x},
   publisher = {Wiley},
 }
-
-@Article{Boer2004a,
+{Boer2004a,
   author    = {Jetske G. de Boer and Marcel Dicke},
   title     = {The role of methyl salicylate in prey searching behavior of the predatory mite {\textit{Phytoseiulus persimilis}},
   journal   = {Journal of Chemical Ecology},
@@ -3594,8 +3591,7 @@ identification and acceptance process},
   doi       = {10.1007/s13337-021-00676-5},
   publisher = {Springer Science and Business Media {LLC}},
 }
-
-@Article{Ozman2005,
+{Ozman2005,
   author    = {Ozman, Sebahat K. and Goolsby, John A.},
   title     = {Biology and phenology of the eriophyid mite, {\textit{Floracarus perrepae}}, on its native host in {{Australia},} {Old world climbing fern}, {\textit{Lygodium microphyllum}},
   journal   = {Experimental and Applied Acarology},
