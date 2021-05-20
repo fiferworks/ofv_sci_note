@@ -59,15 +59,26 @@ Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^
 
 ### Abstract
 
-*Orchid fleck dichorhavirus* (OFV) infects over 50 plant species belonging to the family Orchidaceae, Asparagaceae (Nolinoidaea), and Rutaceae (Citrus). The only known vectors of dichorhaviruses are flat mites from the genus *Brevipalpus* Donnadieu (Trombidiformes: Tenuipalpidae). OFV was found infecting liriopogons (*Liriope* spp. and *Ophiopogon* spp.),  as well as *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in the landscape in Leon County, Florida, during the summer of 2020. The presence of OFV was confirmed using OFV-specific conventional reverse transcription polymerase chain assay (RT-PCR) assay and Sanger sequencing. RT-PCR amplicons had a 98% identity with known OFV sequences available in NCBI GenBank. Other leaf samples of the plant family Asparagaceae with ringspots and chlorosis were collected from Leon and Alachua counties and tested with PCR and Sanger sequencing to detect OFV. Identification of partial genome sequence from PCR products confirmed the presence of both OFV orchid strains (OFV-Orc1 and OFV-Orc2) in Florida. These strains of OFV are known to infect citrus and cause citrus leprosis disease. Three potential mite vectors were identified from OFV-infected plants using cryo-scanning electron microscopy (Cryo-SEM): *Brevipalpus californicus* (sensu lato), *B. obovatus*, and *B. confusus*. Florida has various native and introduced plants in the landscape that *Brevipalpus* spp. feed on, which are potentially susceptible to OFV. In this study, we report three new hosts from the family Asparagaceae from multiple locations. Our data suggested that *Orchid fleck dichorhavirus* is widely distributed in Florida and might be a threat for various plant species growing in the southeastern US.
+<!-- 250 words or less. -->
+<!-- Give scientific name and authority at first mention of each organism. -->
+<!-- Do not cite references, figures, tables, probability levels, or results. -->
+<!-- Refer to results only in the general sense. -->
+<!-- A second abstract in a second language is permitted. -->
 
+We report outbreaks of *Orchid fleck dichorhavirus* (OFV-Orc) infecting three new hosts: *Liriope* spp. *Ophiopogon* and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua Counties, Florida. Strains of OFV-Orc infect over 50 plant species belonging to the plant families Orchidaceae, Asparagaceae (Nolinoidaea), and infects *Citrus* (Rutaceae), as citrus leprosis disease. The only known vectors of OFV-Orc are flat mites from the genus *Brevipalpus* (Trombidiformes: Tenuipalpidae). Florida has various native and introduced plants in the landscape which *Brevipalpus* spp. feed on, which are potentially susceptible to OFV-Orc.
+
+Chlorotic ringspots flecking were seen affecting Liriopogons (*Liriope* spp. and *Ophiopogon* spp.) in Leon County, FL. Nearby *A. elatior* also appeared chlorotic. Local diagnostics returned negative for common plant viruses, so samples were sent to the Florida Department of Agriculture and Consumer Services for identification. Orchid-infecting *Orchid fleck dichorhavirus* was confirmed via conventional reverse transcription polymerase chain reaction of L-gene (RNA2) and Sanger sequencing of amplicons. Amplicons had a 98% identity with known OFV sequences available in NCBI GenBank.
+
+New samples from symptomatic plants were collected in both Leon and Alachua counties. High-throughput sequencing (HTS) at the USDA-ARS detected OFV-Orc and OFV-Orc2 in *Aspidistra* and *Liriope*, respectively. Three potential mite vectors were identified via cryo-scanning electron microscopy (Cryo-SEM): *Brevipalpus californicus* (Banks) sensu lato, *B. obovatus* Donnadieu, and *B. confusus* Baker.
+
+Our report suggests that *Orchid fleck dichorhavirus* is present in northern Florida, representing a risk for susceptible plants in the southeastern US.
 
 ### Keywords:
 False spider mite, flat mite, *Brevipalpus*-transmitted viruses, *Liriope*, Nolinoideae, *Ophiopogon*, Ruscaceae, Rutaceae, Asparagaceae, orchid, Orchidaceae, pests, ornamental plants, orchid fleck virus.
 
 
 \pagebreak
-*Orchid fleck dichorhavirus* (OFV) is the type member for the genus *Dichorhavirus*, family *Rhabdoviridae*; a bacilliform, nuclear rhabdovirus composed of two segments of single-stranded, negative-sense RNA which infects plants [@Amarasinghe2019; @Dietzgen2014; @Walker2018]. Flat mites from the genus *Brevipalpus* Donnadieu (Trombidiformes: Tenuipalpidae) are the only known vectors of dichorhaviruses [@Maeda1998]. *Brevipalpus californicus* (Banks) sensu lato mites are the only group known to transmit OFV in a persistent propagative manner [@Kondo2003].
+*Orchid fleck dichorhavirus* (OFV) is the type member for the genus *Dichorhavirus*, family *Rhabdoviridae*; a bacilliform, nuclear rhabdovirus composed of two segments of single-stranded, negative-sense RNA which infects plants [@Amarasinghe2019; @Dietzgen2014; @Walker2018]. Flat mites from the genus *Brevipalpus* (Trombidiformes: Tenuipalpidae) are the only known vectors of dichorhaviruses [@Maeda1998]. *Brevipalpus californicus* (Banks) sensu lato mites are the only group known to transmit OFV in a persistent propagative manner [@Kondo2003].
 
 OFV-infected plants exhibit various symptoms depending on the infected plant species as well as the strain of the OFV associated with the infection [@Kubo2009b], but symptoms typically appear as chlorotic flecks, which ultimately coalesce into larger spots or ringspot patterns<!--(`r citef("fig_1")`, `r citef("fig_2")`)-->.
 
@@ -83,7 +94,12 @@ The initial site of collection was visited two more times during 2020 to gather 
 
 The presence of OFV was confirmed using OFV generic R2-Dicho-GF and R2-Dicho-GR primers by one step conventional RT-PCR [@Roy2020], amplifying ~800 nt of L-gene (RNA2) amplicon from an infected *Liriope* leaf sample. Sanger sequencing of RT-PCR amplicons shared 98\% nucleotide identity with orchid strains of OFV: OFV-Orc1 and OFV-Orc2 (GenBank Accession numbers: AB244418 and LC222630) [@Kondo2006; @Kondo2017]. 
 
-Subsequent surveys of plants belonging to the subfamily Nolinoidaea in Florida have revealed more sites with Asparagaceae putatively infected with OFV in Leon and Alachua counties (`r citet("tab_1")`). Mites were collected from symptomatic plants in Leon county and observed with phase contrast microscopy. Tenuipalpid mites (flat mites or false spider mites) were commonly found in abundance on the Asparagaceae, which tested positive for OFV. These flat mites were initially identified as *B. californicus* s. l. and later confirmed by the FDACS via Differential Interference Contrast (DIC) microscopy. The *Brevipalpus* mite species complex is known to contain cryptic species [@Childers2011] that require advanced microscopy techniques, such as cryo scanning electron microscopy (Cryo-SEM) for species identification [@Skoracka2015; @Leon2010; @Beard2015]. Additional mite samples were collected from the original OFV detection site, and examined under Cryo-SEM (`r citef("fig_3")`). The determinations approved prior identifications of *B. californicus* s.l. but revealed the presence of two other species *B. obovatus* and *B. confusus* (`r citef("fig_4")`). 
+Subsequent surveys of plants belonging to the subfamily Nolinoidaea in Florida have revealed more sites with Asparagaceae putatively infected with OFV in Leon and Alachua counties (`r citet("tab_1")`). Mites were collected from symptomatic plants in Leon county and observed with phase contrast microscopy. Tenuipalpid mites (flat mites or false spider mites) were commonly found in abundance on the Asparagaceae, which tested positive for OFV. These flat mites were initially identified as *B. californicus* s. l. and later confirmed by the FDACS via Differential Interference Contrast (DIC) microscopy. The *B. californicus* s. l. species group, sensu @Baker1987 is suspected to contain cryptic species [@Childers2011; @Rodrigues2013], as seen in other *Brevipalpus* species, such as *B. phoenicis* (Geijskes) [@Beard2015].
+
+
+<!-- You need to identify mites with special techniques [@Skoracka2015] which require supplemental techniques in addition to light microscopy for accurate identification [@Beard2015]. A plea for awareness of cryptic species [@Leon2010] -->
+
+New mite samples were collected from the site where OFV was first confirmed and sent to USDA-ARS's Electron and Confocal Microscopy Unit for analysis. Three mite species were recovered and examined under cryo scanning electron microscopy (Cryo-SEM): *B. californicus* s.l. (`r citef("fig_3")`), *B. obovatus* Baker and *B. confusus* Donnadieu (`r citef("fig_4")`). 
 
 The first report of OFV in the US is thought to be @Ko1985, who describes nuclear inclusions caused by an undescribed bacilliform rhabdovirus in *Brassia* orchids.  The significance of this report is their reference to spoke-wheel configurations of the viral particles [@Ko1985], a sign typically associated with OFV infection [@Chang1976]. Unfortunately, @Ko1985 made no mention of mites or further investigations of this virus. The first certain report of OFV was from Hawaii in 2001 [@Blanchfield2001], while the first report from the continental US was by @Bratsch2015. In that publication, the authors confirmed the presence of OFV in *Phalaenopsis* hybrids in the US, using TEM of ultrathin sections of plant tissue as well as molecular sequence analysis and its association with *Brevipalpus* mites [@Bratsch2015]. The authors did not make a conclusive species identification but suggested the mite vector was within the *B. californicus* group, as referred by @Kondo2003.
 
@@ -98,7 +114,7 @@ We would like to give special thanks to the Tallahassee Museum for their patienc
 ### References
 <div id="refs"></div>
 
-### Table 1: List of plants with symptoms of *Orchid fleck dichorhavirus* found in northern Florida
+### Table 1: List of Asparagaceae (Nolinoidaea) species with verified cases of *Orchid fleck dichorhavirus*, along with basic descriptions of foliar symptoms seen in the landscape of northern Florida
 
 |Scientific Name|Common Names|Symptoms Observed|County|
 |:-----------|:--------------|:----------------|:-----|
@@ -118,7 +134,7 @@ We would like to give special thanks to the Tallahassee Museum for their patienc
 
 `r fig_nums(name = "fig_3", caption = "Cryo-SEM images of *Brevipalpus californicus* sensu lato displaying various characters used for identification [@Baker1987; @Beard2012] (a) Dorsum  (b) Lateral view (c) Venter (d) Close up of distal end of leg 2, with arrows indicating paired solenidia, characteristic of the genus *Brevipalpus* (e) Enlargement of the microplates of the mite cerotegument (f) Dorsal view of the distal portion of mite abdomen (g) Dorsal view of the mite rostrum (h) Ventral view of mite rostrum, observe 3 distal setae.")`
 
-`r fig_nums(name = "fig_4", caption = "Florida is home to other common pest species of *Brevipalpus*, which are potential vectors of *Orchid fleck dichorhavirus*: (a) *B. yothersi*, dorsal (b) *B. yothersi*, lateral (c) *B. obovatus*, dorsal.")`
+`r fig_nums(name = "fig_4", caption = "Florida is home to other common pest species of *Brevipalpus*, which are potential vectors of *Orchid fleck dichorhavirus*: (a) *B. phoenicis*, dorsal (b) *B. yothersi*, lateral (c) *B. obovatus*, dorsal.")`
 
 
 
