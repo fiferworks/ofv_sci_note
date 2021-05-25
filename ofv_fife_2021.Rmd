@@ -65,15 +65,15 @@ Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^
 <!-- Refer to results only in the general sense. -->
 <!-- A second abstract in a second language is permitted. -->
 
-We describe the first outbreaks of *Orchid fleck dichorhavirus*, belonging to the orchid-infecting subgroup (OFV-Orc), from three unreported hosts: *Liriope muscari*, cv. 'Gigantea (Decaisne) Bailey, *Ophiopogon intermedius* Don and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua Counties, FL. Strains of OFV-Orc infect over 50 plant species belonging to the plant families Orchidaceae, Asparagaceae (Nolinoidaea), and infects *Citrus* (Rutaceae) as citrus leprosis disease. The only known vectors of OFV-Orc are flat mites, genus *Brevipalpus* (Trombidiformes: Tenuipalpidae). Florida has various plants in the landscape which *Brevipalpus* spp. feed on, which are potentially susceptible to OFV-Orc.
+We describe the first outbreaks of *Orchid fleck dichorhavirus*, belonging to the orchid-infecting subgroup (OFV-Orc), from three unreported hosts: *Liriope muscari*, cv. 'Gigantea (Decaisne) Bailey, *Ophiopogon intermedius* Don and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) in Leon and Alachua Counties, FL. Strains of OFV-Orc infect over 50 plant species belonging to the plant families Orchidaceae, Asparagaceae (Nolinoidaea), and infects *Citrus* (Rutaceae) as citrus leprosis disease. The only known vectors of OFV-Orc are flat mites, genus *Brevipalpus* (Trombidiformes: Tenuipalpidae). Florida has various plants in the landscape which *Brevipalpus* spp. feed on, which are susceptible to infection by OFV-Orc.
 
-Chlorotic ringspots and flecking were seen affecting Liriopogons (*Liriope* spp. and *Ophiopogon* spp.) in Leon County, FL. Adjacent *A. elatior* also appeared chlorotic. Local diagnostics returned negative for common plant pathogens, therefore samples were sent to the Florida Department of Agriculture and Consumer Services and USDA-ARS for identification.
+Chlorotic ringspots and flecking was seen affecting Liriopogons (*Liriope* spp. and *Ophiopogon* spp.) in Leon County, FL. Nearby *A. elatior* also appeared chlorotic. Local diagnostics returned negative for common plant pathogens, therefore new samples were sent to the Florida Department of Agriculture and Consumer Services (FDACS) and USDA-ARS for identification.
 
-OFV-Orc was confirmed in *L. muscari* and *A. elatior* via conventional and quantitative reverse transcription polymerase chain reaction. Sanger sequencing of amplicons found 98% nucleotide identity with orchid-infecting strains of Orchid fleck virus available in NCBI GenBank. High-throughput sequencing detected OFV-Orc and OFV-Orc2 in *A. elatior* and *L. muscari*, respectively. 
+Two orchid-infecting strains of Orchid fleck virus were detected via combinations of conventional RT-PCR, RT-qPCR, Sanger sequencing and High Throughput Sequencing. Amplicons shared 98% nucleotide identity with OFV-Orc1 and OFV-Orc2 available in NCBI GenBank. Coinfections were seen in each county, but single strains of OFV-Orc were seen in *L. muscari* (Alachua, OFV-Orc2) and *A. elatior* (Leon, OFV-Orc1).
 
 Three potential mite vectors were identified via cryo-scanning electron microscopy (Cryo-SEM): *Brevipalpus californicus* (Banks) sensu lato, *B. obovatus* Donnadieu, and *B. confusus* Baker.
 
-Our report suggests that *Orchid fleck dichorhavirus* is present in northern Florida, representing a risk for susceptible plants in the southeastern US.
+In conclusion, *Orchid fleck dichorhavirus* is present in northern Florida, representing a risk for susceptible plants in the southeastern US.
 
 ### Keywords:
 False spider mite, flat mite, *Brevipalpus*-transmitted viruses, *Liriope*, Nolinoideae, *Ophiopogon*, *Aspidistra*, Ruscaceae, Rutaceae, Asparagaceae, orchid, Orchidaceae, pests, ornamental plants, Orchid fleck virus.
