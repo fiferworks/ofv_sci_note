@@ -144,13 +144,10 @@ Please use “orchid fleck virus (OFV)” when describing a physical virus, and 
 **Response to Reviewer 1:**
 **Thank you for reviewing our article. We have made the following changes based on your remarks:**
 
-<!-- - Added discussion on why OFV has not been reported in orchids or citrus if the pathogen and vectors appear so widespread in the state. -->
-
+- Added discussion on why OFV has not been reported in nearby citrus.
 <!-- - Added discussion of potential control measures to reduce the impact and spread of this virus is warranted. -->
-
 - We have removed all references to cileviruses
 - We have corrected inconsistencies with taxonomic authorities
-- 
 
 The wording, organization, and grammar of the manuscript require significant revision for clarity and accuracy; perhaps more than I can offer below.  More notably, some references are either incorrect, or interpreted incorrectly.
 
