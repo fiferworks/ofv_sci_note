@@ -144,87 +144,91 @@ Please use “orchid fleck virus (OFV)” when describing a physical virus, and 
 **Response to Reviewer 1:**
 **Thank you for reviewing our article. We have made the following changes based on your remarks:**
 
+**We have adjusted some wording, organization, and grammar of the manuscript in an attempt to aid clarity and accuracy. We also reviewed and corrected some citations.**
+
+**We rewrote the sections describing sampling methods and diagnostics in the abstract and main text. Both samples from Leon County and Alachua were found to be positive for OFV; only samples from Leon were examined for mites. We have removed the claim that the virus is widespread.**
+
+Specific Edits: 
+
 - Added discussion on why OFV has not been reported in nearby citrus.
-<!-- - Added discussion of potential control measures to reduce the impact and spread of this virus is warranted. -->
 - We have removed all references to cileviruses
 - We have corrected inconsistencies with taxonomic authorities
+- We have not added a discussion of potential control measures due to word limits, and lack of specific documentation regarding control methods/chemical applications for these specific ornamental plants.
 
-The wording, organization, and grammar of the manuscript require significant revision for clarity and accuracy; perhaps more than I can offer below.  More notably, some references are either incorrect, or interpreted incorrectly.
+Also: 
+L33: “Orchid fleck virus (OFV) is a dichorhavirus that infects over 50 plant species belonging to the families Asparagaceae, Orchidaceae, and Rutaceae.  The only known vectors for…” $\rightarrow$ **rewritten**
 
-In the abstract it is mentioned that additional leaf samples were collected in Leon and Alachua counties, and in the following sentence it states that partial genome sequence confirmed the presence of OFV.  Are these sentences linked? In the main text it appears only the samples from Leon County were actually found to be positive for OFV; the samples from Alachua were only examined for mites.  I think this is an important clarification; are the authors basing their claim of the virus being widespread in Florida (L51) based on symptoms, or actually detecting OFV in both counties. Infection by different dichorhaviruses can result in similar symptoms; diagnostics are critical.
 
-L33: “Orchid fleck virus (OFV) is a dichorhavirus that infects over 50 plant species belonging to the families Asparagaceae, Orchidaceae, and Rutaceae.  The only known vectors for…”
+L37: (Liriope and Ophiopogon spp.) $\rightarrow$ **fixed**
 
-L37: (Liriope and Ophiopogon spp.)
+L40: “…Sanger sequencing.” $\rightarrow$ **fixed**
 
-L40: “…Sanger sequencing.”
+L41: remove “the known” and “the NCBI” $\rightarrow$ **fixed**
 
-L41: remove “the known” and “the NCBI”
+L42: I see no mention of a qPCR assay in the main text $\rightarrow$ **fixed**
 
-L42: I see no mention of a qPCR assay in the main text
+L43: “…possibly infected plants of the family Asparagaceae from…” $\rightarrow$ **rewritten**
 
-L43: “…possibly infected plants of the family Asparagaceae from…”
+L44: please elaborate on “Identification of partial genome sequence…” is this sequence from the PCR products or was HTS performed on the samples? $\rightarrow$ **rewritten**
 
-L44: please elaborate on “Identification of partial genome sequence…” is this sequence from the PCR products or was HTS performed on the samples?
+L48: perhaps identify what s.l. means; authorities are provided elsewhere in the manuscript $\rightarrow$ **sensu lato in this case refers to the fact that it not the specific mite referred to by Baker as *B. californicus*, which has been split into 3 subgroups, but have not been adequately described yet**
 
-L48: perhaps identify what s.l. means; authorities are provided elsewhere in the manuscript
+L49: italicize “Brevipalpus” $\rightarrow$ **fixed**
 
-L49: italicize “Brevipalpus”
+L59: Virus species should not be abbreviated; remove “(OFV)” $\rightarrow$ **Is this an acceptable alternative?**
 
-L59: Virus species should not be abbreviated; remove “(OFV)”
+L60: virus families are italicized (Rhabdoviridae) $\rightarrow$ **fixed**
 
-L60: virus families are italicized (Rhabdoviridae)
+L63: replace “sole” with “only known” $\rightarrow$ **fixed**
 
-L63: replace “sole” with “only known”
+L64: “group of mites” vs “sensu lato”? $\rightarrow$ **fixed**
 
-L64: “group of mites” vs “sensu lato”?
+L69: I don’t think referencing figures 1 and 2 are appropriate here $\rightarrow$ **fixed**
 
-L69: I don’t think referencing figures 1 and 2 are appropriate here
+L73,76: is listing the second author the correct way to distinguish articles for this journal?  Rather than “a” or “b” after publication year? $\rightarrow$ **citation manager error, fixed**
 
-L73,76: is listing the second author the correct way to distinguish articles for this journal?  Rather than “a” or “b” after publication year?
+L77: remove “: (Citrus) $\rightarrow$ **fixed**
 
-L77: remove “: (Citrus)
+L78: Olmedo-Velarde et al. is not an appropriate reference here $\rightarrow$ **citation should have been @Velarde2021, fixed**
 
-L78: Olmedo-Velarde et al. is not an appropriate reference here
+L82: “In June 2020,…”; (Lirope spp.) $\rightarrow$ **fixed**
 
-L82: “In June 2020,…”; (Lirope spp.)
+L83: belongs $\rightarrow$ **fixed**
 
-L83: belongs
+L85: perhaps “monocotyledonous liliod plants native to southeastern Asia (Chase…” $\rightarrow$ **fixed**
 
-L85: perhaps “monocotyledonous liliod plants native to southeastern Asia (Chase…”
+L86: is it appropriate to provide an authority for the genus (Ker Gawler)? $\rightarrow$ **fixed**
 
-L86: is it appropriate to provide an authority for the genus (Ker Gawler)?
+L92: none of these virus names should be italicized; INSV and TSWV are orthotospoviruses – why mentioned separately? $\rightarrow$ **I believe that these were specific tests, fixed**
 
-L92: none of these virus names should be italicized; INSV and TSWV are orthotospoviruses – why mentioned separately?
+L97: “…as well as Aspidistra elaitor Blume (Asparagaceae), which was suspected…” $\rightarrow$ **fixed, *A. elatior***
 
-L97: “…as well as Aspidistra elaitor Blume (Asparagaceae), which was suspected…”
+L103: “Lirope sp.” $\rightarrow$ **fixed**
 
-L103: “Lirope sp.”
+L108: how many sites? $\rightarrow$ **There are multiple sites with OFV-infected plants in Leon County, and one site identified in Alachua County. The plant samples tested from Leon Co. were taken from the first site where the pathogen was found.**
 
-L108: how many sites?
+L127: This is incorrect: Blanchfield et al 2001 identified a virion larger than OFV, and the sample was negative for OFV when tested by RT-PCR. $\rightarrow$ **Thank you for correcting this mistake, fixed**
 
-L127: This is incorrect: Blanchfield et al 2001 identified a virion larger than OFV, and the sample was negative for OFV when tested by RT-PCR.
+L134: Nolinoideae $\rightarrow$ **fixed**
 
-L134: Nolinoideae
+L145: The ICTV is not responsible for classification below species level, and as such, does not recognize virus strains; scientists and experts can recognize strains, but the  ICTV does not. $\rightarrow$ **fixed**
 
-L145: The ICTV is not responsible for classification below species level, and as such, does not recognize virus strains; scientists and experts can recognize strains, but the  ICTV does not.
+L152: “including Vanilla spp. in southern Florida…” $\rightarrow$ **clarified**
 
-L152: “including Vanilla spp. in southern Florida…”
+L154: a reference for this statement is advisable  $\rightarrow$ **clarified**
 
-L154: a reference for this statement is advisable
+L155: “…found that the virus which previously affected…”  $\rightarrow$ **clarified**
 
-L155: “…found that the virus which previously affected…”
+L165: “…vectors of dichorhaviruses (Knorr 1968,…” $\rightarrow$ **clarified**
 
-L165: “…vectors of dichorhaviruses (Knorr 1968,…”
-
-L168: “…identify the vector(s) of OFV in Florida…”
+L168: “…identify the vector(s) of OFV in Florida…” $\rightarrow$ **clarified**
 
 Table 1:
 L338: “…with symptoms of orchid fleck virus infection found in…”
-I am a little concerned about reporting on plants with symptoms, vs confirmed by diagnostics.  As mentioned earlier, different dichorhaviruses can cause similar symptoms in the same host.  Although remote, there is the possibility another virus could be responsible for the symptoms in a different location
+I am a little concerned about reporting on plants with symptoms, vs confirmed by diagnostics.  As mentioned earlier, different dichorhaviruses can cause similar symptoms in the same host.  Although remote, there is the possibility another virus could be responsible for the symptoms in a different location $\rightarrow$ **clarified in text**
 
 Figure captions:
-Please use “orchid fleck virus (OFV)” when describing a physical virus, and "Orchid fleck dichorhavirus" (in italics) when describing the species.
+Please use “orchid fleck virus (OFV)” when describing a physical virus, and "Orchid fleck dichorhavirus" (in italics) when describing the species. $\rightarrow$ **fixed**
 
 
 #### Reviewer: 2
@@ -240,14 +244,12 @@ Kitajima et. al. (2011) - correct reference mentioned is:
 Kitajima E W, Chagas CM, Harakava R, Calegario RF, Freitas-Astúa J, Rodrigues JCV, Childers, CC. 2011. Citrus Leprosis in Florida, USA, appears to have been caused by the Nuclear Type of Citrus Leprosis Virus (CiLV-N). Virus Reviews & Research 16:1-5.
 
 
-**Response to Reviewer 2:**
+**Reply to Reviewer 2:**
 **Thank you for reviewing our article. We have made the following changes based on your remarks:**
 
+**We have removed references to a 'wide distribution' in Florida, corrected species names and inconsistencies with citations. We are grateful for your assistance.**
 
-**Response to PDF edits (Reviewer #?):**
-**Thank you for reviewing our article. We have made the following changes based on your remarks:**
-
-Accepted edits:
+Specific Edits:
 
 - L3 - 'the United States' $\rightarrow$ 'Florida'
 
@@ -255,9 +257,9 @@ Accepted edits:
 
 - L155 - reference manager error: citation link '\@Kitajima2011b' $\rightarrow$ citation link '\@Kitajima2011a' (produces correct reference)
 
-- fixed reference manager errors: added brackets {} around capitalized words {} and italic species names '{\\textit{}}' to protect case. also: Asparagalean, Amaryllidaceae, Asparagaceae, Xanthorrhoeaceae, *Rhabdoviridae*, Asparagaceae, RNA, *Psilanthus*
+- fixed reference manager errors: added brackets {} around capitalized words {} and italic species names '{\\textit{}}' to protect case. Also: Asparagalean, Amaryllidaceae, Asparagaceae, Xanthorrhoeaceae, *Rhabdoviridae*, Asparagaceae, RNA, *Psilanthus*
 
 
 Italicized all instances of *Rhabdoviridae*
 
-- L321 - no need to italicize Asparagaceae, it is a plant family
+- L321 - We do not believe it is necessary to italicize the plant family 'Asparagaceae'
