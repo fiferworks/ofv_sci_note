@@ -289,6 +289,7 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   year      = {2018},
   month     = aug,
   volume    = {9},
+  comment   = {Mites are able to modulate plant defenses to improve their survival on their hosts},
   doi       = {10.3389/fpls.2018.01147},
   publisher = {Frontiers Media {SA}},
 }
@@ -980,6 +981,26 @@ identification and acceptance process},
   publisher = {Magnolia Press},
 }
 
+@Article{CastroResendiz2021,
+  author    = {Castro-Resendiz, Carmen Asunci{\'{o}}n and Otero-Colina, Gabriel and Quijano-Carranza, Juan {\'{A}}ngel and Mart{\'{\i}}nez-Meyer, Enrique and Gonz{\'{a}}lez-Hern{\'{a}}ndez, H{\'{e}}ctor and Cuellar-Zambrano, Carlos and Soto-Rojas, Lauro},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Potential areas for the establishment of citrus leprosis virus vectors, {\texit{Brevipalpus}} spp., in {Mexico}},
+  year      = {2021},
+  month     = jun,
+  number    = {2},
+  pages     = {365--388},
+  volume    = {84},
+  abstract  = {Citrus leprosis is a viral disease vectored by the mites Brevipalpus californicus and Brevipalpus yothersi. This work aimed to determine the potential areas for establishment of both mites and viruses in Mexico, based on the geographical distribution of the hosts and the climatic suitability for the vectors. Life tables of both mites were constructed to determine their thermal requirements---base temperature and degree-days required to complete life cycle---and population growth parameters---net reproduction rate, generation time, and intrinsic growth rate. For this, the mites were confined in Citrus aurantium fruits at 20, 22.5, 25 or 30 {$^{\circ}$}C, 60\hspace{0.167em}$\pm$\hspace{0.167em}5% RH and L14:D10 h photoperiod. Maps were generated where the climatic suitability for establishment of the mites and the citrus leprosis viruses was estimated in citrus-producing municipalities. The climatic suitability was determined through historical temperature records to calculate the potential number of generations per year, and ecological niche modeling based on collecting localities and bioclimatic variables using the algorithm Maxent. The base temperature was 9.5 {$^{\circ}$}C for B. californicus and 10.2 {$^{\circ}$}C for B. yothersi; degree-days required to reach adulthood were 372.1 and 331.7 {$^{\circ}$}C, respectively. Potential sites for establishment of B. yothersi are mostly lowlands, whereas for B. californicus they are both lowlands and highlands. Temperature data indicate that B. californicus has fewer sites where it can develop >\hspace{0.167em}16 generations per year than B. yothersi. According to our results, the sites where citrus leprosis is most likely to present high incidence are the sweet orange cultivars bordering the Gulf of Mexico.},
+  comment   = {Research Q: Which areas in Mexico have the greatest risk for the establishment of Brevipalpus californicus and B. yothersi, the vectors of citrus leprosis diseases, OFV and CiLV, respectively?
+Motivation: To protect agriculture from invasive mite spp. and their diseases (epidemics)
+Results: Models predict that B. cali and C. yothersi will do well in the same places, citrus-growing regions. B. yothersi populations grow faster reached population, 5x that of B. californicus in 65  days:  predicted 16 generations per year in best locales. Establishment model: "There are two areas with the highest concentration of cultivated citruses; one is located in the northern part of the Gulf of Mexico coast (areas in orange and red) and covers part of the states of Veracruz, Tamaulipas and Nuevo Le{\'{o}}n, where sweet citrus trees such as orange and mandarin predominate; the other is located in the central part of the Pacific coast and covers mainly the states of Michoac{\'{a}}n and Colima, where Mexican lemon plantations predominate." Risk models: "The area where high host densities and favorable climate conditions coincide corresponds to the state of Michoac{\'{a}}n, where both mites could complete more than 16 generations per year. In the northern coastal area of the Gulf of Mexico, where the largest sweet orange cultivated area is found in the country, both species could complete between 12 and 16 generations per year. However, in wide areas of the Yucatan Peninsula, lowlands of the Gulf of Mexico and Pacific coasts, as well as lands in southern Mexico with an altitude of less than 1000 m asl, known as the Balsas Depression or Tierra Caliente, B. yothersi can reach more than 16 generations per year, whereas B. californicus can only reach more than 16 generations per year in much smaller areas in the same states. For the same climate in sites with presence of cultivated citrus crops, B. yothersi seems to be more apt to increase its populations than B. californicus."
+Methods: Life tables, then establishment model, then ecological niche modelling. See paper for specifics, pretty complicated sounding models.
+Conclusions: Most citrus growing regions at risk for establishment of these mites, and therefore at risk for citrus leprosis, protection methods should be focused in the specific regions with high risk.
+Impressions: Cryptic spp. make this model overestimate, also: humans primary source of infestation is assumed, not backed by data (although pretty apparent). Could have guessed that vector can exist where plant can grow, but validation is nice. (Although, done in greenhouse, so again probably an overestimate)},
+  doi       = {10.1007/s10493-021-00631-5},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{ChabiJesus2018,
   author    = {Chabi-Jesus, C. and Ramos-Gonz{\'{a}}lez, P. L. and Tassi, A. D. and Guerra-Peraza, O. and Kitajima, E. W. and Harakava, R. and Beserra, J. E. A. and Salaroli, R. B. and Freitas-Ast{\'{u}}a, J.},
   journal   = {Plant Disease},
@@ -1059,6 +1080,19 @@ identification and acceptance process},
   volume    = {42},
   doi       = {10.3186/jjphytopath.42.156},
   publisher = {The Phytopathological Society of Japan},
+}
+
+@Article{Chapman2017,
+  author    = {Chapman, Daniel and Purse, Bethan V. and Roy, Helen E. and Bullock, James M.},
+  journal   = {Global Ecology and Biogeography},
+  title     = {Global trade networks determine the distribution of invasive non-native species},
+  year      = {2017},
+  month     = jun,
+  number    = {8},
+  pages     = {907--917},
+  volume    = {26},
+  doi       = {10.1111/geb.12599},
+  publisher = {Wiley},
 }
 
 @Article{Chase2009,
@@ -1183,6 +1217,18 @@ identification and acceptance process},
   title  = {A control strategy for breaking the virus-vector cycle of {\textit{Brevipalpus}} spp. and the rhabdovirus disease, {Citrus leprosis}},
   year   = {2001},
   month  = jan,
+}
+
+@Article{Childers1994,
+  author   = {Carl C. Childers},
+  journal  = {Florida Entomologist},
+  title    = {Feeding injury to {'Robinson'} tangerine leaves by {\textit{Brevipalpus}} mites ({Acari}: {Tenuipalpidae}) in {Florida} and evaluation of chemical control on citrus},
+  year     = {1994},
+  month    = jun,
+  number   = {2},
+  pages    = {265--271},
+  volume   = {77},
+  abstract = {Larvae, nymphs and adults of the false spider mites Brevipalpus phoenicis (Geijskes) and B. obovatus Donnadieu (Acari: Tenuipalpidae) were found feeding on the ventral surface along the midrib of {\textquoteleft}Robinson{\textquoteright} tangerine leaves during December 1990. Resinous irregular areas were present in association with the chlorotic midvein areas of injured cells on the lower leaf surface. Similar injury was occasionally evident on some lateral veins in association with the mites. Yellowed, blistered areas were evident on the upper leaf surface opposite the injured areas on the lower leaf. Leaf drop was evident only on trees that were heavily infested with false spider mites. This type of leaf injury by Brevipalpus mites has not been previously reported on Florida citrus. Chemical control evaluations showed that AC 303,630 in combination with petroleum oil, pyridaben, fenbutatin-oxide, dicofol or high rates of sulfur provided at least 35 days control. Ethion was less effective and carbaryl failed to control these mites.},
 }
 
 @InCollection{Childers1996,
@@ -1930,6 +1976,18 @@ identification and acceptance process},
   year    = {2000},
   pages   = {10--21},
   volume  = {65},
+}
+
+@Article{Gill2002,
+  author    = {Gill, Stanton A. and Reeser, Rondalyn and Shrewsbury, Paula},
+  journal   = {Arthropod Management Tests},
+  title     = {Control of twospotted spider mite on {\textit{Liriope}}, 2001},
+  year      = {2002},
+  month     = jan,
+  number    = {1},
+  volume    = {27},
+  doi       = {10.1093/amt/27.1.g50},
+  publisher = {Oxford University Press ({OUP})},
 }
 
 @Article{Glas2014,
@@ -3322,6 +3380,19 @@ identification and acceptance process},
   year={2007}
 }
 
+@Article{Muma1955,
+  author    = {Martin H. Muma},
+  journal   = {Journal of Economic Entomology},
+  title     = {Factors contributing to the natural control of citrus insects and mites in {Florida}},
+  year      = {1955},
+  month     = aug,
+  number    = {4},
+  pages     = {432--438},
+  volume    = {48},
+  doi       = {10.1093/jee/48.4.432},
+  publisher = {Oxford University Press ({OUP})},
+}
+
 @Article{Nachappa2013,
   author    = {Nachappa, Punya and Margolies, David C. and Nechols, James R. and Whitfield, Anna E. and Rotenberg, Dorith},
   journal   = {{PLoS} {ONE}},
@@ -3662,6 +3733,19 @@ identification and acceptance process},
   month     = jan,
   doi       = {10.1673/031.012.0701},
   publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Osakabe2021,
+  author    = {Osakabe, Masahiro},
+  journal   = {Applied Entomology and Zoology},
+  title     = {Biological impact of ultraviolet-{B} radiation on spider mites and its application in integrated pest management},
+  year      = {2021},
+  month     = jan,
+  number    = {2},
+  pages     = {139--155},
+  volume    = {56},
+  doi       = {10.1007/s13355-020-00719-1},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 @Article{Otero-Colina2018,
@@ -4013,6 +4097,31 @@ identification and acceptance process},
   publisher = {Wiley},
 }
 
+@Article{Ranabhat2018,
+  author    = {Ranabhat, Nar B. and Seipel, Tim and Lehnhoff, Erik A. and Miller, Zach J. and Owen, Karl E. and Menalled, Fabian D. and Burrows, Mary E.},
+  journal   = {Plant Disease},
+  title     = {Temperature and alternative hosts influence {\textit{Aceria tosichella}} infestation and {\textit{Wheat streak mosaic virus}} infection},
+  year      = {2018},
+  month     = mar,
+  number    = {3},
+  pages     = {546--551},
+  volume    = {102},
+  doi       = {10.1094/pdis-06-17-0782-re},
+  publisher = {Scientific Societies},
+}
+
+@Article{Reddy2001,
+  author    = {Reddy, G. V. P.},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Comparative effectiveness of an integrated pest management system and other control tactics for managing the spider mite {\textit{Tetranychus ludeni}} {(Acari: Tetranychidae)} on eggplant},
+  year      = {2001},
+  number    = {12},
+  pages     = {985--992},
+  volume    = {25},
+  doi       = {10.1023/a:1020661215827},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{Revynthi2019,
   author    = {Revynthi, Alexandra M. and Pe{\~{n}}a, Jorge E. and Moreno, Jessica M. and Beam, Andrea L. and Mannion, Catharine and Bailey, Woodward D. and Carrillo, Daniel},
   journal   = {Journal of Economic Entomology},
@@ -4253,6 +4362,19 @@ identification and acceptance process},
   publisher = {American Society of Plant Biologists ({ASPB})},
 }
 
+@Article{SalinasVargas2013,
+  author    = {Salinas-Vargas, D. and Santill{\'{a}}n-Galicia, M. T. and Valdez-Carrasco, J. and Mora-Aguilera, G. and Atanacio-Serrano, Y. and Romero-Pescador, P.},
+  journal   = {Neotropical Entomology},
+  title     = {Species composition and abundance of {\textit{Brevipalpus}} spp. On different citrus species in {Mexican} orchards},
+  year      = {2013},
+  month     = jun,
+  number    = {4},
+  pages     = {419--425},
+  volume    = {42},
+  doi       = {10.1007/s13744-013-0140-6},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{SanchezVelazquez2015,
   author    = {S{\'{a}}nchez-Vel{\'{a}}zquez, E. J. and Santill{\'{a}}n-Galicia, M. T. and Novelli, V. M. and Nunes, M. A. and Mora-Aguilera, G. and Valdez-Carrasco, J. M. and Otero-Colina, G. and Freitas-Ast{\'{u}}a, J.},
   journal   = {{PLOS} {ONE}},
@@ -4380,6 +4502,17 @@ identification and acceptance process},
   volume    = {67},
   doi       = {10.1007/s10493-015-9954-8},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Skoracka2018,
+  author    = {Skoracka, Anna and Rector, Brian G. and Hein, Gary L.},
+  journal   = {Frontiers in Plant Science},
+  title     = {The interface between wheat and the wheat curl mite, {\textit{Aceria tosichella}}, the primary vector of globally important viral diseases},
+  year      = {2018},
+  month     = jul,
+  volume    = {9},
+  doi       = {10.3389/fpls.2018.01098},
+  publisher = {Frontiers Media {SA}},
 }
 
 @Article{Skoracka2009,
@@ -4717,6 +4850,19 @@ identification and acceptance process},
   volume    = {74},
   doi       = {10.1002/ps.4918},
   publisher = {Wiley},
+}
+
+@Article{Vechia2021,
+  author    = {Vechia, Jaqueline F. Della and Leeuwen, Thomas Van and Rossi, Guilherme D. and Andrade, Daniel J.},
+  journal   = {Pesticide Biochemistry and Physiology},
+  title     = {The role of detoxification enzymes in the susceptibility of {\textit{Brevipalpus californicus}} exposed to acaricide and insecticide mixtures},
+  year      = {2021},
+  month     = jun,
+  pages     = {104855},
+  volume    = {175},
+  abstract  = {The intense spraying of pesticides to control different arthropod pests has resulted in negative side effects for the management of pests. It was previously discovered that exposure to non-acaricidal insecticides alone or in a mixture, results in lower efficiency of the acaricide spirodiclofen used for Brevipalpus spp. control. We investigate here whether the induced expression of detoxification enzymes by non-lethal insecticides may antagonize spirodiclofen toxicity. Brevipalpus californicus mites exposed to the insecticide phosmet alone or in combination with spirodiclofen showed increased activity of P450 monooxygenases (P450s). No antagonistic effects in mite mortality were observed by the combination of phosmet and spirodiclofen. On the other hand, mites exposed to the insecticide imidacloprid alone or in combination with spirodiclofen showed an increase in the activity of P450s, carboxylcholinesterases (CCE), and glutathione-S-transferases (GST). An antagonistic effect on mite mortality was observed when mites were exposed to the LC25 of spirodiclofen combined with the field rate treatment of imidacloprid. The addition of PBO (a P450 monooxygenase inhibitor) to the mixture of spirodiclofen and imidacloprid resulted in a synergistic effect over mite mortality but the addition of DEM (a GST inhibitor) resulted in an antagonist effect. Taken together, this study showed that the combination of imidacloprid with spirodiclofen is antagonistic for the control of B. californicus, and this results from the induction of detoxification enzymes, such as P450s, CCE, and GST. The use of inhibitors highlights the role of these enzymes in the antagonism of the mixture.},
+  doi       = {10.1016/j.pestbp.2021.104855},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Velarde2021,
