@@ -13,6 +13,20 @@
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Achor2001,
+  author    = {Achor, Diann S. and Ochoa, Ronald and Erbe, Eric F. and Aguilar, Hugo and Wergin, William P. and Childers, Carl C.},
+  journal   = {International Journal of Acarology},
+  title     = {Relative advantages of low temperature versus ambient temperature scanning electron microscopy in the study of mite morphology},
+  year      = {2001},
+  month     = mar,
+  number    = {1},
+  pages     = {3--12},
+  volume    = {27},
+  abstract  = {Low temperature scanning electron microscopy (LTSEM) is an effective technique for studying the morphology of Acari. This study evaluates results from two approaches: ambient temperature scanning electron microscopy (ATSEM) and LTSEM. Four preparation techniques for ATSEM were evaluated. The advantages and disadvantages of the preparation procedures of ATSEM and LTSEM are discussed. In general, LTSEM was found to be superior to ATSEM in the study of mites.},
+  doi       = {10.1080/01647950108684218},
+  publisher = {Informa {UK} Limited},
+}
+
 @Article{Akyazi2017,
   author    = {Akyazi, Rana and Ueckermann, Eddie A. and Liburd, Oscar E.},
   journal   = {Florida Entomologist},
@@ -483,6 +497,14 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   type        = {techreport},
 }
 
+@Book{Baker1952,
+  author    = {Baker, Edward W. and Wharton, George Willard},
+  publisher = {The Macmillian Company},
+  title     = {An introduction to acarology},
+  year      = {1952},
+  doi       = {10.5962/bhl.title.6810},
+}
+
 @Article{Baker1979,
   author    = {Baker, R. T.},
   journal   = {New Zealand Journal of Experimental Agriculture},
@@ -622,6 +644,20 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   publisher = {Wiley},
 }
 
+@Article{Belliure2010,
+  author    = {Belliure, Bel{\'{e}}n and Sabelis, Maurice W. and Janssen, Arne},
+  journal   = {Basic and Applied Ecology},
+  title     = {Vector and virus induce plant responses that benefit a non-vector herbivore},
+  year      = {2010},
+  month     = mar,
+  number    = {2},
+  pages     = {162--169},
+  volume    = {11},
+  abstract  = {The negative cross-talk between induced plant defences against pathogens and arthropod herbivores is exploited by vectors of plant pathogens: a plant challenged by pathogens reduces investment in defences that would otherwise be elicited by herbivores. This negative cross-talk may also be exploited by non-vector herbivores which elicit similar anti-herbivore defences in the plant. We studied how damage by the thrips Frankliniella occidentalis and/or infection with Tomato spotted wilt virus (TSWV) affect the performance of a non-vector arthropod: the two-spotted spider mite Tetranychus urticae, a parenchym feeder just like F. occidentalis. Juvenile survival of spider mites on plants inoculated with TSWV by thrips was higher than on control and on thrips-damaged plants. However, thrips damage did not reduce spider-mite survival as compared to the control, suggesting that the positive effect of TSWV on spider-mite survival is independent of anti-thrips defence. Developmental and oviposition rates were enhanced on plants inoculated with TSWV by thrips and on plants with thrips damage. Therefore, spider mites benefit from TSWV-infection of pepper plants, but also from the response of plants to thrips damage. We suggest that the positive effects of TSWV on this non-vector species cannot be explained exclusively by cross-talk between anti-herbivore and anti-pathogen plant defences.},
+  doi       = {10.1016/j.baae.2009.09.004},
+  publisher = {Elsevier {BV}},
+}
+
 @Article{Bello2015,
   author    = {Bello, Patrick L. Di and Ho, Thien and Tzanetakis, Ioannis E.},
   title     = {The evolution of emaraviruses is becoming more complex: seven segments identified in the causal agent of {Rose rosette disease}},
@@ -646,6 +682,30 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   doi       = {10.1093/jee/toaa007},
   editor    = {Silvia Rondon},
   publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Bensoussan2016,
+  author    = {Nicolas Bensoussan and M. Estrella Santamaria and Vladimir Zhurov and Isabel Diaz and Miodrag Grbi{\'{c}} and Vojislava Grbi{\'{c}}},
+  journal   = {Frontiers in Plant Science},
+  title     = {Plant-herbivore interaction: dissection of the cellular pattern of {\textit{Tetranychus urticae}} feeding on the host plant},
+  year      = {2016},
+  month     = jul,
+  volume    = {7},
+  doi       = {10.3389/fpls.2016.01105},
+  publisher = {Frontiers Media {SA}},
+}
+
+@Article{Bickford2007,
+  author    = {Bickford, David and Lohman, David J. and Sodhi, Navjot S. and Ng, Peter K. L. and Meier, Rudolf and Winker, Kevin and Ingram, Krista K. and Das, Indraneil},
+  journal   = {Trends in Ecology {\&} Evolution},
+  title     = {Cryptic species as a window on diversity and conservation},
+  year      = {2007},
+  month     = mar,
+  number    = {3},
+  pages     = {148--155},
+  volume    = {22},
+  doi       = {10.1016/j.tree.2006.11.004},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Biere2013,
@@ -773,6 +833,19 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   pages   = {25},
 }
 
+@Article{Bolton2018,
+  author    = {Bolton, Samuel J. and Bauchan, Gary R. and Chetverikov, Philipp E. and Ochoa, Ronald and Klompen, Hans},
+  journal   = {International Journal of Acarology},
+  title     = {A rudimentary sheath for the smallest of "biting" chelicerae: the mouthparts of {\textit{Cunliffea}} ({Nematalycidae}) and a new hypothesis on the origin of the stylet sheath of {Eriophyoidea} ({Acariformes})},
+  year      = {2018},
+  month     = jul,
+  number    = {8},
+  pages     = {374--381},
+  volume    = {44},
+  doi       = {10.1080/01647954.2018.1488274},
+  publisher = {Informa {UK} Limited},
+}
+
 @Article{Boom2002,
   author    = {van den Boom, C. E. M. and van Beek, T. A. and Dicke, M.},
   title     = {Attraction of {\textit{Phytoseiulus persimilis}} ({Acari}: {Phytoseiidae}) towards volatiles from various {\textit{Tetranychus urticae}}-infested plant species},
@@ -783,32 +856,6 @@ causing damage in defoliation in coffee plantations in the states of Minas Gerai
   month     = dec,
   doi       = {10.1079/ber2002193},
   publisher = {Cambridge University Press ({CUP})},
-}
-
-@Article{Bradley1959,
-  author    = {Bradley, R. H. E.},
-  title     = {Loss of virus from the stylets of aphids},
-  journal   = {Virology},
-  year      = {1959},
-  volume    = {8},
-  number    = {3},
-  pages     = {308--318},
-  month     = jul,
-  doi       = {10.1016/0042-6822(59)90032-7},
-  publisher = {Elsevier {BV}},
-}
-
-@Article{Bradley1955,
-  author    = {Bradley, R. H. E. and Ganong, R. Y.},
-  title     = {Evidence that {Potato Virus Y} is carried near the tip of the stylets of the aphid vector {\textit{Myzus persicae}} ({S}ulz.)},
-  journal   = {Canadian Journal of Microbiology},
-  year      = {1955},
-  volume    = {1},
-  number    = {9},
-  pages     = {775--782},
-  month     = dec,
-  doi       = {10.1139/m55-091},
-  publisher = {Canadian Science Publishing},
 }
 
 @Article{Bragard2013,
@@ -1172,6 +1219,43 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Systematic and Applied Acarology Society},
 }
 
+@Article{Chetverikov2012,
+  author    = {Chetverikov, Philipp E.},
+  journal   = {Zootaxa},
+  title     = {Confocal laser scanning microscopy technique for the study of internal genitalia and external morphology of eriophyoid mites ({Acari}: {Eriophyoidea})},
+  year      = {2012},
+  number    = {5},
+  pages     = {56--68},
+  volume    = {3453},
+  abstract  = {Confocal laser scanning microscopy (CLSM) is a modern powerful technique that can be used for studying the external
+and internal anatomy of arthropods. CLSM has seldom been used in acarology and very rarely for studying eriophyoid
+mites. It allows the capture of precise digital images of the fine details of external and internal chitinous structures, which
+can be further analysed using various computer programs. CLSM can serve as an effective tool for comparing closely
+related and/or cryptic species, correcting diagnoses of poorly described taxa, studying immature instars, and particularly,
+for studying the structures and the functioning of the internal genitalia of adult females and males. In this paper, the
+potential use of CLSM for the study of eriophyoids is demonstrated using specimens of 13 mite species and eight genera
+from the families Phytoptidae Murray 1877 and Eriophyidae Nalepa 1898. This study showed that freshly mounted
+specimens on microscope slides appeared to be the most appropriate for CLSM as older specimens tended to have reduced
+autofluorescence. The best choice for studying the external morphology and internal genital apparatus of eriophyoid mites
+appeared to be the blue laser. Green and light blue wavelengths (488 nm and 532 nm) were found to be less useful. The
+quality of CLSM images depended on the slide-mounting medium used. Among those compared, Hoyer{\textquoteright}s medium was
+found to be the most appropriate whereas Heinze medium and media including Iodium gave poorer results. The empodia
+and proximal parts of setae were shown to have very weak autofluorescence signals, but they reflected red (635 nm) and
+blue (405 nm) laser light, which could be detected with CLSM.},
+  publisher = {Magnolia Press},
+}
+
+@Article{Chetverikov2012a,
+  author    = {Chetverikov, Philipp E. and Beaulieu, Frederic and Cvrkovi{\'c}, Tatjana and Vidovi{\'c}, Biljana and Petanovi{\'c}, Radmila},
+  journal   = {Zootaxa},
+  title     = {{\textit{Oziella sibirica}} ({Acari}: {Eriophyoidea}: {Phytoptidae}), a new eriophyoid mite species described using confocal microscopy, {COI} barcoding and {3D} surface reconstruction},
+  year      = {2012},
+  number    = {1},
+  pages     = {41--60},
+  volume    = {3560},
+  publisher = {Magnolia Press},
+}
+
 @Article{Chetverikov2016,
   author    = {Chetverikov, Philipp E. and Bolton, Samuel},
   title     = {Suboral fork: a newly discerned gnathosomal structure from the proboscis of eriophyoid mites ({Acari}, {Eriophyoidea})},
@@ -1441,6 +1525,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {{MDPI} {AG}},
 }
 
+@Article{Dabert2010,
+  author    = {Dabert, Miroslawa and Witalinski, Wojciech and Kazmierski, Andrzej and Olszanowski, Ziemowit and Dabert, Jacek},
+  journal   = {Molecular Phylogenetics and Evolution},
+  title     = {Molecular phylogeny of acariform mites ({Acari}, {Arachnida}): strong conflict between phylogenetic signal and long-branch attraction artifacts},
+  year      = {2010},
+  month     = jul,
+  number    = {1},
+  pages     = {222--241},
+  volume    = {56},
+  doi       = {10.1016/j.ympev.2009.12.020},
+  publisher = {Elsevier {BV}},
+}
+
 @Article{Darolt2020,
   author    = {Darolt, Josiane Cec{\'{\i}}lia and Fassini, Camila Gi{\'{a}}como and Wulff, Nelson Arno and Piero, Robson Marcelo Di},
   journal   = {Tropical Plant Pathology},
@@ -1449,6 +1546,16 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   month     = jun,
   doi       = {10.1007/s40858-020-00373-6},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@InCollection{Dasch2019,
+  author    = {Dasch, Gregory A. and Ramaiah, Arunachalam and Holmes, Zachary C. and Zambrano, Maria L. and Shirey, T. Brian},
+  booktitle = {Contemporary Acarology},
+  publisher = {Springer International Publishing},
+  title     = {Use of the ion torrent {PGM} for determining the genomic sequences of {\textit{Francisella}} and {\textit{Coxiella}}-like endosymbionts and {\textit{Rickettsia}} directly from hard ticks},
+  year      = {2019},
+  pages     = {1--35},
+  doi       = {10.1007/978-3-030-17265-7_1},
 }
 
 @Article{Delisle2015,
@@ -1460,6 +1567,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   number    = {4},
   pages     = {495--509},
   publisher = {Springer},
+}
+
+@Article{Dermauw2020,
+  author    = {Dermauw, Wannes and Jonckheere, Wim and Riga, Maria and Livadaras, Ioannis and Vontas, John and Leeuwen, Thomas Van},
+  journal   = {Insect Biochemistry and Molecular Biology},
+  title     = {Targeted mutagenesis using {CRISPR}-{Cas9} in the chelicerate herbivore {\textit{Tetranychus urticae}}},
+  year      = {2020},
+  month     = may,
+  pages     = {103347},
+  volume    = {120},
+  abstract  = {The use of CRISPR-Cas9 has revolutionized functional genetic work in many organisms, including more and more insect species. However, successful gene editing or genetic transformation has not yet been reported for chelicerates, the second largest group of terrestrial animals. Within this group, some mite and tick species are economically very important for agriculture and human health, and the availability of a gene-editing tool would be a significant advancement for the field. Here, we report on the use of CRISPR-Cas9 in the spider mite Tetranychus urticae. The ovary of virgin adult females was injected with a mix of Cas9 and sgRNAs targeting the phytoene desaturase gene. Natural mutants of this laterally transferred gene have previously shown an easy-to-score albino phenotype. Albino sons of injected virgin females were mated with wild-type females, and two independent transformed lines where created and further characterized. Albinism inherited as a recessive monogenic trait. Sequencing of the complete target-gene of both lines revealed two different lesions at expected locations near the PAM site in the target-gene. Both lines did not genetically complement each other in dedicated crosses, nor when crossed to a reference albino strain with a known genetic defect in the same gene. In conclusion, two independent mutagenesis events were induced in the spider mite T. urticae using CRISPR-Cas9, hereby providing proof-of-concept that CRISPR-Cas9 can be used to create gene knockouts in mites.},
+  doi       = {10.1016/j.ibmb.2020.103347},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Bello2017,
@@ -1574,6 +1694,34 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Article{Dunlop2011,
+  author    = {Dunlop, Jason A. and Wirth, Stefan and Penney, David and McNeil, Andrew and Bradley, Robert S. and Withers, Philip J. and Preziosi, Richard F.},
+  journal   = {Biology Letters},
+  title     = {A minute fossil phoretic mite recovered by phase-contrast {X-ray} computed tomography},
+  year      = {2011},
+  month     = nov,
+  number    = {3},
+  pages     = {457--460},
+  volume    = {8},
+  doi       = {10.1098/rsbl.2011.0923},
+  publisher = {The Royal Society},
+}
+
+@InBook{Dutcher2007,
+  author    = {James D. Dutcher},
+  chapter   = {A review of resurgence and replacement causing pest outbreaks in {IPM}},
+  editor    = {Ciancio, A. and Mukerji, K. G.},
+  pages     = {26--43},
+  publisher = {Springer Netherlands},
+  title     = {General concepts in integrated pest and disease management},
+  year      = {2007},
+  isbn      = {1402060602},
+  month     = aug,
+  ean       = {9781402060601},
+  pagetotal = {376},
+  url       = {https://www.ebook.de/de/product/6740472/general_concepts_in_integrated_pest_and_disease_management.html},
+}
+
 @TechReport{EDDMapS2019,
   author      = {{EDDMapS}},
   title       = {Early detection \& distribution mapping system},
@@ -1656,6 +1804,18 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   ean       = {9780851988221},
   pagetotal = {576},
   url       = {https://www.worldcat.org/title/principles-of-acarology/oclc/27820092},
+}
+
+@Article{Facchini2019,
+  author    = {Facchini, Elena and Nalon, Laura and Andreis, Maria Elena and Giancamillo, Mauro Di and Rizzi, Rita and Mortarino, Michele},
+  journal   = {Scientific Reports},
+  title     = {Honeybee pupal length assessed by {CT}-scan technique: effects of {\textit{Varroa}} infestation, developmental stage and spatial position within the brood comb},
+  year      = {2019},
+  month     = jul,
+  number    = {1},
+  volume    = {9},
+  doi       = {10.1038/s41598-019-46474-4},
+  publisher = {Springer Science and Business Media {LLC}},
 }
 
 @Article{Fantz1994,
@@ -1981,6 +2141,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {The Global Biodiversity Information Facility},
 }
 
+@Article{Gerson1989,
+  author    = {Gerson, Uri and Cohen, Ephraim},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Resurgences of spider mites ({Acari}: {Tetranychidae}) induced by synthetic pyrethroids},
+  year      = {1989},
+  month     = feb,
+  number    = {1},
+  pages     = {29--46},
+  volume    = {6},
+  doi       = {10.1007/bf01193231},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Book{Gerson2003,
   title     = {Mites ({Acari}) for pest control},
   publisher = {John Wiley \& Sons},
@@ -1992,6 +2165,35 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   ean       = {9780632056583},
   pagetotal = {560},
   url       = {https://www.ebook.de/de/product/3616330/gerson_ochoa_smiley_mites_{Acari}_for_pest_control.html},
+}
+
+@Article{Giangrande2003,
+  author    = {Adriana Giangrande},
+  journal   = {Aquatic Conservation: Marine and Freshwater Ecosystems},
+  title     = {Biodiversity, conservation, and the 'taxonomic impediment'},
+  year      = {2003},
+  number    = {5},
+  pages     = {451--459},
+  volume    = {13},
+  abstract  = {1.
+This paper highlights the poor esteem in which taxonomy, as autonomous science, is held and the relative implications of this for conservation biology.
+
+2.
+In recent times, taxonomy at the species level has tended to be neglected not just within ecological researches, but also in the identification and justification for the selection of the marine protected areas (MPA). A traditional criterion for choosing an MPA is the conservation of biodiversity, but most of the Italian MPA were chosen without initial detailed studies on their biodiversity, so that lists of species of the main invertebrate groups are not available.
+
+3.
+The identification of organisms within communities to species level is one of the greatest constraints in terms of time and costs in ecological studies. Some studies have suggested that working at a taxonomic level higher than species does not result in an important loss of information (Taxonomic sufficiency). It does, however, lead to an inaccuracy of biodiversity evaluation which is, especially important when comparing different areas, and can lead to an {\textquoteleft}a priori{\textquoteright} exclusion of some entities before understanding their role in ecology.
+
+4.
+Taxonomy has always been considered a marginal science even during the pioneer descriptive period of ecology, and traditionally has received little financial support. The result was the production of many misidentifications and erroneous records. During recent years, the developing experimental ecological approach has led to an improvement in scientific methods, but concurrently to a reduction in the number of expert taxonomists for many invertebrate groups. Descriptive works, historically so common in the Mediterranean area, are now considered obsolete, despite having an intrinsic value.
+
+5.
+Biodiversity, particularly {\textquoteleft}species richness{\textquoteright} has long been thought to influence temporal variability and it seems that efforts to clarify the biodiversity/temporal variability relationship or to demonstrate the lack of such a relationship should continue. Such information is essential in order to maintain the ecological function despite the loss of component species, an important topic not only to ecologists but also to policy makers. Many species appear to have overlapping niches, and as such it could be argued that it is not essential for all species to be present. In contrast the crucial role of keystone species has been embraced in conservation biology as a tool to help highlight species requiring priority for protection.
+
+6.
+Present knowledge of marine systems has led to the conclusion that, before developing theories and experimental design, we need an appropriate description of the system under investigation. A basic knowledge of the general biodiversity in term of species richness of a proposed MPA for example is essential, with a detailed survey providing the taxonomic lists necessary for biotope characterization and a reference data set for future comparisons.},
+  doi       = {10.1002/aqc.584},
+  publisher = {Wiley},
 }
 
 @Article{Gibbs2000,
@@ -2013,6 +2215,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   volume    = {27},
   doi       = {10.1093/amt/27.1.g50},
   publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Giribet2018,
+  author    = {Gonzalo Giribet},
+  journal   = {Zoologischer Anzeiger},
+  title     = {Current views on chelicerate phylogeny{\textemdash}a tribute to {Peter Weygoldt}},
+  year      = {2018},
+  month     = mar,
+  pages     = {7--13},
+  volume    = {273},
+  abstract  = {Peter Weygoldt pioneered studies of arachnid phylogeny by providing the first synapomorphy scheme to underpin inter-ordinal relationships. Since this seminal work, arachnid relationships have been evaluated using morphological characters of extant and fossil taxa as well as multiple generations of molecular sequence data. While nearly all datasets agree on the monophyly of Tetrapulmonata, and modern analyses of molecules and novel morphological and genomic data support Arachnopulmonata (a sister group relationship of Scorpiones to Tetrapulmonata), the relationships of the apulmonate arachnid orders remain largely unresolved. Three threads may allow us to resolve the recalcitrant phylogeny of arachnids: the careful evaluation of large amounts of molecular data; novel techniques grounded in comparative morphology and evolutionary developmental biology, which add improved homology statements and explain the transition between character states; and new fossil discoveries, which continue to incorporate relevant novel data to the discussion of the relationships among the arachnid orders.},
+  doi       = {10.1016/j.jcz.2018.01.004},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Glas2014,
@@ -2105,6 +2320,20 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {American Society of Plant Biologists ({ASPB})},
 }
 
+@Article{Grodsky2015,
+  author    = {Grodsky, Steven M. and Iglay, Raymond B. and Sorenson, Clyde E. and Moorman, Christopher E.},
+  journal   = {The Journal of Wildlife Management},
+  title     = {Should invertebrates receive greater inclusion in wildlife research journals?},
+  year      = {2015},
+  month     = apr,
+  number    = {4},
+  pages     = {529--536},
+  volume    = {79},
+  abstract  = {Invertebrates are among the most diverse organisms on Earth, significantly contribute to ecosystem function and integrity, and possess high potential as bioindicators. By definition, invertebrates also are wildlife. Yet, inclusion of invertebrates in peer-reviewed wildlife journals has not been investigated. As such, our objective was to assess inclusion of invertebrates in prominent wildlife journals published in the last decade. Based on our review and first-hand experience, we also aimed to provide recommendations for integration of invertebrates into wildlife science, education, and peer-reviewed literature. We performed a systematic literature review by manually searching all issues and articles from 2003--2013 of the following journals: European Journal of Wildlife Research, Journal of Wildlife Management, South African Journal of Wildlife Research, Wildlife Biology, Wildlife Research, and Wildlife Society Bulletin. We analyzed data derived from our review to elucidate trends in the inclusion of invertebrates in these journals. We identified 4,916 articles that involved animal taxa, of which 122 (2.5%) included invertebrates and 1% included invertebrates as focal taxa. Our results indicated invertebrates are included in a minute portion of articles in top wildlife journals. We recommend a paradigm shift to a less taxonomically homogenized and vertebrate-centric approach to wildlife science and education, integrating invertebrates into wildlife studies, and publishing results of those studies in wildlife journals to facilitate effective management of all wildlife species. {\copyright} 2015 The Wildlife Society.},
+  doi       = {10.1002/jwmg.875},
+  publisher = {Wiley},
+}
+
 @Article{Groot2006,
   author    = {Groot, Thomas V. M. and Breeuwer, Johannes A. J.},
   journal   = {Experimental and Applied Acarology},
@@ -2172,6 +2401,15 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Systematic and Applied Acarology Society},
 }
 
+@Book{Helle1985,
+  author    = {Helle, W.},
+  publisher = {Elsevier Distributors for the United States and Canada, Elsevier Science Pub. Co},
+  title     = {Spider mites : their biology, natural enemies, and control},
+  year      = {1985},
+  address   = {Amsterdam New York New York, NY},
+  isbn      = {9780444423726},
+}
+
 @Article{Helle1980,
   author    = {Helle, W. and Bolland, H. R. and Heitmans, W. R. B.},
   journal   = {Genetica},
@@ -2228,6 +2466,15 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   year    = {1945},
   volume  = {35},
   pages   = {655},
+}
+
+@Book{Hoy2011,
+  author    = {Hoy, Marjorie},
+  publisher = {CRC Press},
+  title     = {Agricultural acarology : introduction to integrated mite management},
+  year      = {2011},
+  address   = {Boca Raton},
+  isbn      = {9781439817513},
 }
 
 @Article{Jackson2005,
@@ -2293,6 +2540,15 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   number    = {12},
   volume    = {15},
   publisher = {Wiley Online Library},
+}
+
+@Book{Jeppson1975,
+  author    = {Jeppson, Lee R. and Kiefer, Hartford H. and Baker, Edward W.},
+  publisher = {University of California Press},
+  title     = {Mites injurious to economic plants},
+  year      = {1975},
+  address   = {Berkeley},
+  isbn      = {0-520-02381-1},
 }
 
 @Article{Jesse2006,
@@ -2388,6 +2644,37 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi       = {10.1371/journal.pone.0233507},
   editor    = {Satyanarayana Tatineni},
   publisher = {Public Library of Science ({PLoS})},
+}
+
+@Article{Khederi2018a,
+  author    = {Khederi, Saeid Javadi and Khanjani, Mohammad and Gholami, Mansur and de Lillo, Enrico},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Impact of the erineum strain of {\textit{Colomerus vitis}} ({Acari}: {Eriophyidae}) on the development of plants of grapevine cultivars of {Iran}},
+  year      = {2018},
+  month     = mar,
+  number    = {4},
+  pages     = {347--363},
+  volume    = {74},
+  doi       = {10.1007/s10493-018-0245-z},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Khederi2018,
+  author    = {Khederi, Saeid Javadi and Khanjani, Mohammad and Gholami, Mansur and Lillo, Enrico De},
+  journal   = {Systematic and Applied Acarology},
+  title     = {Sources of resistance to the erineum strain of {\textit{Colomerus vitis}} ({Acari}: {Eriophyidae}) in grapevine cultivars},
+  year      = {2018},
+  month     = feb,
+  number    = {3},
+  pages     = {405},
+  volume    = {23},
+  abstract  = {The erineum strain of Colomerus vitis (GEM) is the most destructive pest of vineyards in western Iran and sometimes causes considerable damages to the grapevine. Little information is available on the susceptibility of the grapevine to this pest and its knowledge can be useful for a sustainable management of GEM. The present study was aimed at evaluating the responses of the plants to the infestation of GEM in order to compare the resistance/susceptibility of some native cultivars to this pest. Also, the profiling of JA, SA and IAA in leaves of infested plants of Sezdang was studied. The experiment was carried out on eighteen native cultivars and the non-native Muscat Gordo which were selected amongst the most common in southern and western Iran. Potted plants were cultivated under greenhouse conditions at a temperature of 32 $\pm$ 3.8{$^{\circ}$}C, 75 $\pm$ 5% R.H. and a photoperiod of L16: D8 h. The impact of GEM was evaluated on the basis of the leaf area and weight, number and size of the erinea, and percentage of leaves with erinea three months after the infestation. The cane length was measured, too. Mite density on galled leaves (three months after the infestation) and in buds (at the bud breaking) was assessed.
+
+        Cluster analysis based on the leaf damage index induced by GEM allowed to distinguish highly affected (Sezdang, Khalili, Ghalati and Rishbaba), moderately affected (Neyshaboori, Gazne, Muscat, Lale, Shahani Sefid, Ahmad, Monagha and Sia) and scarcely affected (Yaghuti, Rotabi, White Thompson, Atabaki, Koladari and Sahebi and Shahani Gerd) cultivars. The mite density into the buds and on the galled leaves was higher in the medium-late (Rishbaba and Khalili) and late ripening (Sezdang and Ghalati) cultivars rather than in the early (Sahebi and Shahani Gerd) and early-medium (Atabaki) ripening ones. The leaf damaged area, the leaf weight, the shoot length and the erineum development were correlated to the mite density and were the highest on Sezdang, Khalili, Ghalati and Rishbaba and the lowest on Atabaki, Koladari, Sahebi and Shahani Gerd. The highest density of the overwintering population was detected in proximal buds of all treated cultivars.
+
+        The plant responses and the mite density were investigated also in the second and third year after the first mite infestation on highly affected (Sezdang, Khalili, Ghalati, Rishbaba), a few of the moderately affected (Neyshaboori, Gazne, Muscat) and the scarcely affected cultivars (White Thompson, Atabaki, Koladari, Sahebi, Shahani Gerd). The leaf damaged area, the percentage of galled leaves, the percentage of cane length reduction and the mite density strongly decreased during all three years of observations on the highly affected Sezdang, Khalili and Gazne. On the contrary, Ghalati and Rishbaba displayed an increase of the leaf damaged area, leaf damaged index and mite density on galled leaves during the same period in comparison to the first year of observation. The percentage of the leaves with erinea, the leaf damaged area and the mite density of Sezdang were highly and positively correlated with IAA while a negative correlation was found between the leaf damaged area and the mite density with SA and JA in the assayed years. Almost all data currently collected allowed a recognition of White Thompson, Atabaki, Koladari, Sahebi and Shahani Gerd as the least affected cultivars.},
+  doi       = {10.11158/saa.23.3.1},
+  publisher = {Systematic and Applied Acarology Society},
 }
 
 @Article{Kim2010,
@@ -2634,6 +2921,28 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   volume    = {452-453},
   doi       = {10.1016/j.virol.2014.01.007},
   publisher = {Elsevier {BV}},
+}
+
+@Book{Krantz2009,
+  author    = {Krantz, G. W.},
+  publisher = {Texas Tech University Press},
+  title     = {A manual of acarology},
+  year      = {2009},
+  address   = {Lubbock, Tex},
+  isbn      = {9780896726208},
+  abstract  = {The third edition of A Manual of Acarology has been a long time coming and took 10 years to produce! The second edition was published in 1978, but the third edition just arrived after 10 years of labor by the authors. Contributing authors include Valerie Behan-Pelletier, David R. Cook, Mark S. Harvey, James E. Keirans, Gerald W. Krantz, Evert E. Lindquist, Roy A. Norton, Barry M. O'Connor, Ian M. Smith, and David E. Walter. In the Preface, the editors acknowledge the extensive assistance of Marilyn Houck during 1999--2003 in the planning and preparation of this edition.
+
+Earlier editions of this book have long been a mainstay in acarology courses, especially when a laboratory is offered and students are taught how to use keys to identify mites to family. Like the previous editions, this hefty volume includes a brief introduction to acarine biology, phylogeny, morphology, ecology, and behavior. A chapter provides detailed information on how to collect and rear mites, as well as how to preserve and slidemount mites. There is an extensive bibliography (114 pages) as well as a systematic (19 pages) and a subject (12 pages) index.
+
+The bulk of the book contains up-to-date information on the classification of mites and keys. Individual chapters with diagnoses and keys are provided for the orders, suborders, and a cohort, with line drawings and other illustrations. Most chapters include keys to families (and in the case of the ticks, keys to genus). This volume includes a new ranking of mite groups compared to the 1978 edition. For example, the order Astigmata (or Acaridida, according to some) is placed in a cohort within the suborder Oribatida, a downgrading of its previous status. Significant other changes also were made in ranking, with the basis for these changes apparently based on morphological analyses rather than the use of molecular phylogenies. This edition indicates there are 6 orders (including the Opilioacaridida, Holothyrida, Ixodida, Mesostigmata, Trombidiformes, Sarcoptiformes) within the subclass Acari.
+
+The identification of mites to family with the keys requires that adult mites (often both males and females) be killed, fixed, and preserved before being slide-mounted for observation under a light microscope. To see the diagnostic characters used in the keys to family or genus, magnifications of 100--1000X are required, and a phase-contrast microscope is highly desirable. As noted by the authors, {\textquotedblleft}Making a good slide mount requires practice and more than a modicum of patience. Pitfalls to be avoided include improper centering of the medium droplet on the slide, using too little medium to accommodate the coverslip, and failure to rinse reactive macerants from the specimen prior to transfer to the mounting medium.{\textquotedblright} Thus, for the novice, getting specimens properly prepared for identification with the keys in this volume is a substantial task.
+
+This volume will be useful to those who are teaching courses in acarology that include laboratories involving mite identification. It will be valuable to serious acarologists everywhere, as well as ecologists and others interested in this highly diverse group of arthropods. The update in references is a valuable resource for anyone interested in the orders. Information on the biology of mites is updated, although in abbreviated form, but those interested in learning more about a specific group may find references leading to more detailed information. Unfortunately, as Lindquist, Krantz, and Walter point out in Chapter 8, {\textquotedblleft}Discoveries of new mite species, genera, and even families have continued apace, and many of these findings have challenged existing familiar- and generic-level concepts.{\textquotedblright} As a result, this volume may have a limited lifespan because new discoveries will lead to different perspectives in the placement of the acarine taxa. However, this valuable volume represents an enormous contribution of time and accumulated wisdom on the part of its expert authors.
+
+It would have been interesting if the authors had compared their ordinal, subordinal, and generic categories, based primarily on morphological traits, with molecular phylogenies. Mites are highly evolved and have lost many taxonomically useful characters; unlike insects, they lack antennae, wings (and thus, venation), and have lost their primitive segmentation patterns. Molecular data indicate that some {\textquoteleft}species{\textquoteright} include cryptic species, indicating that it is likely that the categories and keys presented will need modification as we identify new taxonomic groups.
+
+Despite this quibble, the volume clearly is a labor of love by dedicated acarologists, and is a very significant addition to the acarological literature. Enjoy this volume, because the field of acarology (and entomology) is losing skilled taxonomic specialists at a rapid rate, and any future editions of this book may be at least as long in coming as this one.},
 }
 
 @Article{Krantz1979,
@@ -3045,15 +3354,14 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi       = {10.1016/s1572-4379(96)80006-6},
 }
 
-@Book{Lindquist1996,
-  author    = {Lindquist, E. E. and Bruin, J. and Sabelis, M. W.},
-  editor    = {Helle, W.},
-  publisher = {Elsevier},
-  title     = {Eriophyoid mites. Their biology, natural enemies, and control},
-  year      = {1996},
-  isbn      = {9780444886286},
-  series    = {World crop pests},
-  volume    = {6},
+@InCollection{Lindquist1999,
+  author    = {Evert E. Lindquist},
+  booktitle = {Ecology and Evolution of the Acari},
+  publisher = {Springer Netherlands},
+  title     = {Evolution of phytophagy in trombidiform mites},
+  year      = {1999},
+  pages     = {73--88},
+  doi       = {10.1007/978-94-017-1343-6_4},
 }
 
 @Article{Liu2016,
@@ -3162,6 +3470,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Florida Entomological Society},
 }
 
+@Article{Magalhaes2007,
+  author    = {Magalh{\~{a}}es, Sara and Forbes, Mark R. and Skoracka, Anna and Osakabe, Masahiro and Chevillon, Christine and McCoy, Karen D.},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Host race formation in the {Acari}},
+  year      = {2007},
+  month     = aug,
+  number    = {4},
+  pages     = {225--238},
+  volume    = {42},
+  doi       = {10.1007/s10493-007-9091-0},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @InCollection{Manson1996,
   author    = {Manson, D. C. M. and Oldfield, G. N.},
   booktitle = {Eriophyoid mites. Their biology, natural enemies, and control},
@@ -3227,6 +3548,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi       = {10.1111/j.1365-2435.2012.02026.x},
   editor    = {Charles Fox},
   publisher = {Wiley},
+}
+
+@InBook{McCoy1996,
+  author    = {McCoy, C. W. and Albrigo, L. G.},
+  chapter   = {Feeding effects on host plants: gall formation and other distorsions},
+  editor    = {Lindquist, E. E. and Bruin, J. and Sabelis, M. W.},
+  pages     = {513--526},
+  publisher = {Elsevier},
+  title     = {Eriophyoid mites. Their biology, natural enemies, and control},
+  year      = {1996},
+  isbn      = {9780444886286},
+  series    = {World crop pests},
+  volume    = {6},
 }
 
 @Article{Mcharo2003,
@@ -3624,6 +3958,18 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi       = {10.1007/978-1-4020-6359-6_2512},
 }
 
+@InBook{Oldfield1996,
+  author    = {Oldfield, G. N.},
+  chapter   = {Toxemias and other non-distortive feeding effects},
+  editor    = {Lindquist, E. E. and Bruin, J. and Sabelis, M. W.},
+  pages     = {243--250},
+  publisher = {Elsevier},
+  title     = {Eriophyoid mites. Their biology, natural enemies, and control},
+  year      = {1996},
+  booktitle = {World Crop Pests},
+  doi       = {10.1016/s1572-4379(96)80015-7},
+}
+
 @InCollection{Oldfield1996c,
   author    = {Oldfield, G. N.},
   booktitle = {Eriophyoid mites. Their biology, natural enemies, and control},
@@ -3634,6 +3980,17 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   isbn      = {9780444886286},
   series    = {World crop pests},
   volume    = {6},
+}
+
+@InBook{Oldfield2005,
+  author    = {Oldfield, George N.},
+  chapter   = {Biology of gall-inducing acari},
+  editor    = {Raman, Anantanarayanan and Schaefer, Carl Walter and Withers, Toni M.},
+  pages     = {35--57},
+  publisher = {Science Publishers Enfield},
+  title     = {Biology, ecology, and evolution of gall-inducing arthropods},
+  year      = {2005},
+  volume    = {1},
 }
 
 @InCollection{Oldfield1996b,
@@ -3660,6 +4017,20 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   isbn      = {9780444886286},
   series    = {World crop pests},
   volume    = {6},
+}
+
+@Article{Oliver1971,
+  author    = {Oliver, James H.},
+  journal   = {American Zoologist},
+  title     = {Parthenogenesis in mites and ticks ({Arachnida}: {Acari})},
+  year      = {1971},
+  month     = may,
+  number    = {2},
+  pages     = {283--299},
+  volume    = {11},
+  abstract  = {SYNOPSIS. Parthenogenesis is discussed according to type (arrhenotoky, thelytoky, deuteroLoky, artificial parthenogenesis, gynogenesis) and presence in various acarine taxa. Evidence for parthenogenesis is based on rearing and/or cytological studies. Arrhenotoky occurs in Mesostigmata, Prostigmata and Astigmata and usually does not occur sporadically throughout these taxa; when present it operates in many closely related species as the major type of reproduction in certain genera, subfamilies or families. Thelytoky is present in Mesostigmata, Metastigmata, Prostigmata, Astigmata and Cryptostigmata, but in no case is the major mode of reproduction in higher taxa, i.e. subfamilies, families. Its sporadic occurrence may or may not be accompanied by polyploidy. Deuterotoky occurs in one acarine group (Listrophoridae) and artificial parthenogenesis is possible in ticks (Metastigmata). Gynogenesis is present in several species of haplo-diploid Mesostigmata (some Dermanyssidae, Phytoseiidae), although it is usually considered in connection with thelytoky. Current studies of the effects of ploidy level on morphological variation indicate greater character variability in diploid females than in haploid males. In some species of ticks thelytoky is expressed differentially even on an intraspecific level. One geographic strain of a species may have the ability to reproduce thelytokously, but if mated produces males and females.},
+  doi       = {10.1093/icb/11.2.283},
+  publisher = {Oxford University Press ({OUP})},
 }
 
 @Article{OlmedoVelarde2019,
@@ -3983,6 +4354,26 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@InCollection{Petanovic2010,
+  author    = {Petanovi{\'{c}}, Radmila and Kielkiewicz, Malgorzata},
+  booktitle = {Eriophyoid Mites: Progress and Prognoses},
+  publisher = {Springer Netherlands},
+  title     = {Plant{\textendash}eriophyoid mite interactions: cellular biochemistry and metabolic responses induced in mite-injured plants. Part {I}},
+  year      = {2010},
+  pages     = {61--80},
+  doi       = {10.1007/978-90-481-9562-6_4},
+}
+
+@InCollection{Petanovic2010a,
+  author    = {Petanovi{\'{c}}, Radmila and Kielkiewicz, Malgorzata},
+  booktitle = {Eriophyoid Mites: Progress and Prognoses},
+  publisher = {Springer Netherlands},
+  title     = {Plant{\textendash}eriophyoid mite interactions: specific and unspecific morphological alterations. Part {II}},
+  year      = {2010},
+  pages     = {81--91},
+  doi       = {10.1007/978-90-481-9562-6_5},
+}
+
 @Article{Petzold1971,
   author    = {H. Petzold},
   journal   = {Journal of Phytopathology},
@@ -4149,6 +4540,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Scientific Societies},
 }
 
+@Article{Rancic2006,
+  author    = {Dragana Rancic and Branka Stevanovic and Radmila Petanovi{\'{c}} and Biljana Magud and Ivo Tosevski and Andr{\'{e}} Gassmann},
+  journal   = {Experimental and Applied Acarology},
+  title     = {Anatomical injury induced by the eriophyid mite {\textit{Aceria anthocoptes}} on the leaves of {\textit{Cirsium arvense}}},
+  year      = {2006},
+  month     = apr,
+  number    = {4},
+  pages     = {243--253},
+  volume    = {38},
+  doi       = {10.1007/s10493-006-0013-3},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Article{Reddy2001,
   author    = {Reddy, G. V. P.},
   journal   = {Experimental and Applied Acarology},
@@ -4170,6 +4574,20 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi       = {10.1093/jee/toz258},
   editor    = {Dong H Cha},
   publisher = {Oxford University Press ({OUP})},
+}
+
+@Article{Robertson1988,
+  author    = {Robertson, N. L. and Carroll, T. W.},
+  journal   = {Science},
+  title     = {Virus-like particles and a spider mite intimately associated with a new disease of barley},
+  year      = {1988},
+  month     = may,
+  number    = {4856},
+  pages     = {1188--1190},
+  volume    = {240},
+  abstract  = {The malting barley---producing regions in Montana and Canada are threatened with a new virus-like barley disease that appears to be etiologically novel. Ultrathin sections of diseased tissue contained enveloped, filamentous virus-like particles that measured 64 nanometers by 126 to 4000 nanometers. These lengths are unique for plant viruses. Unexpectedly, the spider mite,Petrobia latens, which has never been reported to be a vector of a pathogen, was found to transmit the causal agent from diseased plants to healthy barley, while noninfective mites failed to do so unless they were allowed prior access to diseased tissue.},
+  doi       = {10.1126/science.240.4856.1188},
+  publisher = {American Association for the Advancement of Science ({AAAS})},
 }
 
 @Article{Rocha2021,
@@ -4206,6 +4624,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   volume    = {59},
   doi       = {10.1007/s10493-012-9632-z},
   publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Rodrigues2020,
+  author    = {Rodrigues, Jose Carlos Verle and Cosh, Michael H. and Hunt, E. Raymond and de Moraes, Gilberto J. and Barroso, Geovanny and White, William A. and Ochoa, Ronald},
+  journal   = {Insects},
+  title     = {Tracking red palm mite damage in the western hemisphere invasion with landsat remote sensing data},
+  year      = {2020},
+  month     = sep,
+  number    = {9},
+  pages     = {627},
+  volume    = {11},
+  doi       = {10.3390/insects11090627},
+  publisher = {{MDPI} {AG}},
 }
 
 @Article{Rodrigues2003a,
@@ -4249,6 +4680,17 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   doi     = {10.2903/j.efsa.2017.5110},
 }
 
+@Article{Rodrigues1997,
+  author    = {Rodrigues, Jos{\'e} C. V. and Nogueira, Neusa L. and Freitas, Deisi S. and Prates, Heloisa S.},
+  journal   = {Anais da Sociedade Entomol{\'o}gica do Brasil},
+  title     = {Virus-like particles associated with {\textit{Brevipalpus phoenicis}} {Geijskes} ({Acari}: {Tenuipalpidae}), vector of citrus leprosis virus},
+  year      = {1997},
+  number    = {2},
+  pages     = {391--395},
+  volume    = {26},
+  publisher = {SciELO Brasil},
+}
+
 @InCollection{Rodrigues2019,
   author    = {Rodrigues, Jose Carlos Verle and Ospina, Oscar E. and Massey, Steven E.},
   booktitle = {Contemporary Acarology},
@@ -4257,6 +4699,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   year      = {2019},
   pages     = {79--91},
   doi       = {10.1007/978-3-030-17265-7_5},
+}
+
+@Article{Rosenthal2017,
+  author    = {Rosenthal, Malcolm F. and Gertler, Matthew and Hamilton, Angela D. and Prasad, Sonal and Andrade, Maydianne C. B.},
+  journal   = {Animal Behaviour},
+  title     = {Taxonomic bias in animal behaviour publications},
+  year      = {2017},
+  month     = may,
+  pages     = {83--89},
+  volume    = {127},
+  abstract  = {Evidence suggests that certain taxonomic groups are more thoroughly studied than others across a wide range of biological disciplines. Such taxonomic biases have the potential to define our understanding of theory, and limit the generality of our insights. To assess the distribution of taxonomic representation in current and historical animal behaviour research, we constructed a data set containing article metrics and taxonomic information for all research articles published in the journal Animal Behaviour between 1953 and 2015. We found significant taxonomic bias, with chordate papers making up 70% of all publications in the past 15 years, despite accounting for less than 7% of all animal species. Within chordates, Animal Behaviour content is biased towards endotherms, with birds and mammals comprising more than 50% of all publications. In sum, six animal orders account for more than half of all publications, with the most commonly published order, Passeriformes, representing one in five articles. Our findings confirm that a relatively narrow group of {\textquoteleft}model{\textquoteright} taxa represent the vast majority of articles, and may have a disproportionate influence on our understanding of behavioural patterns and processes. Furthermore, we find evidence of a citation bias, with chordate studies receiving on average four citations more per paper than arthropod studies. While historical trends suggest that the publication gap between arthropods and chordates has been shrinking for the past 45 years, our findings show that a considerable bias still remains. These biases may originate from human preferences for certain animal types, but we argue that they are likely maintained by a mixture of taxonomic prejudices, cultural aspects of behavioural ecology as a field, and of academia in general. We suggest that the patterns are clear and their implications serious, and that it is time that both researchers and journals give serious consideration to addressing them.},
+  doi       = {10.1016/j.anbehav.2017.02.017},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{RossiZalaf2008,
@@ -4466,6 +4921,15 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {Scientific Societies},
 }
 
+@Book{Savory1964,
+  author    = {Savory, Theodore},
+  publisher = {Academic Press},
+  title     = {Arachnida},
+  year      = {1964},
+  address   = {London,New York},
+  isbn      = {9780126196504},
+}
+
 @Article{Schiffer2009,
   author    = {Schiffer, M. and Umina, P. and Carew, M. and Hoffmann, A. and Rodoni, B. and Miller, A.},
   journal   = {Annals of Applied Biology},
@@ -4478,6 +4942,19 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   abstract  = {The wheat curl mite (WCM), Aceria tosichella, is an eriophyid pest of cereals, and the vector responsible for the transmission of wheat streak mosaic virus (WSMV). In a previous study, the taxonomic status of A. tosichella in Australia was assessed using molecular markers. A. tosichella was shown to consist of two genetically distinct lineages likely to represent different species. Here we show that both lineages occupy similar distributions, occurring throughout the entire Australian wheat belt, and that the lineages are often found in sympatry. CLIMEX analysis suggests that tolerance to heat and desiccation limit the distribution of A. tosichella. In the laboratory, only one WCM lineage transmitted WSMV virus under controlled conditions. These results have implications for the management of WCM and WSMV within Australia.},
   doi       = {10.1111/j.1744-7348.2009.00349.x},
   publisher = {Wiley},
+}
+
+@Article{Scott2013,
+  author    = {Scott, Jeffrey G. and Michel, Kristin and Bartholomay, Lyric C. and Siegfried, Blair D. and Hunter, Wayne B. and Smagghe, Guy and Zhu, Kun Yan and Douglas, Angela E.},
+  journal   = {Journal of Insect Physiology},
+  title     = {Towards the elements of successful insect {RNAi}},
+  year      = {2013},
+  month     = dec,
+  number    = {12},
+  pages     = {1212--1221},
+  volume    = {59},
+  doi       = {10.1016/j.jinsphys.2013.08.014},
+  publisher = {Elsevier {BV}},
 }
 
 @Article{Shulaev1997,
@@ -4747,6 +5224,28 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   publisher = {{FapUNIFESP} ({SciELO})},
 }
 
+@Article{Thaler2001,
+  author    = {Thaler, Jennifer S. and Stout, Michael J. and Karban, Richard and Duffey, Sean S.},
+  journal   = {Ecological Entomology},
+  title     = {Jasmonate-mediated induced plant resistance affects a community of herbivores},
+  year      = {2001},
+  month     = jun,
+  number    = {3},
+  pages     = {312--324},
+  volume    = {26},
+  abstract  = {1. The negative effect of induced plant resistance on the preference and performance of herbivores is a well-documented ecological phenomenon that is thought to be important for both plants and herbivores. This study links the well-developed mechanistic understanding of the biochemistry of induced plant resistance in the tomato system with an examination of how these mechanisms affect the community of herbivores in the field.
+
+2. Several proteins that are induced in tomato foliage following herbivore damage have been linked causally to reductions in herbivore performance under laboratory conditions. Application of jasmonic acid, a natural elicitor of these defensive proteins, to tomato foliage stimulates induced responses to herbivory.
+
+3. Jasmonic acid was sprayed on plants in three doses to generate plants with varying levels of induced responses, which were measured as increases in the activities of proteinase inhibitors and polyphenol oxidase.
+
+4. Field experiments conducted over 3\hspace{1em}years indicated that induction of these defensive proteins is associated with decreases in the abundance of all four naturally abundant herbivores, including insects in three feeding guilds, caterpillars, flea beetles, aphids, and thrips. Induced resistance killed early instars of noctuid caterpillars. Adult flea beetles strongly preferred control plants over induced plants, and this effect on host plant preference probably contributed to differences in the natural abundance of flea beetles.
+
+5. The general nature of the effects observed in this study suggests that induced resistance will suppress many members of the herbivore community. By linking plant biochemistry, insect preference, performance, and abundance, tools can be developed to manipulate plant resistance sensibly and to predict its outcome under field conditions.},
+  doi       = {10.1046/j.1365-2311.2001.00324.x},
+  publisher = {Wiley},
+}
+
 @Article{Tholl2006,
   author    = {Tholl, Dorothea and Boland, Wilhelm and Hansel, Armin and Loreto, Francesco and R{\"{o}}se, Ursula S. R. and Schnitzler, J{\"{o}}rg-Peter},
   journal   = {The Plant Journal},
@@ -4758,6 +5257,13 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   volume    = {45},
   doi       = {10.1111/j.1365-313x.2005.02612.x},
   publisher = {Wiley},
+}
+
+@Book{Thompson2009,
+  author    = {Thompson, John N.},
+  publisher = {University of Chicago press},
+  title     = {The coevolutionary process},
+  year      = {2009},
 }
 
 @Article{Tieman2010,
@@ -4784,6 +5290,21 @@ Impressions: Cryptic spp. make this model overestimate, also: humans primary sou
   month     = dec,
   doi       = {10.1094/pdis.2000.84.12.1344c},
   publisher = {Scientific Societies},
+}
+
+@Article{Titley2017,
+  author    = {Titley, Mark A. and Snaddon, Jake L. and Turner, Edgar C.},
+  journal   = {{PLOS} {ONE}},
+  title     = {Scientific research on animal biodiversity is systematically biased towards vertebrates and temperate regions},
+  year      = {2017},
+  month     = dec,
+  number    = {12},
+  pages     = {e0189577},
+  volume    = {12},
+  abstract  = {Over the last 25 years, research on biodiversity has expanded dramatically, fuelled by increasing threats to the natural world. However, the number of published studies is heavily weighted towards certain taxa, perhaps influencing conservation awareness of and funding for less-popular groups. Few studies have systematically quantified these biases, although information on this topic is important for informing future research and conservation priorities. We investigated: i) which animal taxa are being studied; ii) if any taxonomic biases are the same in temperate and tropical regions; iii) whether the taxon studied is named in the title of papers on biodiversity, perhaps reflecting a perception of what biodiversity is; iv) the geographical distribution of biodiversity research, compared with the distribution of biodiversity and threatened species; and v) the geographical distribution of authors{\textquoteright} countries of origin. To do this, we used the search engine Web of Science to systematically sample a subset of the published literature with {\textquoteleft}biodiversity{\textquoteright} in the title. In total 526 research papers were screened---5% of all papers in Web of Science with biodiversity in the title. For each paper, details on taxonomic group, title phrasing, number of citations, study location, and author locations were recorded. Compared to the proportions of described species, we identified a considerable taxonomic weighting towards vertebrates and an under-representation of invertebrates (particularly arachnids and insects) in the published literature. This discrepancy is more pronounced in highly cited papers, and in tropical regions, with only 43% of biodiversity research in the tropics including invertebrates. Furthermore, while papers on vertebrate taxa typically did not specify the taxonomic group in the title, the converse was true for invertebrate papers. Biodiversity research is also biased geographically: studies are more frequently carried out in developed countries with larger economies, and for a given level of species or threatened species, tropical countries were understudied relative to temperate countries. Finally, biodiversity research is disproportionately authored by researchers from wealthier countries, with studies less likely to be carried out by scientists in lower-GDP nations. Our results highlight the need for a more systematic and directed evaluation of biodiversity studies, perhaps informing more targeted research towards those areas and taxa most depauperate in research. Only by doing so can we ensure that biodiversity research yields results that are relevant and applicable to all regions and that the information necessary for the conservation of threatened species is available to conservation practitioners.},
+  doi       = {10.1371/journal.pone.0189577},
+  editor    = {Bernd Schierwater},
+  publisher = {Public Library of Science ({PLoS})},
 }
 
 @Article{Togashi2019,
@@ -4989,14 +5510,31 @@ It has been observed that the flowers of A. phanluongii Vislobokov are visited b
   publisher = {Microbiology Society},
 }
 
+@Article{Walling2000,
+  author    = {Walling, Linda L.},
+  journal   = {Journal of Plant Growth Regulation},
+  title     = {The myriad plant responses to herbivores},
+  year      = {2000},
+  month     = jun,
+  number    = {2},
+  pages     = {195--216},
+  volume    = {19},
+  doi       = {10.1007/s003440000026},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
 @Book{Walter2013,
-  title     = {Mites: ecology, evolution \& behaviour},
-  publisher = {Springer-Verlag GmbH},
-  year      = {2013},
   author    = {Walter, David Evans and Proctor, Heather C.},
+  publisher = {Springer-Verlag GmbH},
+  title     = {Mites: ecology, evolution \& behaviour},
+  year      = {2013},
   isbn      = {9400771630},
+  month     = oct,
+  abstract  = {More than 40,000 species of mites have been described, and up to 1 million may exist on earth. These tiny arachnids play many ecological roles including acting as vectors of disease, vital players in soil formation, and important agents of biological control. But despite the grand diversity of mites, even trained biologists are often unaware of their significance. Mites: Ecology, Evolution and Behaviour (2\textsuperscript{nd} edition) aims to fill the gaps in our understanding of these intriguing creatures. It surveys life cycles, feeding behaviour, reproductive biology and host-associations of mites without requiring prior knowledge of their morphology or taxonomy. Topics covered include evolution of mites and other arachnids, mites in soil and water, mites on plants and animals, sperm transfer and reproduction, mites and human disease, and mites as models for ecological and evolutionary theories.},
+  comment   = {One of the few textbooks I read from cover to cover during my PhD},
   date      = {2013-10-31},
   ean       = {9789400771635},
+  pagetotal = {508},
   url       = {https://www.ebook.de/de/product/20725813/david_evans_walter_heather_c_proctor_mites_ecology_evolution_behaviour.html},
 }
 
@@ -5062,6 +5600,33 @@ general and T. ludeni population forecast and precise timing of pest management 
   publisher = {Systematic and Applied Acarology Society},
 }
 
+@Article{Wergin2006,
+  author    = {Wergin, William P. and Ochoa, Ronald and Erbe, Eric F. and Craemer, Charnie and Raina, Ashok K.},
+  journal   = {Scanning},
+  title     = {Use of low-temperature field emission scanning electron microscopy to examine mites},
+  year      = {2006},
+  month     = dec,
+  number    = {3},
+  pages     = {145--155},
+  volume    = {22},
+  abstract  = {Partly because mites are microscopic in size and fragile in nature, acarologists estimate that less than five percent of extant species have been taxonomically described. Recently, data from conventional scanning electron microscopy (SEM) have been used to facilitate the descriptions and complement the information that has been historically obtained with the light microscope. However, the conventional preparation techniques associated with SEM frequently prevent or compromise the results. This study evaluated the use of low-temperature field emission SEM to image mites and their hosts. Results indicated that a modified cryofixation procedure, which was associated with this technique, retained the mites at their living/feeding sites in natural behavioral positions. Furthermore, the turgor of the specimens, even eggs and soft-bodied species, was also maintained. The structure and orientation of delicate structures such as setae, which would be subjected to mechanical damage during conventional chemical fixation, dehydration, and drying, were also preserved after cryofixation. Field emission SEM, which provided useful magnification beyond that attainable with a conventional SEM, also enabled resolution of ultrastructural features, such as tenent hairs on the empodium and pores on the dorsal surface that had not previously been observed. These advantages indicate that the low-temperature field emission SEM can provide important structural data that can be used to study the anatomy, morphology, and bioecology of mites.},
+  doi       = {10.1002/sca.4950220301},
+  publisher = {Wiley},
+}
+
+@InBook{Westphal1996,
+  author    = {Westphal, E. and Manson, D. C. M.},
+  chapter   = {Stylar feeding injury and control of eriophyoid mites in citrus},
+  editor    = {Lindquist, E. E. and Bruin, J. and Sabelis, M. W.},
+  pages     = {231--250},
+  publisher = {Elsevier},
+  title     = {Eriophyoid mites. Their biology, natural enemies, and control},
+  year      = {1996},
+  isbn      = {9780444886286},
+  series    = {World crop pests},
+  volume    = {6},
+}
+
 @Article{Whitmoyer1972,
   author    = {Whitmoyer, Robert E. and Nault, L. R. and Bradfute, O. E.},
   title     = {Fine structure of {\textit{Aceria tulipae}} {({Acarina}: {Eriophyidae})}},
@@ -5094,6 +5659,15 @@ general and T. ludeni population forecast and precise timing of pest management 
   journal = {Amercian Rose},
   year    = {2014},
   pages   = {56--62},
+}
+
+@Book{Woolley1988,
+  author    = {Woolley, Tyler},
+  publisher = {Wiley},
+  title     = {Acarology : mites and human welfare},
+  year      = {1988},
+  address   = {New York},
+  isbn      = {0471041688},
 }
 
 @Article{Young2007,
@@ -5169,6 +5743,45 @@ general and T. ludeni population forecast and precise timing of pest management 
   month     = jul,
   doi       = {10.1006/pmpp.2001.0343},
   publisher = {Elsevier {BV}},
+}
+
+@Book{Schuster1991,
+  editor    = {Schuster, Reinhart and Murphy, Paul W.},
+  publisher = {Chapman \& Hall},
+  title     = {The acari : reproduction, development, and life-history strategies},
+  year      = {1991},
+  address   = {London New York},
+  isbn      = {0412360705},
+}
+
+@Book{Lindquist1996,
+  editor    = {Lindquist, E. E. and Bruin, J. and Sabelis, M. W.},
+  publisher = {Elsevier},
+  title     = {Eriophyoid mites. Their biology, natural enemies, and control},
+  year      = {1996},
+  isbn      = {9780444886286},
+  series    = {World crop pests},
+  volume    = {6},
+}
+
+@Book{Raman2005,
+  editor    = {Raman, Anantanarayanan and Schaefer, Carl Walter and Withers, Toni M.},
+  publisher = {Science Publishers Enfield},
+  title     = {Biology, ecology, and evolution of gall-inducing arthropods},
+  year      = {2005},
+  volume    = {1},
+}
+
+@Book{Ciancio2007,
+  editor    = {Ciancio, A. and Mukerji, K. G.},
+  publisher = {Springer Netherlands},
+  title     = {General concepts in integrated pest and disease management},
+  year      = {2007},
+  isbn      = {1402060602},
+  month     = aug,
+  ean       = {9781402060601},
+  pagetotal = {376},
+  url       = {https://www.ebook.de/de/product/6740472/general_concepts_in_integrated_pest_and_disease_management.html},
 }
 
 @Book{Ueckermann2010,

@@ -1,6 +1,6 @@
 ---
 title: "For submission to the Journal of Integrated Pest Management"
-subtitle: "Category: 'Brief Communications'"
+subtitle: "Category: 'Issues'"
 output: 
   word_document:
     reference_docx: ../r-word-templates/word-template-jis.docx
