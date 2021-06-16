@@ -146,14 +146,14 @@ Please use “orchid fleck virus (OFV)” when describing a physical virus, and 
 
 **We have adjusted some wording, organization, and grammar of the manuscript in an attempt to aid clarity and accuracy. We also reviewed and corrected some citations.**
 
-**We rewrote the sections describing sampling methods and diagnostics in the abstract and main text. Both samples from Leon County and Alachua were found to be positive for OFV; only samples from Leon were examined for mites. We have removed the claim that the virus is widespread.**
+**We rewrote the sections describing sampling methods and diagnostics in the abstract and main text. Both samples from Leon County and Alachua were found to be positive for OFV; only samples from Leon were examined for mites. We have removed the claim that the virus is widespread, and added a section on control as requested.**
 
 Specific Edits: 
 
 - Added discussion on why OFV has not been reported in nearby citrus.
 - We have removed all references to cileviruses
 - We have corrected inconsistencies with taxonomic authorities
-- We have not added a discussion of potential control measures due to word limits, and lack of specific documentation regarding control methods/chemical applications for these specific ornamental plants.
+- We have added a discussion of potential control measures for these mites
 
 Also: 
 L33: “Orchid fleck virus (OFV) is a dichorhavirus that infects over 50 plant species belonging to the families Asparagaceae, Orchidaceae, and Rutaceae.  The only known vectors for…” $\rightarrow$ **rewritten**
