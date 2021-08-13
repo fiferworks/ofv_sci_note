@@ -31,7 +31,7 @@ citef <- pryr::partial(fig_nums, display = "cite")
 citet <- pryr::partial(tab_nums, display = "cite")
 ```
 
-### *Brevipalpus*-transmitted (Trombidiformes: Tenuipalpidae) orchid fleck virus infecting three new ornamental hosts in Florida
+### *Brevipalpus*-transmitted orchid fleck virus infecting three new ornamental hosts in Florida
 
 Austin **Fife**^1^, Daniel **Carrillo**^2^, Gary **Knox**^3^, Fanny **Iriarte**^4^, Kishore **Dey**^5^, Avijit **Roy**^6^, Ronald **Ochoa**^7^, Gary **Bauchan**^8^$\dagger$, Mathews **Paret**^4,9^, Xavier **Martini**^1^\*
 
@@ -74,6 +74,19 @@ Two orchid-infecting strains of OFV were detected via combinations of convention
 Three potential mite vectors were identified via cryo-scanning electron microscopy (Cryo-SEM): *Brevipalpus californicus* (Banks) sensu lato, *B. obovatus* Donnadieu, and *B. confusus* Baker.
 
 In conclusion, OFV is present in northern Florida, representing a risk for susceptible plants in the southeastern US.
+
+<!-- Spanish Abstract -->
+### Resumen
+
+Se describe la primera detección del virus de orchid fleck virus, lo cual pertenece al subgrupo que infecta a las orquídeas (OFV-Orc), infectando a tres huéspedes no reportados: *Liriope muscari*, cv. 'Gigantea' (Decaisne) Bailey, *Ophiopogon intermedius* Don and *Aspidistra elatior* Blume (Asparagaceae: Nolinoidaea) por los condados de Leon y Alachua, FL. Las cepas del OFV-Orc se puedan infectar más que 50 especies de plantas pertenecientes a las familias Orchidaceae, Asparagaceae (Nolinoidaea), y infecta *Citrus* (Rutaceae) cómo la enfermedad leprosis de los cítricos. Los únicos vectores de OFV-Orc son los falsos ácaros tetraníquidos *Brevipalpus californicus* (Banks) *sensu lato* (Trombidiformes: Tenuipalpidae). La Florida tiene varias plantas en el paisaje, por lo cúales las especias de *Brevipalpus* se puedan alimentarse, y esas plantas son susceptibles a las infecciones de OFV-Orc.
+Se observaron manchas anulares cloróticas y salpicaduras por las hojas de las Serpentinas (*Liriope* y *Ophiopogon* spp.) y también se vieron hojas cloróticas del *A. elatior* adyacente, situado en el condando de Leon, FL. Los diagnósticos del laboratorio local fueron negativos para los patógenos comunes, por lo tanto, se enviaron nuevos ejemplares del tejido de las plantas al Florida Department of Agriculture and Consumer Services (FDACS) y al USDA-ARS para su identificación. 
+
+Se detectaron dos cepas del OFV mediante la combinación de RT-PCR convencional, RT-qPCR, secuenciación de Sanger y secuenciación de alto rendimiento. Los amplicones compartían una identidad de nucleótidos del 98% con las secuencias del genoma de ARN2 de OFV-Orc1 y OFV-Orc2 disponibles en el NCBI GenBank. Se observaron coinfecciones del virus en cada condado, pero se observaron cepas únicas de OFV-Orc en *L. muscari* (Alachua , OFV-Orc2) y *A. elatior* (Leon , OFV-Orc1).
+
+Se identificaron tres ácaros mediante microscopía electrónica de barrido criogénico (Cryo-SEM) con potencial de ser vectores: *Brevipalpus californicus* (Banks) *sensu lato*, *B. obovatus* Donnadieu y *B. confusus* Baker. 
+En conclusión, OFV está presente en el norte de Florida, lo que representa un riesgo para las plantas susceptibles en el sureste de Estados Unidos.
+
+
 
 ### Keywords:
 False spider mite, flat mite, *Brevipalpus*-transmitted viruses, *Liriope*, Nolinoidaea, *Ophiopogon*, *Aspidistra*, Ruscaceae, Rutaceae, Asparagaceae, orchid, Orchidaceae, pests, ornamental plants, orchid fleck virus.
