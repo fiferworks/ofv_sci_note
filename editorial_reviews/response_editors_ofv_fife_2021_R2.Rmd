@@ -1,0 +1,179 @@
+---
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+28-Jul-2021
+
+Dear Mr. Fife,
+
+Manuscript ID JIPM-2021-0034.R1 entitled "First report of the <i>Brevipalpus</i>-transmitted (Trombidiformes: Tenuipalpidae) <i>Orchid fleck dichorhavirus</i> infecting three ornamentals in Florida" which you submitted to the Journal of Integrated Pest Management, has been reviewed.  The comments of the reviewer(s) are included at the bottom of this letter.
+
+The reviewer(s) have recommended publication, but also suggest some minor revisions to your manuscript.  Therefore, I invite you to respond to the reviewer(s)' comments and submit a revised version of your manuscript.
+
+Your revised manuscript should be uploaded within 30 days. Please let us know if you will require an extension. The due date is 27-Aug-2021.
+
+To revise your manuscript, log into [hyperlink removed] and enter your Author Centre, where you will find your manuscript title listed under "Manuscripts with Decisions."  Under "Actions," click on "Create a Revision."  Your manuscript number has been appended to denote a revision.
+
+You may also click the below link to start the revision process.
+
+*** PLEASE NOTE: This is a two-step process. After clicking on the link, you will be directed to a webpage to confirm. ***
+
+[hyperlink removed]
+
+Manuscript revision instructions
+- Please ensure your paper follows journal style and requirements as listed in the instructions to authors: [hyperlink removed]
+
+- Please highlight the changes to your manuscript within the document by using the track changes mode in MS Word or by using bold or colored text. Please also include a point-by-point response to reviews as well as a clean version (non-track changes version) of the paper.
+- If your paper was created in LaTeX, please upload the PDF along with the tex files.
+- Please delete any outdated files (e.g., the original manuscript, any outdated figures, etc.) before uploading the revised files.
+- Figures should be submitted as separate files and not inserted into the main document. Figures should be submitted as at least 300 dpi (600 dpi for line graphs) and in one of the following file types: tif, eps, rtf, ppt/pptx, xls/xlsx, editable PDF, ps, psd, ai, gif, or png.
+
+Once again, thank you for submitting your manuscript to the Journal of Integrated Pest Management and I look forward to receiving your revision.
+
+
+Sincerely,
+Dr. Nathan Walker
+Subject Editor, Journal of Integrated Pest Management
+nathan.walker\@okstate.edu
+ESA Editorial Office: 3 Park Place, Suite 307, Annapolis, MD 21401-3722, USA. Editorial Office Phone: 1-301-731-4535.
+
+
+\newpage
+
+**Response to Decision Letter from the authors:**
+
+**We are grateful for your willingness to review the manuscript a second time.**
+
+**This second revision attempts to add missing technical information regarding virus isolates and accession numbers.**
+
+**Thank you for your assistance,**
+
+**-- The Authors**
+ 
+\newpage
+
+Reviewer(s)' Comments to Author:
+
+**Reviewer: 3**
+
+Comments to the Author
+TThe manuscript reports new hosts for a known virus in a limited geographic region – northern Florida. In my opinion, it should be published as a disease note instead of a short communication in an IPM-related journal. The discussion on management is not in depth and, in fact, is often speculative.
+Several methods are used to identify the OFV strains, but there is no discussion on them at all. The discussion on the mite vector is highly inaccurate and misleading. There is no transmission tests, and the authors state in lines 226-228 that *B. californicus* and *B. yothersi* are known vectors of OFV, while only the first one transmits the virus. The two references cited in the text to support the authors´ statement (García-Escamilla et al., 2018 and Beltran-Beltran et al. 2020) clearly show that both mite species acquire OFV, but no transmission was obtained.
+
+Other minor edits or comments are:
+
+- Title, lines 33, 106, 116 etc. – The common name of the virus (as pathogen) should not be written in italics. It should be used orchid fleck virus. For more detailed information, access the ICTV homepage on “how to write a virus name”
+
+- Line 39 – Brevipalpus californicus
+
+- 47 – orchid (lowercase)
+
+- Lines – 53 and 54 – other species are not reported as vectors of OFV
+
+- Line 62 – Orchid fleck dichorhavirus (in italics) is the scientific name of the virus, whereas orchid fleck virus (with lowercase) is the common name of the virus. This confusion has been made in several places of the manuscript. They are not the same thing.
+
+- Lines 67 -69 – This sentence is not accurate. There are reports of Dr. Kitajima´s group and Dr. Freitas-Astúa´s group suggesting replication of other dichorhaviruses in their *B. yothersi* and *B. phoenicis* vectors due to the identification of viroplasmas in mite cells.
+
+- Lines 97-98 – cucumber mosaic virus and tobacco mosaic virus (lowercase and not italics)
+The paragraph that starts in line 99 has 4 times the words collect, collected, or collection. Please rephrase it.
+
+- Line 108 – The citation of references Kubo et al. 2006a and 2006b (mistakenly mentioned as Kubo 2006a and 2006b) are not necessary, as they refer to abstracts published in scientific meetings. The complete article bringing the information presented in the abstracts were published, and correctly cited in the manuscript, in 2009a and 2009b.
+
+- Line 109 – Add comma to “subgroup 1, OFV-Orc, was… “
+
+- Line 115 – eliminate “in sequence”
+
+- Lines 178-179: the authors mention that “*B. californicus* are often collected from citrus rinds” and cite two supporting references from 1949 and from 1987. Are there newer references to support this statement?
+
+- Line 189 – substitute citrus leprosis virus N by OFV, unless the authors mean the CiLV-N reported in Brazil by Ramos-González et al. (2017). This sentence is confusing and needs to be re-written. There seems to have, indeed, virus-vector specificity among BTV, but there are reports of one vector species transmitting more than one virus (examples are B. yothersi transmitting the dichorhaviruses clerodendrum chlorotic spot virus and coffee ringspot virus, and the cileviruses citrus leprosis virus C, CiLV-C2 and passion fruit green spot virus). On the other hand, so far OFV has been reported exclusively with *B. californicus* – and that should be very clear in the manuscript, which suggests that *B. obovatus* and *B. confusus* could transmit OFV.
+
+- Line 227 – *B. yothersi* is a vector of other dichorhaviruses, but not of OFV.
+- Fig. 4: Why do the authors suggest that *B. phoenicis*, *B. yothersi* and *B. obovatus* are potencial vectors of OFV? They can transmit other dichorhaviruses (not cited in the manuscript), but neither the authors have addressed that in this manuscript, nor it is suggested elsewhere.
+
+**Response to Reviewer 3:**
+**Thank you for reviewing our article. We have made the following changes based on your remarks:**
+
+**The authors respectfully disagree with publishing the current MS as a 'Disease Note': Disease Notes do not have provisions for identification of arthropods, nor does it allow inclusion of figures, or acknowledgments. The work presented is multidisciplinary and collaborative in nature, which requires acknowledgment of assistance given by state and governmental agencies. Furthermore, the authors consider the figures to be a vital part of this MS, due to their unique characteristics which differ from OFV symptoms in other plants. Instead, we believe that our MS would be of benefit to JIPM's audience by raising awareness and highlighting the 'known unknowns' surrounding this understudied mite-plant-pathosystem.**
+
+**Our cursory treatment of methodology is primarily due to their more complete treatment in the cited references. We revised portions of the MS which implied that *B. phoenicis*, *B. yothersi* and *B. obovatus* may be vectors of OFV.**
+
+Specific Edits: 
+
+ - Corrected improper usage of the common name of viruses $\rightarrow$ **fixed italics**
+ 
+ - Line 39 – *Brevipalpus californicus* $\rightarrow$ **fixed**
+ 
+ - 47 – orchid (lowercase) $\rightarrow$ **fixed case**
+ 
+ - Lines – 53 and 54 – other species are not reported as vectors of OFV $\rightarrow$ **corrected**
+ 
+ - Lines 67 -69 – This sentence is not accurate. There are reports of Dr. Kitajima´s group and Dr. Freitas-Astúa´s group suggesting replication of other dichorhaviruses in their *B. yothersi* and *B. phoenicis* vectors due to the identification of viroplasmas in mite cells. $\rightarrow$ **fixed**
+ 
+ - Lines 97-98 – cucumber mosaic virus and tobacco mosaic virus (lowercase and not italics) $\rightarrow$ **fixed**
+ 
+ - The paragraph that starts in line 99 has 4 times the words collect, collected, or collection. Please rephrase it. $\rightarrow$ **rewrote**
+ 
+ - Line 108 – The citation of references Kubo et al. 2006a and 2006b (mistakenly mentioned as Kubo 2006a and 2006b) are not necessary, as they refer to abstracts published in scientific meetings. The complete article bringing the information presented in the abstracts were published, and correctly cited in the manuscript, in 2009a and 2009b. $\rightarrow$ **removed unnecessary citations**
+ 
+ - Line 109 – Add comma to “subgroup 1, OFV-Orc, was… “ $\rightarrow$ **fixed**
+ 
+ - Line 115 – eliminate “in sequence” $\rightarrow$ **fixed**
+ 
+ - Lines 178-179: the authors mention that “*B. californicus* are often collected from citrus rinds” and cite two supporting references from 1949 and from 1987. Are there newer references to support this statement? $\rightarrow$ **added modern references**
+ 
+ -  Line 189 – substitute citrus leprosis virus N by OFV, unless the authors mean the CiLV-N reported in Brazil by Ramos-González et al. (2017). This sentence is confusing and needs to be re-written. There seems to have, indeed, virus-vector specificity among BTV, but there are reports of one vector species transmitting more than one virus (examples are B. yothersi transmitting the dichorhaviruses clerodendrum chlorotic spot virus and coffee ringspot virus, and the cileviruses citrus leprosis virus C, CiLV-C2 and passion fruit green spot virus). On the other hand, so far OFV has been reported exclusively with *B. californicus* – and that should be very clear in the manuscript, which suggests that *B. obovatus* and *B. confusus* could transmit OFV. $\rightarrow$ **removed sentences implying other mite spp. could transmit OFV**
+ 
+ - Line 227 – *B. yothersi* is a vector of other dichorhaviruses, but not of OFV. $\rightarrow$ **fixed**
+ 
+ - Fig. 4: Why do the authors suggest that *B. phoenicis*, *B. yothersi* and *B. obovatus* are potencial vectors of OFV? They can transmit other dichorhaviruses (not cited in the manuscript), but neither the authors have addressed that in this manuscript, nor it is suggested elsewhere. $\rightarrow$ **fixed in text, removed figure**
+
+
+**Reviewer: 2**
+
+Comments to the Author
+The authors improved the manuscript, and it is providing important original information.
+My only suggestion at this point would be that the authors deposit and include GenBank accession number(s) for the identified virus isolates in Florida. New reports of viruses required that or two other alternative methods for viral detection.
+
+**Response to Reviewer 2:**
+**Thank you for reviewing our article. We have made the following changes based on your remarks:**
+
+**Thank you for your time, we added GenBank accession numbers for the virus isolates**
+
+
+**Reviewer: 4**
+
+Comments to the Author
+This article represents a somewhat odd mix of limited original data (symptom and mite observations on ornamental hosts, and some diagnostic assays) and perspectives & review on orchid fleck virus and its potential threats to ornamental and citrus industries. The responses to reviewers 1 and 2 have significantly improved the manuscript, but some important issues remain to be addressed by the authors.
+
+1. Considering the above, the title of the article does not reflect its contents and should be revised, ie. it goes beyond the first report of OFV in previously unknown hosts in Florida.
+2. The authors should refer to “orchid fleck virus” or OFV throughout the manuscript. Orchid fleck dichorhavirus is a taxonomic entity that does not exist in nature. Unlike the virus OFV, it does not have strains, does not cause symptoms, does not have a genome and cannot be transmitted. L62 sentence should be revised since the taxonomic classification and the virus are not the same thing.
+3. Finding OFV in some symptomatic plant samples does not constitute an “outbreak” (L33) and overstates the data.
+4. The authors should more clearly differentiate between strains and isolates; the way the article is written, it appears that each of their isolates is/represents a strain which is likely incorrect.
+5. L68: …only mites which have been experimentally shown to do so …
+6. L97-98: by convention, virus names must be written in lower case and without italics
+7. L118: mention how much OPFV-Orc1 and -Orc2 differ at the nucleotide level
+8. L224: highlights the potential threat …
+9. L473: add the Doi number for this publication
+10. Table 1: title: “verified cases of orchid fleck virus collected …”. Were isolates of both strains identified in all hosts? Please clarify in the last column.
+11. Fig. 4: this reads like the heading for a review figure. How is this data related to the research reported here? What are the sources of the micrographs? Mention this in the legend.
+
+**Response to Reviewer 4:**
+**Thank you for reviewing our article. We have made the following changes based on your remarks:**
+
+**We have revised the title as advised to the following: '*Brevipalpus*-transmitted orchid fleck virus infecting three new ornamental hosts in Florida.'**
+
+1. Considering the above, the title of the article does not reflect its contents and should be revised, ie. it goes beyond the first report of OFV in previously unknown hosts in Florida. $\rightarrow$ **renamed**
+2. The authors should refer to “orchid fleck virus” or OFV throughout the manuscript. Orchid fleck dichorhavirus is a taxonomic entity that does not exist in nature. Unlike the virus OFV, it does not have strains, does not cause symptoms, does not have a genome and cannot be transmitted. L62 sentence should be revised since the taxonomic classification and the virus are not the same thing. $\rightarrow$ **corrected improper italicization of virus names**
+3. Finding OFV in some symptomatic plant samples does not constitute an “outbreak” (L33) and overstates the data. $\rightarrow$ **removed statement**
+4. The authors should more clearly differentiate between strains and isolates; the way the article is written, it appears that each of their isolates is/represents a strain which is likely incorrect. $\rightarrow$ **corrected to 'isolates'**
+5. L68: …only mites which have been experimentally shown to do so … $\rightarrow$ **fixed**
+6. L97-98: by convention, virus names must be written in lower case and without italics $\rightarrow$ **fixed**
+7. L118: mention how much OPFV-Orc1 and -Orc2 differ at the nucleotide level $\rightarrow$ **added description of differences**
+8. L224: highlights the potential threat … $\rightarrow$ **fixed**
+9. L473: add the Doi number for this publication $\rightarrow$ **added DOIs**
+10. Table 1: title: “verified cases of orchid fleck virus collected …”. Were isolates of both strains identified in all hosts? Please clarify in the last column. $\rightarrow$ **Isolates of both strains were found in the majority of plants sampled, but there were a few plants without coinfection. Reworded**
+11. Fig. 4: this reads like the heading for a review figure. How is this data related to the research reported here? What are the sources of the micrographs? Mention this in the legend. $\rightarrow$ **removed**
