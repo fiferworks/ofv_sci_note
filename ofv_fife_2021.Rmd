@@ -146,7 +146,7 @@ We would like to give special thanks for the Tallahassee Museum and their patien
 
 
 ### Figure captions
-`r fig_nums(name = "fig_1", caption = "Variety of symptoms expressed by *Liriope* spp. infected with orchid fleck virus: (a) ringspot symptoms on *Liriope muscari* cv. 'Gigantea' (b-c) Details of ringspot symptoms on *L. muscari* cv. 'Gigantea' (d) rust colored spots on *Ophiopogon intermedius*")`
+`r fig_nums(name = "fig_1", caption = "Variety of symptoms expressed by *Liriope* spp. infected with orchid fleck virus (OFV): (a) ringspot symptoms on *Liriope muscari* cv. 'Gigantea' (b-c) Details of ringspot symptoms on *L. muscari* cv. 'Gigantea' (d) rust colored spots on *Ophiopogon intermedius*")`
 
 `r fig_nums(name = "fig_2", caption = "Symptoms expressed by *Aspidistra elatior* infected with OFV: (a) Detail of leaf chlorosis (b) Chlorosis appears similar to sun damage (c-d) Chlorotic ringspot may indicate early symptoms of OFV")`
 
