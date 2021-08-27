@@ -69,7 +69,7 @@ We describe the first detection of orchid fleck virus (OFV) infecting three unre
 
 Chlorotic ringspots and flecking were seen affecting Liriopogons (*Liriope* and *Ophiopogon* spp.) in Leon County, FL. Nearby *A. elatior* also appeared chlorotic. Local diagnostics returned negative for common plant pathogens, therefore new samples were sent to the Florida Department of Agriculture and Consumer Services (FDACS) and USDA-ARS for identification.
 
-Two orchid-infecting strains of OFV were detected via combinations of conventional RT-PCR, RT-qPCR, Sanger sequencing and High Throughput Sequencing (HTS). Amplicons shared 98% nucleotide identity with OFV-Orc1 and OFV-Orc2 RNA2 genome sequences available in NCBI GenBank. Coinfections were seen in each county, but single strains of OFV-Orc were seen in *L. muscari* (Alachua, OFV-Orc2) and *A. elatior* (Leon, OFV-Orc1).
+Two orchid-infecting strains of OFV were detected via combinations of conventional RT-PCR, RT-qPCR, Sanger sequencing and High Throughput Sequencing (HTS). Amplicons shared 98\% nucleotide identity with OFV-Orc1 and OFV-Orc2 RNA2 genome sequences available in NCBI GenBank. Coinfections were seen in each county, but single strains of OFV-Orc were seen in *L. muscari* (Alachua, OFV-Orc2) and *A. elatior* (Leon, OFV-Orc1).
 
 Three potential mite vectors were identified via cryo-scanning electron microscopy (Cryo-SEM): *Brevipalpus californicus* (Banks) sensu lato, *B. obovatus* Donnadieu, and *B. confusus* Baker.
 
