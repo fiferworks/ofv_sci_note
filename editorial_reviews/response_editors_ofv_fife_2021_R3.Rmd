@@ -1,0 +1,83 @@
+07-Sep-2021
+
+Dear Mr. Fife,
+
+I have reviewed manuscript ID JIPM-2021-0034.R2 entitled "<i>Brevipalpus</i>-transmitted orchid fleck virus infecting three new ornamentals in Florida" which you submitted to the Journal of Integrated Pest Management.  My comments are included at the bottom of this letter.
+
+I suggest some minor revisions to your manuscript, I cannot accept it in it's current state and this will require you to submit a revised version of your manuscript.
+
+Your revised manuscript should be uploaded within 30 days. Please let us know if you will require an extension. The due date is 07-Oct-2021.
+
+To revise your manuscript, log into https://mc.manuscriptcentral.com/jipm and enter your Author Centre, where you will find your manuscript title listed under "Manuscripts with Decisions."  Under "Actions," click on "Create a Revision."  Your manuscript number has been appended to denote a revision.
+
+You may also click the below link to start the revision process.
+
+*** PLEASE NOTE: This is a two-step process. After clicking on the link, you will be directed to a webpage to confirm. ***
+
+[hyperlink removed]
+
+
+Manuscript revision instructions
+• Please ensure your paper follows journal style and requirements as listed in the instructions to authors: https://academic.oup.com/jipm/pages/Manuscript_Preparation
+• Please highlight the changes to your manuscript within the document by using the track changes mode in MS Word or by using bold or colored text. Please also include a point-by-point response to reviews as well as a clean version (non-track changes version) of the paper.
+• If your paper was created in LaTeX, please upload the PDF along with the tex files.
+• Please delete any outdated files (e.g., the original manuscript, any outdated figures, etc.) before uploading the revised files.
+• Figures should be submitted as separate files and not inserted into the main document. Figures should be submitted as at least 300 dpi (600 dpi for line graphs) and in one of the following file types: tif, eps, rtf, ppt/pptx, xls/xlsx, editable PDF, ps, psd, ai, gif, or png.
+
+Once again, thank you for submitting your manuscript to the Journal of Integrated Pest Management and I look forward to receiving your revision.
+
+
+Sincerely,
+Dr. Nathan Walker
+Subject Editor, Journal of Integrated Pest Management
+nathan.walker\@okstate.edu
+ESA Editorial Office: 3 Park Place, Suite 307, Annapolis, MD 21401-3722, USA. Editorial Office Phone: 1-301-731-4535.
+
+My Comments to Authors:
+
+Line 40 and throughout the manuscript, not needed hard returns are present and need to be removed.
+Lines 49-50 Coinfections were seen in each county, but single strains of OFV-Orc were seen in L. muscari – Can coinfections be seen? Can single strains be seen?  No, symptoms can be and coinfections are determined by analysis.
+The Spanish abstract addition is not warranted and I am confused why you added this at this late stage? The staff editors have suggested “So, my suggestion would be just to assume the other [English] abstract is ok.”.
+Line 91: ‘OFV is a bacilliform’, here and throughout, while not a big issue generally it is preferred that a sentence is not started with and acronym. Consider ‘The virus is a bacilliform’
+Line 94: are the only which have been- consider improving the wording
+Line 96: on the infected plant, remove infected
+Line 109: conditions to some plants belonging to the [plant] families, I think it is given these are plant families
+Lines 135 and 146 you use ‘nucleotide identity’ then you use ‘nt’, which is not defined and there is a typo in ‘wheras’
+Line 140: define “HTS”, just because I know what that is in English does not mean someone else will know what that is.
+Line 149: HTS results ‘for samples obtained’ from Leon County revealed that L. muscari
+Line 199: identical in gene order, content, and genome sequence – I think you mean genome sequence? I am not sure what is meant by gene order and content, it is an identical genome, correct?
+
+Please ensure all authors have reviewed the document.
+
+\newpage
+
+**Response to Decision Letter:**
+**This third revision addresses the minor errors described in the decision letter:**
+
+- Line 40 and throughout the manuscript, not needed hard returns are present and need to be removed. $\rightarrow$ removed hard returns
+
+- Lines 49-50 Coinfections were seen in each county, but single strains of OFV-Orc were seen in L. muscari – Can coinfections be seen? Can single strains be seen?  No, symptoms can be and coinfections are determined by analysis. $\rightarrow$ changed to 'detected'
+
+- The Spanish abstract addition is not warranted and I am confused why you added this at this late stage? The staff editors have suggested “So, my suggestion would be just to assume the other [English] abstract is ok.”.
+
+- Line 91: ‘OFV is a bacilliform’, here and throughout, while not a big issue generally it is preferred that a sentence is not started with and acronym. Consider ‘The virus is a bacilliform’ $\rightarrow$ moved acronyms from beginnings of sentences
+
+- Line 94: are the only which have been- consider improving the wording $\rightarrow$ changed to "Only Flat mites (Trombidiformes: Tenuipalpidae) from the genus *Brevipalpus* are known to transmit dichorhaviruses..."
+
+- Line 96: on the infected plant, remove infected $\rightarrow$ removed
+
+- Line 109: conditions to some plants belonging to the [plant] families, I think it is given these are plant families $\rightarrow$ removed redundancy
+
+- Lines 135 and 146 you use ‘nucleotide identity’ then you use ‘nt’, which is not defined and there is a typo in ‘wheras’ $\rightarrow$ clarified, 'nt' is a measurement of the amplicon $\rightarrow$ corrected to 'whereas'
+
+- Line 140: define “HTS”, just because I know what that is in English does not mean someone else will know what that is. $\rightarrow$ changed to "High Throughput Sequencing (HTS)"
+
+- Line 149: HTS results ‘for samples obtained’ from Leon County revealed that L. muscari $\rightarrow$ reworded
+
+- Line 199: identical in gene order, content, and genome sequence – I think you mean genome sequence? I am not sure what is meant by gene order and content, it is an identical genome, correct? $\rightarrow$ removed repeated content
+
+Please ensure all authors have reviewed the document.
+
+**Thank you for your time and patience,**
+
+**-- The Authors**
