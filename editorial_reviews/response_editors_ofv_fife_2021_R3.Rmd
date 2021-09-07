@@ -54,27 +54,27 @@ Please ensure all authors have reviewed the document.
 **Response to Decision Letter:**
 **This third revision addresses the minor errors described in the decision letter:**
 
-- Line 40 and throughout the manuscript, not needed hard returns are present and need to be removed. $\rightarrow$ removed hard returns
+- Line 40 and throughout the manuscript, not needed hard returns are present and need to be removed. $\rightarrow$ **removed hard returns**
 
-- Lines 49-50 Coinfections were seen in each county, but single strains of OFV-Orc were seen in L. muscari – Can coinfections be seen? Can single strains be seen?  No, symptoms can be and coinfections are determined by analysis. $\rightarrow$ changed to 'detected'
+- Lines 49-50 Coinfections were seen in each county, but single strains of OFV-Orc were seen in L. muscari – Can coinfections be seen? Can single strains be seen?  No, symptoms can be and coinfections are determined by analysis. $\rightarrow$ **changed to 'detected'**
 
-- The Spanish abstract addition is not warranted and I am confused why you added this at this late stage? The staff editors have suggested “So, my suggestion would be just to assume the other [English] abstract is ok.”.
+- The Spanish abstract addition is not warranted and I am confused why you added this at this late stage? The staff editors have suggested “So, my suggestion would be just to assume the other [English] abstract is ok.”. $\rightarrow$ **the authors added the Spanish abstract in order to be more inclusive of the Latin American researchers who study Orchid fleck virus and similar pathogens in the citrus-growing regions Mexico and South America. We believe that the abstract is in compliance with the directions described in the 'Language' section under 'Manuscript Preparation' for the Journal of Integrated Pest Management: https://academic.oup.com/jipm/pages/Manuscript_Preparation, which indicates that a "...A second abstract in a second language is permitted." The authors did not intend to cause concern by adding the abstract at a later stage of editing, because JIPM's Manuscript Preparation page says "Authors are responsible for the accuracy of non-English abstracts". The authors believe that our abstract will be found to be an accurate translation, faithful to the English version.**
 
-- Line 91: ‘OFV is a bacilliform’, here and throughout, while not a big issue generally it is preferred that a sentence is not started with and acronym. Consider ‘The virus is a bacilliform’ $\rightarrow$ moved acronyms from beginnings of sentences
+- Line 91: ‘OFV is a bacilliform’, here and throughout, while not a big issue generally it is preferred that a sentence is not started with and acronym. Consider ‘The virus is a bacilliform’ $\rightarrow$ **moved acronyms from beginnings of sentences**
 
-- Line 94: are the only which have been- consider improving the wording $\rightarrow$ changed to "Only Flat mites (Trombidiformes: Tenuipalpidae) from the genus *Brevipalpus* are known to transmit dichorhaviruses..."
+- Line 94: are the only which have been- consider improving the wording $\rightarrow$ **changed to "Only Flat mites (Trombidiformes: Tenuipalpidae) from the genus *Brevipalpus* are known to transmit dichorhaviruses..."**
 
 - Line 96: on the infected plant, remove infected $\rightarrow$ removed
 
-- Line 109: conditions to some plants belonging to the [plant] families, I think it is given these are plant families $\rightarrow$ removed redundancy
+- Line 109: conditions to some plants belonging to the [plant] families, I think it is given these are plant families $\rightarrow$ **removed redundancy**
 
-- Lines 135 and 146 you use ‘nucleotide identity’ then you use ‘nt’, which is not defined and there is a typo in ‘wheras’ $\rightarrow$ clarified, 'nt' is a measurement of the amplicon $\rightarrow$ corrected to 'whereas'
+- Lines 135 and 146 you use ‘nucleotide identity’ then you use ‘nt’, which is not defined and there is a typo in ‘wheras’ $\rightarrow$ **clarified, 'nt' is a measurement of the amplicon $\rightarrow$ corrected to 'whereas'**
 
-- Line 140: define “HTS”, just because I know what that is in English does not mean someone else will know what that is. $\rightarrow$ changed to "High Throughput Sequencing (HTS)"
+- Line 140: define “HTS”, just because I know what that is in English does not mean someone else will know what that is. $\rightarrow$ **changed to "High Throughput Sequencing (HTS)"**
 
-- Line 149: HTS results ‘for samples obtained’ from Leon County revealed that L. muscari $\rightarrow$ reworded
+- Line 149: HTS results ‘for samples obtained’ from Leon County revealed that L. muscari $\rightarrow$ **reworded**
 
-- Line 199: identical in gene order, content, and genome sequence – I think you mean genome sequence? I am not sure what is meant by gene order and content, it is an identical genome, correct? $\rightarrow$ removed repeated content
+- Line 199: identical in gene order, content, and genome sequence – I think you mean genome sequence? I am not sure what is meant by gene order and content, it is an identical genome, correct? $\rightarrow$ **removed repeated content**
 
 Please ensure all authors have reviewed the document.
 
