@@ -73,7 +73,7 @@ Please ensure all authors have reviewed the document.
 
 - Line 94: are the only which have been- consider improving the wording $\rightarrow$ **changed to "Only Flat mites (Trombidiformes: Tenuipalpidae) from the genus *Brevipalpus* are known to transmit dichorhaviruses..."**
 
-- Line 96: on the infected plant, remove infected $\rightarrow$ removed
+- Line 96: on the infected plant, remove infected $\rightarrow$ **removed**
 
 - Line 109: conditions to some plants belonging to the [plant] families, I think it is given these are plant families $\rightarrow$ **removed redundancy**
 
