@@ -85,7 +85,7 @@ Please ensure all authors have reviewed the document.
 
 - Line 199: identical in gene order, content, and genome sequence – I think you mean genome sequence? I am not sure what is meant by gene order and content, it is an identical genome, correct? $\rightarrow$ **removed repeated content**
 
-Please ensure all authors have reviewed the document.
+Please ensure all authors have reviewed the document. $\rightarrow$ **All authors have reviewed the document, some sections which implied that OFV may pose a risk to citrus were removed and/or reworded to avoid speculation, as per the request of the review board of one of the authors.**
 
 **Thank you for your time and patience,**
 
